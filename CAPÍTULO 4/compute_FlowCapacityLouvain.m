@@ -9,8 +9,8 @@
 % FULL MATLAB VERSION (SLOWER)
 %
 % Inputs : 
-% A : weight matrix directed (matriz de adyacencia dirigida)
-% I : interaction matrix (flow) (matriz de flujos)
+% AD : weight matrix directed (matriz de adyacencia dirigida)
+% ID : interaction matrix (flow) (matriz de flujos)
 % s : 1 = Recursive computation
 %   : 0 = Just one level computation
 % self : 1 = Use self weights
@@ -22,13 +22,13 @@
 % COMTY, estructura con la siguiente información por cada nivel i:
 %   COMTY.COM{i} : vector de IDs de comunidad (ordenados por tamaño)
 %   COMTY.SIZE{i} : vector con los tamaños de las comunidades
-%   COMTY.MOD(i) : modularidad de la partición con A
-%   COMTY.MOD_I(i) : modularidad de la partición con I
+%   COMTY.MOD(i) : modularidad de la partición con AD
+%   COMTY.MOD_I(i) : modularidad de la partición con ID
 %   COMTY.Niter(i) : número de iteraciones hasta convergencia
 
-function [COMTY, ending] = compute_FlowCapacityLouvain(A,I,alpha,s,self,debug,verbose)
-% A será la matriz de adyacencia dirigida
-% I será la matriz de las relaciones, considerada la matriz de flujo
+function [COMTY, ending] = compute_FlowCapacityLouvain(AD,ID,alpha,s,self,debug,verbose)
+% AD será la matriz de adyacencia dirigida
+% ID será la matriz de las relaciones, considerada la matriz de flujo
 
 if nargin < 1
   error('not enough argument'); % verificar que haya al menos un argumento
@@ -50,23 +50,23 @@ if nargin < 7
   verbose = 0; % valor por defecto: sin mensajes informativos
 end
 
-% A es la matriz de pesos, es asimetrica
+% AD es la matriz de pesos, es asimetrica
 % Inicialización
-S = size(A);       % tamaño de la matriz A (numFilas, numColumnas)
-N = S(1);          % número de nodos (filas de A)
+S = size(AD);       % tamaño de la matriz AD (numFilas, numColumnas)
+N = S(1);          % número de nodos (filas de AD)
 
 ddebug = 0;        % bandera para depuración profunda
 ending = 0;        % bandera que indica si se termina la ejecución
 
-AT = A';           % matriz traspuesta de A
-AS = A + A';       % matriz simétrica para encontrar vecinos
+AT = AD';           % matriz traspuesta de AD
+AS = AD + AD';       % matriz simétrica para encontrar vecinos
 
-IT = I';           % matriz traspuesta de flujos
+IT = ID';           % matriz traspuesta de flujos
 
 AS((N+1).*[0:N-1]+1) = 0; % pone a 0 la diagonal de la matriz simétrica
 
-m = sum(sum(A));     % suma total de pesos (número de aristas en A)
-m_I = sum(sum(I));   % suma total de flujos
+m = sum(sum(AD));     % suma total de pesos (número de aristas en A)
+m_I = sum(sum(ID));   % suma total de flujos
 
 Niter = 1;           % contador de iteraciones
 
@@ -79,19 +79,19 @@ if m==0 || N == 1 %cuando m==0 (todos los pesos valen 0, pues la suma de todos l
   return;
 end
 
-% Preparar variables de grado y suma para A
-Kin = sum(A);        % grado de entrada de cada nodo en A
-Kout = sum(AT);      % grado de salida de cada nodo en A
-SumTotin = sum(A);   % suma total de entradas por comunidad
+% Preparar variables de grado y suma para AD
+Kin = sum(AD);        % grado de entrada de cada nodo en AD
+Kout = sum(AT);      % grado de salida de cada nodo en AD
+SumTotin = sum(AD);   % suma total de entradas por comunidad
 SumTotout = sum(AT); % suma total de salidas por comunidad
-SumIn = diag(A);     % suma de pesos internos (diagonal de A)
+SumIn = diag(AD);     % suma de pesos internos (diagonal de AD)
 
 % Preparar variables equivalentes para la matriz de flujo I
-Kin_I = sum(I); %numero de aristas entrantes en i, es el grado in del nodo i
+Kin_I = sum(ID); %numero de aristas entrantes en i, es el grado in del nodo i
 Kout_I = sum(IT); %numero de aristas salientes en i, es el grado out del nodo i
-SumTotin_I = sum(I); %se inicializa de modo que SumTot(i) es e grado-in del nodo i, pero llevara el grado del cluster, se inicialia como el grado del nodo porque al empezar cada cluster tiene un solo nodo
+SumTotin_I = sum(ID); %se inicializa de modo que SumTot(i) es e grado-in del nodo i, pero llevara el grado del cluster, se inicialia como el grado del nodo porque al empezar cada cluster tiene un solo nodo
 SumTotout_I = sum(IT); %se inicializa de modo que SumTot(i) es e grado-out del nodo i, pero llevara el grado del cluster, se inicialia como el grado del nodo porque al empezar cada cluster tiene un solo nodo
-SumIn_I = diag(I);
+SumIn_I = diag(ID);
 
 % Inicializar comunidades: cada nodo en su propia comunidad
 COM = 1:S(1);         
@@ -121,15 +121,15 @@ while (gain == 1) % mientras haya ganancia de modularidad
     SumTotout_I(Ci) = SumTotout_I(Ci) - Kout_I(i);
     
     CNj1 = find(COM==Ci); % nodos en la misma comunidad original
-    SumIn(Ci) = SumIn(Ci) - sum(A(i,CNj1)) - sum(AT(i,CNj1)) - A(i,i);
-    SumIn_I(Ci) = SumIn_I(Ci) - sum(I(i,CNj1)) - sum(IT(i,CNj1)) - I(i,i);
+    SumIn(Ci) = SumIn(Ci) - sum(AD(i,CNj1)) - sum(AT(i,CNj1)) - AD(i,i);
+    SumIn_I(Ci) = SumIn_I(Ci) - sum(ID(i,CNj1)) - sum(IT(i,CNj1)) - ID(i,i);
 
     for j=1:length(NB)
       Cj = COM(NB(j));
       if (G(Cj) == 0)
         CNj = find(COM==Cj);
-        Ki_in = sum(A(i,CNj)) + sum(AT(i,CNj));
-        Ki_in_I = sum(I(i,CNj)) + sum(IT(i,CNj));
+        Ki_in = sum(AD(i,CNj)) + sum(AT(i,CNj));
+        Ki_in_I = sum(ID(i,CNj)) + sum(IT(i,CNj));
 
         G(Cj) = alpha*(Ki_in/m - (Kin(i)*SumTotout(Cj)+Kout(i)*SumTotin(Cj))/(m*m)) ...
               + (1-alpha)*(Ki_in_I/m_I - (Kin_I(i)*SumTotout_I(Cj)+Kout_I(i)*SumTotin_I(Cj))/(m_I*m_I));
@@ -148,11 +148,11 @@ while (gain == 1) % mientras haya ganancia de modularidad
 
     % Añadir nodo a nueva comunidad
     Ck = find(COM==Cnew);
-    SumIn(Cnew) = SumIn(Cnew) + sum(A(i,Ck)) + sum(AT(i,Ck));
+    SumIn(Cnew) = SumIn(Cnew) + sum(AD(i,Ck)) + sum(AT(i,Ck));
     SumTotin(Cnew) = SumTotin(Cnew) + Kin(i);
     SumTotout(Cnew) = SumTotout(Cnew) + Kout(i);
 
-    SumIn_I(Cnew) = SumIn_I(Cnew) + sum(I(i,Ck)) + sum(IT(i,Ck));
+    SumIn_I(Cnew) = SumIn_I(Cnew) + sum(ID(i,Ck)) + sum(IT(i,Ck));
     SumTotin_I(Cnew) = SumTotin_I(Cnew) + Kin_I(i);
     SumTotout_I(Cnew) = SumTotout_I(Cnew) + Kout_I(i);
 
@@ -166,8 +166,8 @@ while (gain == 1) % mientras haya ganancia de modularidad
   [C2 S2] = reindex_com(COM); % reindexar comunidades
   Nco = length(unique(COM));
   Nco2 = length(S2(S2>1));
-  mod = compute_modularity(COM,A);
-  mod_I = compute_modularity(COM,I);
+  mod = compute_modularity(COM,AD);
+  mod_I = compute_modularity(COM,ID);
   Niter = Niter + 1;
 end
 
@@ -176,14 +176,14 @@ Niter = Niter - 1;
 [COM COMSIZE] = reindex_com(COM);
 COMTY.COM{1} = COM;
 COMTY.SIZE{1} = COMSIZE;
-COMTY.MOD(1) = compute_modularity(COM,A);
-COMTY.MOD_I(1) = compute_modularity(COM,I);
+COMTY.MOD(1) = compute_modularity(COM,AD);
+COMTY.MOD_I(1) = compute_modularity(COM,ID);
 COMTY.Niter(1) = Niter;
 
 % Segunda fase: aplicar algoritmo a comunidades como supernodos
 if (s == 1)
-  Anew = A;
-  Inew = I;
+  Anew = AD;
+  Inew = ID;
   COMcur = COM;
   COMfull = COM;
   k = 2;
@@ -231,8 +231,8 @@ if (s == 1)
       [COMfull COMSIZE] = reindex_com(COMfull);
       COMTY.COM{k} = COMfull;
       COMTY.SIZE{k} = COMSIZE;
-      COMTY.MOD(k) = compute_modularity(COMfull,A);
-      COMTY.MOD_I(k) = compute_modularity(COMfull,I);
+      COMTY.MOD(k) = compute_modularity(COMfull,AD);
+      COMTY.MOD_I(k) = compute_modularity(COMfull,ID);
       COMTY.Niter(k) = COMt.Niter;
       Ind = (COMfull == COMTY.COM{k-1});
       if (sum(Ind) == length(Ind))
