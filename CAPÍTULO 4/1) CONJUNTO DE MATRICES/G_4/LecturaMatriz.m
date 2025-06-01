@@ -22,17 +22,17 @@ H = subgraph(G,nodeIDs);
 H=simplify(H);
 %plot(H)
 
-A= adjacency(H,'weighted') ;
+AD= adjacency(H,'weighted') ;
 
 
 %Obtención del flujo
 n_aux=size(H.Nodes);
 n=n_aux(1);
-I=zeros(n,n);
+ID=zeros(n,n);
 
 for i=1:n
     for j=i+1:n
-        I(i,j)=maxflow(H,i,j);
-        I(j,i)=maxflow(H,j,i);
+        ID(i,j)=maxflow(H,i,j);
+        ID(j,i)=maxflow(H,j,i);
     end
 end
