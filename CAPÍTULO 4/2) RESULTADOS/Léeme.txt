@@ -1,0 +1,1 @@
+Los archivos PDF incluidos muestran las particiones distintas (no repetidas) obtenidas mediante el algoritmo.
