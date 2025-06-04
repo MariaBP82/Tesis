@@ -1,1 +1,1 @@
-Los archivos de PDF (para G1, G2 y G3) y JPG (para G4) incluidos muestran las particiones distintas (no repetidas) obtenidas mediante el algoritmo.
+Los archivos de PDF (para G1, G2 y G3) y JPG (para G4) incluidos en las carpetas correspondientes, muestran las particiones distintas (no repetidas) obtenidas mediante el algoritmo.
