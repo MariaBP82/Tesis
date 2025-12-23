@@ -45,10 +45,15 @@ Cada capítulo incluye los scripts/notebooks necesarios para reproducir los expe
 
 Flujo típico:
 1. Instalar dependencias.
-2. Ejecutar el pipeline del capítulo (preprocesado → algoritmo(s) → evaluación).
+2. Ejecutar el pipeline del capítulo.
 3. Revisar resultados generados (tablas/figuras).
 
-*(Opcional: añade aquí instrucciones concretas de instalación/ejecución si ya tienes `requirements.txt` o `environment.yml`.)*
+*Para replicar los análisis, usa las siguientes versiones de software:*
+- Matlab: R2024a Update 4 (24.1.0.2628055)
+- R: Version 4.4.0
+- RStudio: 2024.04.1 (Build 748)
+- Python: 3.11.7
+- Jupyter Notebook: 7.0.8
 
 ## Cita
 
@@ -62,7 +67,7 @@ Si utilizas este repositorio o el contenido de la tesis en tu trabajo, por favor
   publisher = {Universidad Complutense de Madrid}
 }
 
-Este repositorio contiene por capítulos el código reproducible, los conjuntos de datos, y los resutlados presentados estructurados por capítulos. La tesis intenta abordar resolver problemas en el campo de la detección de comunidades. Concretamente aborda dos problemas en el caso de las redes dirigidas, un primer problema de resolver problemas de detección de comunidades donde el objetivo es obtenter grupos con una nueva definición de grupo, que es el flujo, y un segundo problema, cuyo objetivo es mejor el problema de detección de comunidades clásico basado en densidad y todo eso con dos metodologías distintas, primero adaptando un algoritmo y comparando sus resultados medidos con la función de calidad de modularidad clásica en ambos algoritmos, el adaptado y el previo. segundo, usando un preprocesamiento de matrices de entrada en algoritmos de detección de comunidades y comparando resultados sin preprocesar. Todo el trabajo mencionado haciendo uso de dos herramientas básicas, la medida borrosa del flujo (Flow Capacity Measure, FCM) y el grafo borroso extendido de flujo (Flow Extended Fuzzy Graph, FEFG). 
+
 
 ----------------------------------------------------
 Contenido del repositorio por Capítulos: 
@@ -81,11 +86,7 @@ clean_graph_data.csv: Pre-processed data used to define the network structure.
 real case graph creation.ipynb: Jupyter notebook that constructs the network from the clean dataset.
 calculo_redes_real_case.R: R script for applying community detection and computing modularity.
 monthly partitions.xlsx: Output file containing monthly partitioning results for community detection.
-Installation
-To replicate the analyses, use the following software versions:
 
-R: Version 3.4.2
-Python: Version 3.11.0
 Install required R packages:
 
 install.packages(c("igraph", "rvest", "readr", "hydra", "dplyr", "ggplot2", "tidyr", "randomForest", "xgboost", "Metrics", "caret", "doParallel", "arrow", "visNetwork", "combinat", "igraphdata"))
