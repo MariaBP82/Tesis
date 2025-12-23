@@ -68,22 +68,38 @@ pip install numpy pandas networkx scikit-learn tensorflow python-louvain xgboost
 
 
 ----------------------------------------------------
-Contenido del repositorio por Capítulos: 
+## Contenido del repositorio por capítulos
+
+### Capítulo 2 — Estado del arte
+
+En este capítulo se incluyen los códigos de los algoritmos de detección de comunidades empleados a lo largo de la tesis:
+
+- **Fast Greedy** (R) 
+- **Infomap** (R) 
+- **Leiden** (R) 
+- **Louvain** (R)
+- **Walktrap** (R)
+- **Louvain dirigido** (MATLAB)
+- **Surprise** (Python, notebook) 
+
+Además, se incluyen los modelos de *machine learning* y *deep learning* utilizados en los experimentos (en formato notebook `.ipynb`):
+
+- **Regresión logística** 
+- **Redes Neurolaes** 
+- **Random Forest** 
+- **XGBoost** 
+- **CSEA** 
+
 
 Capítulo 2: Estado del arte
 
-Reproducible Code: Scripts to implement the described methodology.
-Data and Examples: Test cases and datasets for applying the approach to standard and real-world networks.
-Results: Benchmark analyses and a case study on tourist movements in Spain.
-Folder Structure
-Codes/: Scripts for running the methodology.
-Metrics/: Summaries and statistics for various steps in the methodology.
-Results/: Outputs for all combinations of evaluated networks. Here is stored individually the results which are input for Table 1 (among the rest of networks).
-Case study/: Input files and scripts for constructing and analyzing the real-world network case study.
-clean_graph_data.csv: Pre-processed data used to define the network structure.
-real case graph creation.ipynb: Jupyter notebook that constructs the network from the clean dataset.
-calculo_redes_real_case.R: R script for applying community detection and computing modularity.
-monthly partitions.xlsx: Output file containing monthly partitioning results for community detection.
+Aparecen incluidos los códigos de los distintos algoritmos usados a lo largo de la tesis:
+Louvain (R), Louvain Dirigido (matlab), Leiden (R), Walktrap (R), Infomap (R), Fast Greedy (R) y Surprise (python)
+
+Así como los métodos me *machine learning* y *deep learning* usados:
+LogisticRgres
+
+
 
 
 
