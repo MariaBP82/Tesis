@@ -124,7 +124,12 @@ En el directorio principal del capítulo se incluyen archivos sueltos con:
 ### [CAPÍTULO 6](./CAP%C3%8DTULO%206/)
 
  
-- [CAPÍTULO 7](./CAP%C3%8DTULO%207/)
+### [CAPÍTULO 7](./CAP%C3%8DTULO%207/)
+
+
+
+
+
 ## Cita
 
 Si utilizas este repositorio o el contenido de la tesis en tu trabajo, por favor cita la tesis:
