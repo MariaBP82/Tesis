@@ -57,9 +57,9 @@ Si utilizas este repositorio o el contenido de la tesis en tu trabajo, por favor
 ```bibtex
 @thesis{barrosos_perez_tesis,
   title  = {Aportaciones a problemas de detección de comunidades en redes dirigidas. Definiciones de grupo},
-  author = {Barrosos Pérez, María},
-  year   = {YYYY},
-  school = {TU_UNIVERSIDAD}
+  author = {Barrosos P{\'e}rez, Mar{\'i}a},
+  year   = {2026},
+  publisher = {Universidad Complutense de Madrid}
 }
 
 Este repositorio contiene por capítulos el código reproducible, los conjuntos de datos, y los resutlados presentados estructurados por capítulos. La tesis intenta abordar resolver problemas en el campo de la detección de comunidades. Concretamente aborda dos problemas en el caso de las redes dirigidas, un primer problema de resolver problemas de detección de comunidades donde el objetivo es obtenter grupos con una nueva definición de grupo, que es el flujo, y un segundo problema, cuyo objetivo es mejor el problema de detección de comunidades clásico basado en densidad y todo eso con dos metodologías distintas, primero adaptando un algoritmo y comparando sus resultados medidos con la función de calidad de modularidad clásica en ambos algoritmos, el adaptado y el previo. segundo, usando un preprocesamiento de matrices de entrada en algoritmos de detección de comunidades y comparando resultados sin preprocesar. Todo el trabajo mencionado haciendo uso de dos herramientas básicas, la medida borrosa del flujo (Flow Capacity Measure, FCM) y el grafo borroso extendido de flujo (Flow Extended Fuzzy Graph, FEFG). 
