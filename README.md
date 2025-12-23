@@ -78,7 +78,8 @@ En este capítulo se incluyen los códigos de los algoritmos de detección de co
 - **Louvain** (R)
 - **Walktrap** (R)
 - **Louvain dirigido** (MATLAB)
-- **Surprise** (Python, notebook) 
+- **Surprise** (Python, notebook)
+  
 Además, se incluyen los modelos de *machine learning* y *deep learning* utilizados en los experimentos (en formato notebook `.ipynb`):
 - **Regresión logística** 
 - **Redes Neurolaes** 
