@@ -94,19 +94,11 @@ Además, se incluyen los modelos de *machine learning* y *deep learning* utiliza
 ### Capítulo 3 
 
 En este capítulo se incluyen los códigos empleados para el cálculo de la matriz de interacción del flujo, disponibles en dos implementaciones:
-
 - **MATLAB**: script para el cálculo de la matriz.
-- **Python**: implementación equivalente en formato script/notebook para reproducir el mismo procedimiento.
+- **Python**: implementación equivalente en formato script/notebook.
 
 
-
-Capítulo 2: Estado del arte
-
-Aparecen incluidos los códigos de los distintos algoritmos usados a lo largo de la tesis:
-Louvain (R), Louvain Dirigido (matlab), Leiden (R), Walktrap (R), Infomap (R), Fast Greedy (R) y Surprise (python)
-
-Así como los métodos me *machine learning* y *deep learning* usados:
-LogisticRgres
+### Capítulo 4 
 
 
 
