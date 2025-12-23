@@ -21,7 +21,7 @@ Se investiga cómo mejorar el planteamiento clásico (basado en densidad) en red
 
 En ambas metodologías, la evaluación de las particiones se realiza mediante la modularidad como función de calidad, utilizando la matriz de adyacencia como representación de la red.
 
-## Herramientas y conceptos clave
+## Herramientas
 
 El trabajo se apoya en dos herramientas fundamentales:
 
