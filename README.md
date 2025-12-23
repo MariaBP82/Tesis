@@ -116,10 +116,19 @@ En el directorio del capítulo se incluyen los scripts en **MATLAB** necesarios 
 - `compute_modularity_dir.m` — cálculo de la modularidad para redes dirigidas.
 
 
-
-
-
-
+### Capítulo 5 
+Este capítulo se organiza en varias carpetas y archivos, que cubren el proceso completo del enfoque superisado introducido para la mejora de los problemas de detección de comunidades, desde la selección del parámetro *α* hasta la validación de resultados y el análisis de complejidad.
+#### Contraste de hipótesis
+Carpeta dedicada a la validación estadística de los resultados, que incluye la implementación del test de Wilcoxon en MATLAB para comparar el rendimiento (modularidad) entre algoritmos.
+#### Fase de entrenamiento
+Carpeta con las redes empleadas para entrenar el algoritmo FCL.  
+En esta fase se obtienen valores de α etiquetados con la modularidad de la partición resultante, con el objetivo de seleccionar el parámetro que produce el mejor desempeño.
+#### Fase de test
+Carpeta con las redes utilizadas para verificar el valor de α seleccionado en el entrenamiento, evaluando si los resultados de modularidad se mantienen (o mejoran) en datos no utilizados durante el ajuste.
+#### Archivos adicionales
+En el directorio principal del capítulo se incluyen archivos sueltos con:
+- la **ejecución del proceso de supervisión** 
+- el análisis de la **complejidad computacional** del algoritmo FCL.
 
 
 
