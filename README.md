@@ -1,11 +1,75 @@
 ## Aportaciones a Problemas de Detección de Comunidades en Redes Dirigidas. Definiciones de Grupo.
 
-Bienvenidos al repositorio de GitHub que acompaña a la tesis "Aportaciones a problemas de detección de comunidades en redes dirigidas. Definiciones de grupo" de María Barrosos Pérez, cuyos directores son Daniel Gómez e Inmaculada Gutiérrez.
+# Aportaciones a problemas de detección de comunidades en redes dirigidas: definiciones de grupo
+
+Este repositorio acompaña a la tesis **“Aportaciones a problemas de detección de comunidades en redes dirigidas. Definiciones de grupo”** de **María Barrosos Pérez**, dirigida por **Daniel Gómez** e **Inmaculada Gutiérrez**.
+
+Aquí encontrarás **código reproducible**, **conjuntos de datos** y **resultados** organizados **por capítulos**, en correspondencia con el contenido de la tesis.
+
+## Objetivo de la tesis
+
+La tesis aborda problemas de **detección de comunidades** en redes, con énfasis en el caso de **redes dirigidas**. En concreto, se estudian dos líneas principales:
+
+### 1) Detección de comunidades con una nueva definición de grupo basada en flujo
+
+Se propone y analiza una definición alternativa de “grupo” en redes dirigidas basada en el **flujo**, con el objetivo de obtener comunidades más realistas desde este enfoque.
+
+### 2) Mejora del enfoque clásico de detección de comunidades basado en densidad
+
+Se investiga cómo mejorar el planteamiento clásico (basado en densidad) en redes dirigidas mediante dos metodologías:
+
+- **Adaptación del algoritmo de Louvain**, modificando su **función de optimización**, y comparando los resultados del método adaptado frente a la versión original.
+- **Preprocesamiento de las matrices de entrada** empleadas por algoritmos de detección de comunidades, analizando y comparando los resultados **con y sin preprocesamiento**.
+
+En ambos enfoques, la evaluación de las particiones se realiza mediante la **modularidad** como función de calidad, utilizando la **matriz de adyacencia** como representación de la red.
+
+## Herramientas y conceptos clave
+
+El trabajo se apoya en dos herramientas fundamentales:
+
+- **Flow Capacity Measure (FCM)** — *medida borrosa del flujo*.
+- **Flow Extended Fuzzy Graph (FEFG)** — *grafo borroso extendido de flujo*.
+
+## Estructura del repositorio
+
+El contenido está organizado por capítulos. De forma general:
+
+- `capitulo_*/` — código, datasets y resultados asociados a cada capítulo.
+- `data/` — (si aplica) datasets comunes o fuentes de datos.
+- `results/` — (si aplica) salidas, tablas y figuras generadas.
+- `docs/` — (si aplica) documentación adicional o notas de ejecución.
+
+> Ajusta estos nombres a tu estructura real. Si tienes el árbol de carpetas (por ejemplo, `tree -L 2`), puedes pegarlo aquí y lo adapto con enlaces internos.
+
+## Reproducibilidad
+
+Cada capítulo incluye los scripts/notebooks necesarios para reproducir los experimentos y generar los resultados presentados en la tesis.
+
+Flujo típico:
+1. Instalar dependencias.
+2. Ejecutar el pipeline del capítulo (preprocesado → algoritmo(s) → evaluación).
+3. Revisar resultados generados (tablas/figuras).
+
+*(Opcional: añade aquí instrucciones concretas de instalación/ejecución si ya tienes `requirements.txt` o `environment.yml`.)*
+
+## Cita
+
+Si utilizas este repositorio o el contenido de la tesis en tu trabajo, por favor cita la tesis:
+
+```bibtex
+@thesis{barrosos_perez_tesis,
+  title  = {Aportaciones a problemas de detección de comunidades en redes dirigidas. Definiciones de grupo},
+  author = {Barrosos Pérez, María},
+  year   = {YYYY},
+  school = {TU_UNIVERSIDAD}
+}
 
 Este repositorio contiene por capítulos el código reproducible, los conjuntos de datos, y los resutlados presentados estructurados por capítulos. La tesis intenta abordar resolver problemas en el campo de la detección de comunidades. Concretamente aborda dos problemas en el caso de las redes dirigidas, un primer problema de resolver problemas de detección de comunidades donde el objetivo es obtenter grupos con una nueva definición de grupo, que es el flujo, y un segundo problema, cuyo objetivo es mejor el problema de detección de comunidades clásico basado en densidad y todo eso con dos metodologías distintas, primero adaptando un algoritmo y comparando sus resultados medidos con la función de calidad de modularidad clásica en ambos algoritmos, el adaptado y el previo. segundo, usando un preprocesamiento de matrices de entrada en algoritmos de detección de comunidades y comparando resultados sin preprocesar. Todo el trabajo mencionado haciendo uso de dos herramientas básicas, la medida borrosa del flujo (Flow Capacity Measure, FCM) y el grafo borroso extendido de flujo (Flow Extended Fuzzy Graph, FEFG). 
 
 ----------------------------------------------------
 Contenido del repositorio por Capítulos: 
+
+Capítulo 2: Estado del arte
 
 Reproducible Code: Scripts to implement the described methodology.
 Data and Examples: Test cases and datasets for applying the approach to standard and real-world networks.
