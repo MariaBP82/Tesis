@@ -121,7 +121,7 @@ All experiments were conducted with a fixed random seed (123) for consistent res
 Si utilizas este repositorio o el contenido de la tesis en tu trabajo, por favor cita la tesis:
 
 ```bibtex
-@thesis{barrosos_perez_tesis,
+@thesis{mariabp_tesis,
   title  = {Aportaciones a problemas de detección de comunidades en redes dirigidas. Definiciones de grupo},
   author = {Barrosos P{\'e}rez, Mar{\'i}a},
   year   = {2026},
