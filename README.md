@@ -10,14 +10,14 @@ La tesis aborda problemas de **detección de comunidades** en redes, con énfasi
 
 ### 1) Detección de comunidades con una nueva definición de grupo basada en flujo
 
-Se propone y analiza una definición alternativa de “grupo” en redes dirigidas basada en el **flujo**, con el objetivo de obtener comunidades más realistas desde este enfoque.
+Se propone y analiza una definición alternativa de “grupo” en redes dirigidas basada en el flujo, con el objetivo de obtener comunidades más realistas desde este enfoque.
 
 ### 2) Mejora del enfoque clásico de detección de comunidades basado en densidad
 
 Se investiga cómo mejorar el planteamiento clásico (basado en densidad) en redes dirigidas mediante dos metodologías:
 
-- **Adaptación del algoritmo de Louvain**, modificando su **función de optimización**, y comparando los resultados del método adaptado frente a la versión original.
-- **Preprocesamiento de las matrices de entrada** empleadas por algoritmos de detección de comunidades, analizando y comparando los resultados **con y sin preprocesamiento**.
+- **Adaptación del algoritmo de Louvain**, modificando su función de optimización, y comparando los resultados del método adaptado frente a la versión original.
+- **Preprocesamiento de las matrices de entrada** empleadas por algoritmos de detección de comunidades, analizando y comparando los resultados con y sin preprocesamiento.
 
 En ambas metodologías, la evaluación de las particiones se realiza mediante la modularidad como función de calidad, utilizando la matriz de adyacencia como representación de la red.
 
