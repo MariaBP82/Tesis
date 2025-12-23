@@ -60,7 +60,7 @@ pip install numpy pandas networkx scikit-learn tensorflow python-louvain xgboost
 ---------------------------------------------------------------------------------------------------
 ## Contenido del repositorio por capítulos
 
-### Capítulo 2 — Estado del arte [CAPÍTULO 2](./CAP%C3%8DTULO%202/)
+### [CAPÍTULO 2](./CAP%C3%8DTULO%202/) — Estado del arte 
 En este capítulo se incluyen los códigos de los algoritmos de detección de comunidades empleados a lo largo de la tesis:
 - **Fast Greedy** (R) 
 - **Infomap** (R) 
@@ -78,13 +78,13 @@ Además, se incluyen los modelos de *machine learning* y *deep learning* utiliza
 - **CSEA** 
 
 
-### Capítulo 3 [CAPÍTULO 3](./CAP%C3%8DTULO%203/)
+### [CAPÍTULO 3](./CAP%C3%8DTULO%203/)
 En este capítulo se incluyen los códigos empleados para el cálculo de la matriz de interacción del flujo, disponibles en dos implementaciones:
 - **MATLAB**: script para el cálculo de la matriz.
 - **Python**: implementación equivalente en formato script/notebook.
 
 
-### Capítulo 4 [CAPÍTULO 4](./CAP%C3%8DTULO%204/)
+### [CAPÍTULO 4](./CAP%C3%8DTULO%204/)
 Este capítulo contiene el conjunto de 4 redes analizadas y los resultados obtenidos empleando el nuevo algoritmo desarrollado en la tesis:  
 **Flow Capacity Louvain (FCL)**, implementado en *MATLAB*.
 La estructura del capítulo es la siguiente:
@@ -106,7 +106,7 @@ En el directorio del capítulo se incluyen los scripts en **MATLAB** necesarios 
 - `compute_modularity_dir.m` — cálculo de la modularidad para redes dirigidas.
 
 
-### Capítulo 5 [CAPÍTULO 5](./CAP%C3%8DTULO%205/)
+### [CAPÍTULO 5](./CAP%C3%8DTULO%205/)
 Este capítulo se organiza en varias carpetas y archivos, que cubren el proceso completo del enfoque superisado introducido para la mejora de los problemas de detección de comunidades, desde la selección del parámetro *α* hasta la validación de resultados y el análisis de complejidad.
 #### Contraste de hipótesis
 Carpeta dedicada a la validación estadística de los resultados, que incluye la implementación del test de Wilcoxon en MATLAB para comparar el rendimiento (modularidad) entre algoritmos.
@@ -121,8 +121,9 @@ En el directorio principal del capítulo se incluyen archivos sueltos con:
 - el análisis de la **complejidad computacional** del algoritmo FCL.
 
 
-- 
-- [CAPÍTULO 6](./CAP%C3%8DTULO%206/)
+### [CAPÍTULO 6](./CAP%C3%8DTULO%206/)
+
+ 
 - [CAPÍTULO 7](./CAP%C3%8DTULO%207/)
 ## Cita
 
