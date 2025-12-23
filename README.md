@@ -30,14 +30,14 @@ El trabajo se apoya en dos herramientas fundamentales:
 
 ## Estructura del repositorio
 
-El contenido está organizado por capítulos. De forma general:
+El contenido está organizado por capítulos. En la raiz se encuentra:
+- [CAPÍTULO 2](./CAP%C3%8DTULO%202/)
+- [CAPÍTULO 3](./CAP%C3%8DTULO%203/)
+- [CAPÍTULO 4](./CAP%C3%8DTULO%204/)
+- [CAPÍTULO 5](./CAP%C3%8DTULO%205/)
+- [CAPÍTULO 6](./CAP%C3%8DTULO%206/)
+- [CAPÍTULO 7](./CAP%C3%8DTULO%207/)
 
-- `capitulo_*/` — código, datasets y resultados asociados a cada capítulo.
-- `data/` — (si aplica) datasets comunes o fuentes de datos.
-- `results/` — (si aplica) salidas, tablas y figuras generadas.
-- `docs/` — (si aplica) documentación adicional o notas de ejecución.
-
-> Ajusta estos nombres a tu estructura real. Si tienes el árbol de carpetas (por ejemplo, `tree -L 2`), puedes pegarlo aquí y lo adapto con enlaces internos.
 
 ## Reproducibilidad
 
@@ -120,23 +120,7 @@ modelo ampliado (variable importance).R
 Trains multiple machine learning models to predict network modularity improvement and extracts variable importance.
 syntethic networks.ipynb
 
-Notebook related to synthetic network generation and analysis.
-Results
-Output Files
-plot1_improvement_by_algorithm.pdf: Distribution of improvement percentages for each algorithm.
-plot2_improvement_by_network.pdf: Histograms of improvement percentages for analyzed networks.
-plot3_combined_improvement.pdf: Holistic visualization of improvements across networks and algorithms.
-fast_greedy_heatmap.pdf: Heatmap showing improvement distribution for the Fast Greedy algorithm.
-walktrap_heatmap.pdf: Heatmap showing improvement distribution for the Walktrap algorithm.
-leiden_heatmap.pdf: Heatmap showing improvement distribution for the Leiden algorithm.
-louvain_heatmap.pdf: Heatmap showing improvement distribution for the Louvain algorithm.
-infomap_heatmap.pdf: Heatmap showing improvement distribution for the Infomap algorithm.
-all_algorithms_heatmap.pdf: Aggregated heatmap comparing all algorithms.
-time_plot.pdf: Visualization of computational time increase across different algorithms.
-algorithm_improvement_distribution.pdf: Boxplot of improvement percentages across all tested algorithms.
-monthly partitions.xlsx: Community detection results for different time periods.
-networks_used.csv: List of networks used in this paper. All were downloaded from http://konect.cc/networks/
-Reproducibility
+Notebook related t
 All experiments were conducted with a fixed random seed (123) for consistent results.
 
 
