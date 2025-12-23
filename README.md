@@ -19,7 +19,7 @@ Se investiga cómo mejorar el planteamiento clásico (basado en densidad) en red
 - **Adaptación del algoritmo de Louvain**, modificando su **función de optimización**, y comparando los resultados del método adaptado frente a la versión original.
 - **Preprocesamiento de las matrices de entrada** empleadas por algoritmos de detección de comunidades, analizando y comparando los resultados **con y sin preprocesamiento**.
 
-En ambos enfoques, la evaluación de las particiones se realiza mediante la **modularidad** como función de calidad, utilizando la **matriz de adyacencia** como representación de la red.
+En ambas metodologías, la evaluación de las particiones se realiza mediante la modularidad como función de calidad, utilizando la matriz de adyacencia como representación de la red.
 
 ## Herramientas y conceptos clave
 
