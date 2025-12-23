@@ -48,25 +48,12 @@ Flujo típico:
 2. Ejecutar el pipeline del capítulo.
 3. Revisar resultados generados (tablas/figuras).
 
-*Para replicar los análisis, usa las siguientes versiones de software:*
-- Matlab: R2024a Update 4 (24.1.0.2628055)
+Para replicar los análisis, usa las siguientes versiones de software:
+- *Matlab: R2024a Update 4 (24.1.0.2628055)
 - R: Version 4.4.0
 - RStudio: 2024.04.1 (Build 748)
 - Python: 3.11.7
-- Jupyter Notebook: 7.0.8
-
-## Cita
-
-Si utilizas este repositorio o el contenido de la tesis en tu trabajo, por favor cita la tesis:
-
-```bibtex
-@thesis{barrosos_perez_tesis,
-  title  = {Aportaciones a problemas de detección de comunidades en redes dirigidas. Definiciones de grupo},
-  author = {Barrosos P{\'e}rez, Mar{\'i}a},
-  year   = {2026},
-  publisher = {Universidad Complutense de Madrid}
-}
-
+- Jupyter Notebook: 7.0.8*
 
 
 ----------------------------------------------------
@@ -124,5 +111,21 @@ syntethic networks.ipynb
 Notebook related t
 All experiments were conducted with a fixed random seed (123) for consistent results.
 
+
+
+
+
+
+## Cita
+
+Si utilizas este repositorio o el contenido de la tesis en tu trabajo, por favor cita la tesis:
+
+```bibtex
+@thesis{barrosos_perez_tesis,
+  title  = {Aportaciones a problemas de detección de comunidades en redes dirigidas. Definiciones de grupo},
+  author = {Barrosos P{\'e}rez, Mar{\'i}a},
+  year   = {2026},
+  publisher = {Universidad Complutense de Madrid}
+}
 
 
