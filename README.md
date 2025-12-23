@@ -71,7 +71,6 @@ pip install numpy pandas networkx scikit-learn tensorflow python-louvain xgboost
 ## Contenido del repositorio por capítulos
 
 ### Capítulo 2 — Estado del arte
-
 En este capítulo se incluyen los códigos de los algoritmos de detección de comunidades empleados a lo largo de la tesis:
 - **Fast Greedy** (R) 
 - **Infomap** (R) 
@@ -80,7 +79,6 @@ En este capítulo se incluyen los códigos de los algoritmos de detección de co
 - **Walktrap** (R)
 - **Louvain dirigido** (MATLAB)
 - **Surprise** (Python, notebook) 
-
 Además, se incluyen los modelos de *machine learning* y *deep learning* utilizados en los experimentos (en formato notebook `.ipynb`):
 - **Regresión logística** 
 - **Redes Neurolaes** 
@@ -90,32 +88,26 @@ Además, se incluyen los modelos de *machine learning* y *deep learning* utiliza
 
 
 ### Capítulo 3 
-
 En este capítulo se incluyen los códigos empleados para el cálculo de la matriz de interacción del flujo, disponibles en dos implementaciones:
 - **MATLAB**: script para el cálculo de la matriz.
 - **Python**: implementación equivalente en formato script/notebook.
 
 
 ### Capítulo 4 
-
 Este capítulo contiene el conjunto de 4 redes analizadas y los resultados obtenidos empleando el nuevo algoritmo desarrollado en la tesis:  
 **Flow Capacity Louvain (FCL)**, implementado en *MATLAB*.
-
 La estructura del capítulo es la siguiente:
 #### 1) Conjunto de matrices
 La carpeta `1) CONJUNTO DE MATRICES/` incluye las matrices de entrada para cada una de las cuatro redes estudiadas (`G_1`, `G_2`, `G_3`, `G_4`).
-
 Para cada red se proporcionan:
 - **Matriz de adyacencia** — `Ad_G_X.csv`
 - **Matriz de interacción del flujo** — `Id_G_X.csv`
 donde `X ∈ {1, 2, 3, 4}` identifica la red correspondiente.
-
 #### 2) Resultados
 La carpeta `2) RESULTADOS/` contiene los resultados generados mediante FCL para cada red (`G_1`, `G_2`, `G_3`, `G_4`), incluyendo:
 - Particiones obtenidas con Louvain clásico.
 - Particiones obtenidas con el algoritmo Flow Capacity Louvain (FCL).
 - Ficheros con las particiones y valores de modularidad asociados.
-
 #### Código del algoritmo
 En el directorio del capítulo se incluyen los scripts en **MATLAB** necesarios para la ejecución del algoritmo y el cálculo de métricas:
 - `FlowCapacityLouvain.m` — implementación del algoritmo FCL.
