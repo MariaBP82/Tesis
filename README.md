@@ -1,5 +1,3 @@
-## Aportaciones a Problemas de Detección de Comunidades en Redes Dirigidas. Definiciones de Grupo.
-
 # Aportaciones a problemas de detección de comunidades en redes dirigidas: definiciones de grupo
 
 Este repositorio acompaña a la tesis **“Aportaciones a problemas de detección de comunidades en redes dirigidas. Definiciones de grupo”** de **María Barrosos Pérez**, dirigida por **Daniel Gómez** e **Inmaculada Gutiérrez**.
