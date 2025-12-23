@@ -48,12 +48,23 @@ Flujo típico:
 2. Ejecutar el pipeline del capítulo.
 3. Revisar resultados generados (tablas/figuras).
 
+Control de aleatoriedad (semilla = 123)
+Para garantizar resultados reproducibles, fija la semilla antes de ejecutar cada experimento/notebook.
+
 Para replicar los análisis, usa las siguientes versiones de software:
 - *Matlab: R2024a Update 4 (24.1.0.2628055)*
 - *R: Version 4.4.0*
 - *RStudio: 2024.04.1 (Build 748)*
 - *Python: 3.11.7*
 - *Jupyter Notebook: 7.0.8*
+
+R: Instala los paquetes necesarios con:
+install.packages(c("igraph", "readr", "ggplot2"))
+
+Python 3:
+pip install numpy pandas networkx scikit-learn tensorflow python-louvain xgboost surprisememore
+ 
+
 
 
 ----------------------------------------------------
@@ -74,42 +85,9 @@ real case graph creation.ipynb: Jupyter notebook that constructs the network fro
 calculo_redes_real_case.R: R script for applying community detection and computing modularity.
 monthly partitions.xlsx: Output file containing monthly partitioning results for community detection.
 
-Install required R packages:
 
-install.packages(c("igraph", "rvest", "readr", "hydra", "dplyr", "ggplot2", "tidyr", "randomForest", "xgboost", "Metrics", "caret", "doParallel", "arrow", "visNetwork", "combinat", "igraphdata"))
-For Jupyter Notebooks:
 
-pip install jupyter pandas networkx matplotlib
-Usage
-Key Scripts
-analisis_redes.R
 
-Reads modularity results from multiple CSV files and computes performance metrics for different algorithms.
-bernoulli_v2.R
-
-Computes confidence intervals for algorithm performance based on Bernoulli distributions.
-calculo_redes_nuevo.R
-
-Iterates over multiple networks, precomputes adjacency matrices, and applies different clustering algorithms.
-calculo_redes_real_case.R
-
-Processes a real-world network dataset, applying modularity-based community detection methods.
-Nodes and Edges.R
-
-Computes the number of nodes and edges in given .graphml network files.
-plots heatmap.R
-
-Generates heatmaps and computational time comparison plots for different algorithms.
-synthetic network.R
-
-Generates synthetic hierarchical networks and saves them as .graphml files.
-modelo ampliado (variable importance).R
-
-Trains multiple machine learning models to predict network modularity improvement and extracts variable importance.
-syntethic networks.ipynb
-
-Notebook related t
-All experiments were conducted with a fixed random seed (123) for consistent results.
 
 
 
