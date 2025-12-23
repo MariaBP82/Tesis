@@ -49,11 +49,11 @@ Flujo típico:
 3. Revisar resultados generados (tablas/figuras).
 
 Para replicar los análisis, usa las siguientes versiones de software:
-- *Matlab: R2024a Update 4 (24.1.0.2628055)
-- R: Version 4.4.0
-- RStudio: 2024.04.1 (Build 748)
-- Python: 3.11.7
-- Jupyter Notebook: 7.0.8*
+- *Matlab: R2024a Update 4 (24.1.0.2628055)*
+- *R: Version 4.4.0*
+- *RStudio: 2024.04.1 (Build 748)*
+- *Python: 3.11.7*
+- *Jupyter Notebook: 7.0.8*
 
 
 ----------------------------------------------------
