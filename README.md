@@ -68,6 +68,7 @@ pip install numpy pandas networkx scikit-learn tensorflow python-louvain xgboost
 
 
 ----------------------------------------------------
+----------------------------------------------------
 ## Contenido del repositorio por capítulos
 
 ### Capítulo 2 — Estado del arte
