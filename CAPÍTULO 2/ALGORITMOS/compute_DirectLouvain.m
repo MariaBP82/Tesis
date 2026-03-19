@@ -53,8 +53,8 @@ if nargin < 7
 end
 
 
-%M es la matriz de pesos, es asimétrica
-S = size(M); %tamaño de la matriz de pesos (numFilas, numColumnas)
+%M es la matriz de pesos, es asimÃ©trica
+S = size(M); %tamaÃ±o de la matriz de pesos (numFilas, numColumnas)
 N = S(1); %numero de filas de la matriz de peso, que no es otra cosa que el numero de nodos
 %N
 
@@ -63,13 +63,13 @@ ending = 0;
 
 
 MT = M'; %matriz traspuesta
-MS = M + M'; %matriz simétrica para buscar vecinos es necesaria
+MS = M + M'; %matriz simÃ©trica para buscar vecinos es necesaria
 
 
 
 %el elemento (N+1) es el primer elemento de la 2 fila
 %.* multiplica elemento a elemento
-MS((N+1).*[0:N-1]+1) = 0; %la diagonal principal de la matriz simétrica que uso para buscar los vecinos de pesos vale 0
+MS((N+1).*[0:N-1]+1) = 0; %la diagonal principal de la matriz simÃ©trica que uso para buscar los vecinos de pesos vale 0
 
 
 
@@ -93,8 +93,8 @@ if m==0 | N == 1 %cuando m==0 (todos los pesos valen 0, pues la suma de todos lo
 end
 
 % Main loop
-Kin = sum(M); %número de aristas entrantes en i, es el grado in del nodo i
-Kout = sum(MT); %número de aristas salientes en i, es el grado out del nodo i
+Kin = sum(M); %nÃºmero de aristas entrantes en i, es el grado in del nodo i
+Kout = sum(MT); %nÃºmero de aristas salientes en i, es el grado out del nodo i
 SumTotin = sum(M); %se inicializa de modo que SumTot(i) es e grado-in del nodo i, pero llevara el grado del cluster, se inicialia como el grado del nodo porque al empezar cada cluster tiene un solo nodo
 SumTotout = sum(MT); %se inicializa de modo que SumTot(i) es e grado-out del nodo i, pero llevara el grado del cluster, se inicialia como el grado del nodo porque al empezar cada cluster tiene un solo nodo
 %SumIn(i) es la suma de los pesos arcos en el cluster i
