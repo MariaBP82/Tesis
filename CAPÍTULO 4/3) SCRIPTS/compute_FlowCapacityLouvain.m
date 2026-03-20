@@ -19,16 +19,16 @@
 % verbose : 1 = outputs some messages
 %
 % Output :
-% COMTY, estructura con la siguiente informaciÛn por cada nivel i:
-%   COMTY.COM{i} : vector de IDs de comunidad (ordenados por tamaÒo)
-%   COMTY.SIZE{i} : vector con los tamaÒos de las comunidades
-%   COMTY.MOD(i) : modularidad de la particiÛn con AD
-%   COMTY.MOD_I(i) : modularidad de la particiÛn con ID
-%   COMTY.Niter(i) : n˙mero de iteraciones hasta convergencia
+% COMTY, estructura con la siguiente informaci√≥n por cada nivel i:
+%   COMTY.COM{i} : vector de IDs de comunidad (ordenados por tama√±o)
+%   COMTY.SIZE{i} : vector con los tama√±os de las comunidades
+%   COMTY.MOD(i) : modularidad de la partici√≥n con AD
+%   COMTY.MOD_I(i) : modularidad de la partici√≥n con ID
+%   COMTY.Niter(i) : n√∫mero de iteraciones hasta convergencia
 
 function [COMTY, ending] = compute_FlowCapacityLouvain(AD,ID,alpha,s,self,debug,verbose)
-% AD ser· la matriz de adyacencia dirigida
-% ID ser· la matriz de las relaciones, considerada la matriz de flujo
+% AD ser√° la matriz de adyacencia dirigida
+% ID ser√° la matriz de las relaciones, considerada la matriz de flujo
 
 if nargin < 1
   error('not enough argument'); % verificar que haya al menos un argumento
@@ -43,7 +43,7 @@ if nargin < 5
 end
  
 if nargin < 6
-  debug = 0; % valor por defecto: sin mensajes de depuraciÛn
+  debug = 0; % valor por defecto: sin mensajes de depuraci√≥n
 end
 
 if nargin < 7
@@ -51,21 +51,21 @@ if nargin < 7
 end
 
 % AD es la matriz de pesos, es asimetrica
-% InicializaciÛn
-S = size(AD);       % tamaÒo de la matriz AD (numFilas, numColumnas)
-N = S(1);          % n˙mero de nodos (filas de AD)
+% Inicializaci√≥n
+S = size(AD);       % tama√±o de la matriz AD (numFilas, numColumnas)
+N = S(1);          % n√∫mero de nodos (filas de AD)
 
-ddebug = 0;        % bandera para depuraciÛn profunda
-ending = 0;        % bandera que indica si se termina la ejecuciÛn
+ddebug = 0;        % bandera para depuraci√≥n profunda
+ending = 0;        % bandera que indica si se termina la ejecuci√≥n
 
 AT = AD';           % matriz traspuesta de AD
-AS = AD + AD';       % matriz simÈtrica para encontrar vecinos
+AS = AD + AD';       % matriz sim√©trica para encontrar vecinos
 
 IT = ID';           % matriz traspuesta de flujos
 
-AS((N+1).*[0:N-1]+1) = 0; % pone a 0 la diagonal de la matriz simÈtrica
+AS((N+1).*[0:N-1]+1) = 0; % pone a 0 la diagonal de la matriz sim√©trica
 
-m = sum(sum(AD));     % suma total de pesos (n˙mero de aristas en A)
+m = sum(sum(AD));     % suma total de pesos (n√∫mero de aristas en A)
 m_I = sum(sum(ID));   % suma total de flujos
 
 Niter = 1;           % contador de iteraciones
@@ -99,7 +99,7 @@ for k=1:N
   Neighbor{k} = find(AS(k,:)); % lista de vecinos del nodo k
 end
 
-% Variables de control para iteraciÛn de optimizaciÛn
+% Variables de control para iteraci√≥n de optimizaci√≥n
 sCost = 10;
 gain = 1;
 
@@ -112,7 +112,7 @@ while (gain == 1) % mientras haya ganancia de modularidad
     G = zeros(1,N); % vector de ganancia de modularidad
     best_increase = -1; % mejor ganancia encontrada
     Cnew = Ci; % comunidad destino por defecto: actual
-    COM(i) = -1; % marcar que se mover·
+    COM(i) = -1; % marcar que se mover√°
     
     % Quitar nodo i de su comunidad actual
     SumTotin(Ci) = SumTotin(Ci) - Kin(i);
@@ -146,7 +146,7 @@ while (gain == 1) % mientras haya ganancia de modularidad
       Cost(i) = best_increase;
     end
 
-    % AÒadir nodo a nueva comunidad
+    % A√±adir nodo a nueva comunidad
     Ck = find(COM==Cnew);
     SumIn(Cnew) = SumIn(Cnew) + sum(AD(i,Ck)) + sum(AT(i,Ck));
     SumTotin(Cnew) = SumTotin(Cnew) + Kin(i);
@@ -247,7 +247,7 @@ end
 
 end
 
-% Reindexa IDs de comunidad en orden descendente de tamaÒo
+% Reindexa IDs de comunidad en orden descendente de tama√±o
 function [C Ss] = reindex_com(COMold)
 C = zeros(1,length(COMold));
 COMu = unique(COMold);
@@ -261,7 +261,7 @@ for l=1:length(COMu)
 end
 end
 
-% Calcula la modularidad de una particiÛn
+% Calcula la modularidad de una partici√≥n
 function MOD = compute_modularity(C,Mat)
 m = sum(sum(Mat));
 MOD = 0;
