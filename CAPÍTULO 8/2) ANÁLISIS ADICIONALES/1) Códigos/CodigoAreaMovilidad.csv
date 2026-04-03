@@ -1,0 +1,3215 @@
+﻿CodigoArea;Nombre;Nodos
+001A;Montesinos, Los y Algorfa;1
+001B;Sant Joan de Vilatorrada y otros municipios;2
+001M;Fuentidueña de Tajo y otros municipios;3
+001S;Real de la Jara, El y otros municipios;4
+001V;Daimús y otros municipios;5
+002A;Formentera del Segura y otros municipios;6
+002B;Òdena y otros municipios;7
+002M;Perales de Tajuña y otros municipios;8
+002S;Cazalla de la Sierra y Pedroso, El;9
+002V;Bellreguard y otros municipios;10
+003A;Bigastro y Jacarilla;11
+003B;Torre de Claramunt, La y Pobla de Claramunt, La;12
+003M;Valdilecha y otros municipios;13
+003S;Guadalcanal y otros municipios;14
+003V;Gandia (distritos 01 y 03);15
+004A;Cox y otros municipios;16
+004B;Capellades y Vallbona d'Anoia;17
+004M;Anchuelo y otros municipios;18
+004S;Peñaflor y Puebla de los Infantes, La;19
+004V;Vilallonga/Villalonga y Ador;20
+005A;Albatera y San Isidro;21
+005B;Mediona y otros municipios;22
+005M;Lozoyuela-Navas-Sieteiglesias y otros municipios;23
+005S;Constantina y Navas de la Concepción, Las;24
+005V;Font d'En Carròs, la y otros municipios;25
+006A;Fondó de les Neus, el/Hondón de las Nieves y otros municipios;26
+006B;Subirats y Olesa de Bonesvalls;27
+006S;Lora del Río y Alcolea del Río;28
+006V;Real de Gandía y otros municipios;29
+007A;Sax y Salinas;30
+007B;Castellbell i el Vilar y otros municipios;31
+007M;Buitrago del Lozoya y otros municipios;32
+007S;Luisiana, La y Cañada Rosal;33
+007V;Simat de la Valldigna y Benifairó de la Valldigna;34
+008A;Elda (distritos 02 y 03);35
+008B;Sant Vicenç de Castellet y otros municipios;36
+008M;Cercedilla y Navacerrada;37
+008S;Rubio, El y Marinaleda;38
+008V;Manuel y otros municipios;39
+009A;Agost y Tibi;40
+009B;Hostalets de Pierola, Els y Bruc, El;41
+009M;Robledo de Chavela y otros municipios;42
+009S;Gilena y Aguadulce;43
+009V;Pobla Llarga, la y otros municipios;44
+010A;Biar y otros municipios;45
+010B;Viladecavalls y Ullastrell;46
+010M;Navas del Rey y Chapinería;47
+010S;Estepa y Lora de Estepa;48
+010V;Genovés y otros municipios;49
+011A;Busot y otros municipios;50
+011B;Sant Esteve Sesrovires y Sant Llorenç d'Hortons;51
+011M;Navalagamella y otros municipios;52
+011S;Casariche y Badolatosa;53
+011V;Llutxent y otros municipios;54
+012A;Alcoy/Alcoi (distrito 08) y Benifallim;55
+012B;Gelida y Castellví de Rosanes;56
+012M;Quijorna y otros municipios;57
+012S;Saucejo, El y otros municipios;58
+012V;Xeraco y Xeresa;59
+013A;Benilloba y otros municipios;60
+013B;Cervelló y Palma de Cervelló, La;61
+013M;Aldea del Fresno y Villamanta;62
+013S;Pruna y otros municipios;63
+013V;Corbera y otros municipios;64
+014A;Beniarrés y otros municipios;65
+014B;Canyelles y Olivella;66
+014M;San Martín de Valdeiglesias y Pelayos de la Presa;67
+014S;Morón de la Frontera y Coripe;68
+014V;Albalat de la Ribera y otros municipios;69
+015A;Muro de Alcoy y otros municipios;70
+015B;Martorelles y Santa Maria de Martorelles;71
+015M;Cadalso de los Vidrios y otros municipios;72
+015S;Utrera (distritos 02 y 04);73
+015V;Albal y Beniparrell;74
+016A;Verger, el y Poblets, els;75
+016B;Vilanova del Vallès y otros municipios;76
+016M;Serranillos del Valle y Batres;77
+016S;Utrera (distrito 05) y otros municipios;78
+016V;Riba-roja de Túria y Loriguilla;79
+017A;Beniarbeig y otros municipios;80
+017B;Sant Vicenç de Montalt y Caldes d'Estrac;81
+017M;Cubas de la Sagra y Casarrubuelos;82
+017S;Aznalcázar y Villamanrique de la Condesa;83
+017V;Bonrepòs i Mirambell y otros municipios;84
+018A;Xaló y otros municipios;85
+018B;Sant Cebrià de Vallalta y otros municipios;86
+018M;Chinchón y otros municipios;87
+018S;Huévar del Aljarafe y otros municipios;88
+018V;Albuixech y otros municipios;89
+019A;Orba y otros municipios;90
+019B;Sant Pere de Vilamajor y otros municipios;91
+019M;Cabrera, La y otros municipios;92
+019S;Olivares y Albaida del Aljarafe;93
+019V;Serra y otros municipios;94
+01AB;Albacete (distrito 08) y otros municipios;95
+01AL;Benahadux y Pechina;96
+01AS;Vegadeo y otros municipios;97
+01AV;Ávila (distritos 01 a 03) y otros municipios;98
+01BA;San Vicente de Alcántara y Codosera, La;99
+01BI;Karrantza Harana/Valle de Carranza y otros municipios;100
+01BU;Burgos (distritos 01, 02 y 04);101
+01CA;Torrelavega (distritos 02 y 05);102
+01CC;Brozas y otros municipios;103
+01CE;Ceuta (distrito 06 y sección 004 del distrito 05);104
+01CO;Almodóvar del Río y Guadalcázar;105
+01CR;Ciudad Real (distrito 05) y otros municipios;106
+01CS;Morella y otros municipios;107
+01CU;Priego y otros municipios;108
+01CZ;Cádiz (distrito 01);109
+01CÑ;Cee y Corcubión;110
+01GC;Valleseco y otros municipios;111
+01GI;Sant Gregori y otros municipios;112
+01GP;Eskoriatza y Elgeta;113
+01GR;Fuente Vaqueros y otros municipios;114
+01GU;Yunquera de Henares y Fontanar;115
+01HS;Valle de Hecho y otros municipios;116
+01HU;Ayamonte y Villablanca;117
+01JA;Linares (distritos 02 y 03);118
+01LE;Ponferrada (distritos 04 y 06) y otros municipios;119
+01LL;Lleida (distritos 08 y 09);120
+01LO;Fuenmayor y otros municipios;121
+01LU;Lugo (distrito 08) y otros municipios;122
+01MA;Cortes de la Frontera y otros municipios;123
+01ME;Melilla (distrito 01 y 03);124
+01MU;Campos del Río y otros municipios;125
+01NA;Baztan y otros municipios;126
+01OU;Coles y Amoeiro;127
+01PA;Venta de Baños;128
+01PO;Rodeiro y otros municipios;129
+01SA;Terradillos y otros municipios;130
+01SG;Villacastín y otros municipios;131
+01SO;Covaleda y otros municipios;132
+01TA;Catllar, El y Secuita, La;133
+01TE;Albalate del Arzobispo y otros municipios;134
+01TF;Santa Cruz de Tenerife (distritos 07 y 08);135
+01TO;Méntrida y Valmojado;136
+01VA;Boecillo y Viana de Cega;137
+01VI;Ayala/Aiara y otros municipios;138
+01ZA;Sádaba y otros municipios;139
+01ZM;Zamora (distrito 04) y otros municipios;140
+020A;Teulada y Benitachell/Poble Nou de Benitatxell, el;141
+020B;Granada, La y otros municipios;142
+020M;Miraflores de la Sierra y Bustarviejo;143
+020S;Valencina de la Concepción y Castilleja de Guzmán;144
+020V;Sagunto/Sagunt (distrito 01) y otros municipios;145
+021A;Orihuela (distrito 08) y Rafal;146
+021B;Olèrdola y Castellet i la Gornal;147
+021M;Guadalix de la Sierra y Navalafuente;148
+021S;Alcalá de Guadaíra (distritos 01 y 02);149
+021V;Benifairó de les Valls y otros municipios;150
+022A;Alfàs del Pi, l';151
+022B;Sant Martí Sarroca y Castellví de la Marca;152
+022M;Torrelaguna y Redueña;153
+022S;Osuna y Lantejuela;154
+022V;Sagunto/Sagunt (distritos 04, 05 y 08);155
+023A;Almoradí;156
+023B;Sant Pere de Riudebitlles y otros municipios;157
+023M;Talamanca de Jarama y otros municipios;158
+023S;Alcalá de Guadaíra (distrito 03);159
+023V;Estivella y otros municipios;160
+024A;Altea;161
+024B;Font-rubí y otros municipios;162
+024M;Valdetorres de Jarama;163
+024S;Alcalá de Guadaíra (distrito 04);164
+024V;Pedralba y otros municipios;165
+025A;Aspe;166
+025B;Castellar del Vallès y otros municipios;167
+025M;Valdeolmos-Alalpardo y otros municipios;168
+025S;Alcalá del Río;169
+025V;Villar del Arzobispo y otros municipios;170
+026A;Banyeres de Mariola;171
+026B;Tordera y Fogars de la Selva;172
+026M;Ajalvir;173
+026S;Algaba, La;174
+026V;Ademuz y otros municipios;175
+027A;Benejúzar;176
+027B;Palafolls y Santa Susanna;177
+027M;Álamo, El;178
+027S;Almensilla;179
+027V;Chelva y otros municipios;180
+028A;Benissa;181
+028B;Seva y otros municipios;182
+028M;Algete;183
+028S;Arahal;184
+028V;Venta del Moro y otros municipios;185
+029A;Calp;186
+029B;Aiguafreda y otros municipios;187
+029M;Alpedrete;188
+029S;Aznalcóllar;189
+029V;Chiva y Godelleta;190
+02AB;Chinchilla de Monte-Aragón y Pozo Cañada;191
+02AL;Dalías y Balanegra;192
+02AS;Allande y otros municipios;193
+02AV;Ávila (distrito 06) y Berrocalejo de Aragona;194
+02BA;Badajoz (distrito 08) y otros municipios;195
+02BI;Sopuerta y Galdames;196
+02BU;Valle de Mena;197
+02CA;Villaescusa y otros municipios;198
+02CC;Malpartida de Cáceres;199
+02CE;Ceuta (sección 007 y otras secciones del distrito 05);200
+02CO;Córdoba (varias secciones) y Victoria, La;201
+02CR;Carrión de Calatrava y otros municipios;202
+02CS;Traiguera y otros municipios;203
+02CU;Villalba del Rey y otros municipios;204
+02CZ;Cádiz (distrito 03);205
+02CÑ;Muxía y Dumbría;206
+02GC;Santa Lucía de Tirajana (distritos 01 y 02) y San Bartolomé de Tirajana (distrito 01);207
+02GI;Bescanó y otros municipios;208
+02GP;Bergara y otros municipios;209
+02GR;Alhendín y Malahá, La;210
+02GU;Yebes y Horche;211
+02HS;Ayerbe y otros municipios;212
+02HU;Villanueva de los Castillejos y otros municipios;213
+02JA;Linares (distritos 01 y 08) y Torreblascopedro;214
+02LE;Carracedelo y Toral de los Vados;215
+02LL;Vielha e Mijaran y otros municipios;216
+02LO;Albelda de Iregua y otros municipios;217
+02LU;Guntín y Lugo (distrito 07);218
+02MA;Benaoján y otros municipios;219
+02ME;Melilla (distrito 04);220
+02MU;Villanueva del Río Segura y otros municipios;221
+02NA;Esteribar y otros municipios;222
+02OU;Allariz y Taboadela;223
+02PA;Grijota y otros municipios;224
+02PO;Forcarei y Lama, A;225
+02SA;Cabrerizos y otros municipios;226
+02SG;Hontanares de Eresma y otros municipios;227
+02SO;Garray y otros municipios;228
+02TA;Pallaresos, Els;229
+02TE;Valderrobres y otros municipios;230
+02TF;Güímar y Fasnia;231
+02TO;Santa Cruz del Retamar y otros municipios;232
+02VA;Mojados y otros municipios;233
+02VI;Ribera Baja/Erribera Beitia y otros municipios;234
+02ZA;Ejea de los Caballeros y Biota;235
+02ZM;Zamora (distrito 02) y otros municipios;236
+030A;Callosa d'en Sarrià;237
+030B;Castellterçol y otros municipios;238
+030M;Arroyomolinos;239
+030S;Benacazón;240
+030V;Catadau y otros municipios;241
+031A;Callosa de Segura;242
+031B;Balenyà y otros municipios;243
+031M;Becerril de la Sierra;244
+031S;Bollullos de la Mitación;245
+031V;Llombai y otros municipios;246
+032A;Campello, el;247
+032B;Taradell y otros municipios;248
+032M;Boalo, El;249
+032S;Bormujos;250
+032V;Yátova y otros municipios;251
+033A;Castalla;252
+033B;Tona y otros municipios;253
+033M;Brunete;254
+033S;Brenes;255
+033V;Cofrentes y otros municipios;256
+034A;Catral;257
+034B;Calldetenes y Folgueroles;258
+034M;Camarma de Esteruelas y Valdeavero;259
+034S;Burguillos;260
+034V;Navarrés y otros municipios;261
+035A;Cocentaina;262
+035B;Sant Pere de Torelló y otros municipios;263
+035M;Campo Real;264
+035S;Cabezas de San Juan, Las;265
+035V;Alcàntera de Xúquer y otros municipios;266
+036A;Crevillent;267
+036B;Sant Quirze de Besora y otros municipios;268
+036M;Ciempozuelos;269
+036S;Camas;270
+036V;Anna y otros municipios;271
+037A;Dénia;272
+037B;Sant Hipòlit de Voltregà y Masies de Voltregà, Les;273
+037M;Cobeña;274
+037S;Campana, La;275
+037V;Llosa de Ranes, la y otros municipios;276
+038A;Dolores;277
+038B;Gurb y otros municipios;278
+038M;Colmenar de Oreja;279
+038S;Cantillana;280
+038V;Enguera y Chella;281
+039A;Finestrat;282
+039B;Prats de Lluçanès y otros municipios;283
+039M;Colmenarejo;284
+039S;Carmona;285
+039V;Mogente/Moixent y otros municipios;286
+03AB;Madrigueras y Motilleja;287
+03AL;Láujar de Andarax y otros municipios;288
+03AS;Boal y otros municipios;289
+03AV;Ávila (distrito 04) y otros municipios;290
+03BA;Talavera la Real y otros municipios;291
+03BI;Güeñes y otros municipios;292
+03BU;Alfoz de Quintanadueñas y otros municipios;293
+03CA;Ribamontán al Mar y otros municipios;294
+03CC;Casar de Cáceres y Garrovillas de Alconétar;295
+03CE;Ceuta (distrito 04);296
+03CO;Córdoba (SCD Alcolea y sección 044 del distrito 02) y Obejo;297
+03CR;Villarta de San Juan y otros municipios;298
+03CS;Càlig y otros municipios;299
+03CU;Huete y otros municipios;300
+03CZ;Cádiz (distrito 02);301
+03CÑ;Carnota y Mazaricos;302
+03GC;Antigua y Betancuria;303
+03GI;Vilobí d'Onyar y Riudellots de la Selva;304
+03GP;Urretxu y Antzuola;305
+03GR;Dúrcal y Nigüelas;306
+03GU;Guadalajara (distrito 04) y Chiloeches;307
+03HS;Almudévar y otros municipios;308
+03HU;Puebla de Guzmán y otros municipios;309
+03JA;Torredelcampo y Fuerte del Rey;310
+03LE;Camponaraya y otros municipios;311
+03LL;Pont de Suert, El y otros municipios;312
+03LO;Logroño (distritos 01 y 06);313
+03LU;Lugo (distrito 06) y Friol;314
+03MA;Ojén e Istán;315
+03ME;Melilla (distrito 05);316
+03MU;Abanilla;317
+03NA;Irurtzun y otros municipios;318
+03OU;San Cibrao das Viñas y Merca, A;319
+03PA;Dueñas y otros municipios;320
+03PO;Cerdedo-Cotobade y Campo Lameiro;321
+03SA;Castellanos de Moriscos y otros municipios;322
+03SO;Ólvega y otros municipios;323
+03TA;Pobla de Mafumet, La y otros municipios;324
+03TE;Castelserás y otros municipios;325
+03TF;San Miguel de Abona y Vilaflor de Chasna;326
+03TO;Camarena y Ventas de Retamosa, Las;327
+03VA;Aldeamayor de San Martín y Portillo;328
+03VI;Iruña Oka/Iruña de Oca y otros municipios;329
+03ZA;San Mateo de Gállego y otros municipios;330
+03ZM;Zamora (distrito 03) y otros municipios;331
+040A;Gata de Gorgos;332
+040B;Puig-reig y otros municipios;333
+040M;Colmenar Viejo;334
+040S;Castilblanco de los Arroyos;335
+040V;Aielo de Malferit y otros municipios;336
+041A;Guardamar del Segura;337
+041B;Cercs y otros municipios;338
+041M;Collado Mediano;339
+041S;Castilleja de la Cuesta;340
+041V;Albaida y otros municipios;341
+042A;Ibi;342
+042B;Bagà y otros municipios;343
+042M;Daganzo de Arriba;344
+042S;Coria del Río;345
+042V;Rótova y otros municipios;346
+043A;Jávea/Xàbia;347
+043B;Gironella y otros municipios;348
+043M;Escorial, El;349
+043S;Coronil, El;350
+043V;Pobla del Duc, la y otros municipios;351
+044A;Jijona/Xixona;352
+044B;Cardona y Sant Mateu de Bages;353
+044M;Fuente el Saz de Jarama;354
+044S;Dos Hermanas (distrito 01);355
+044V;Montaverner y otros municipios;356
+045A;Monforte del Cid;357
+045B;Balsareny y Castellnou de Bages;358
+045M;Galapagar;359
+045S;Dos Hermanas (distrito 02);360
+045V;Montserrat y Montroi/Montroy;361
+046A;Monóvar/Monòver;362
+046B;Abrera;363
+046M;Griñón;364
+046S;Dos Hermanas (distrito 03);365
+046V;Alfafar y Llocnou de la Corona;366
+047A;Mutxamel;367
+047B;Alella;368
+047M;Guadarrama;369
+047S;Dos Hermanas (distrito 04);370
+047V;Llíria y otros municipios;371
+048A;Novelda;372
+048B;Ametlla del Vallès, L';373
+048M;Hoyo de Manzanares;374
+048S;Dos Hermanas (distrito 05);375
+048V;Museros y Emperador;376
+049A;Nucia, la;377
+049B;Arenys de Mar;378
+049M;Humanes de Madrid;379
+049S;Écija;380
+049V;Oliva y otros municipios;381
+04AB;Roda, La y otros municipios;382
+04AL;Fiñana y otros municipios;383
+04AS;Tapia de Casariego y Castropol;384
+04AV;Cebreros y otros municipios;385
+04BA;Montijo y Torremayor;386
+04BI;Muskiz y Zierbena;387
+04BU;Villalbilla de Burgos y otros municipios;388
+04CA;Puente Viesgo y San Felices de Buelna;389
+04CC;Sierra de Fuentes y otros municipios;390
+04CE;Ceuta (distrito 03);391
+04CO;Villafranca de Córdoba y Carpio, El;392
+04CR;Manzanares y Llanos del Caudillo;393
+04CS;Coves de Vinromà, les y otros municipios;394
+04CU;Barajas de Melo y otros municipios;395
+04CZ;Cádiz (distrito 04);396
+04CÑ;Cabana de Bergantiños y Laxe;397
+04GC;Agaete;398
+04GI;Quart y Fornells de la Selva;399
+04GP;Mutriku y Mendaro;400
+04GR;Villa de Otura y Dílar;401
+04GU;Torrejón del Rey y Galápagos;402
+04HS;Grañén y otros municipios;403
+04HU;Alosno y otros municipios;404
+04JA;Marmolejo y Lopera;405
+04LE;Robla, La y Pola de Gordón, La;406
+04LL;Naut Aran y otros municipios;407
+04LO;San Asensio y otros municipios;408
+04LU;Lugo (distritos 04 y 09);409
+04MA;Monda y Guaro;410
+04ME;Melilla (distrito 02);411
+04MU;Abarán;412
+04NA;Orkoien y Cendea de Olza/Oltza Zendea;413
+04OU;Pereiro de Aguiar, O y Nogueira de Ramuín;414
+04PA;Baltanás y otros municipios;415
+04PO;Valga y Catoira;416
+04SA;Villoria y otros municipios;417
+04SG;Lastrilla, La y otros municipios;418
+04SO;Arcos de Jalón y otros municipios;419
+04TA;Santa Bàrbara y otros municipios;420
+04TE;Calanda y otros municipios;421
+04TF;Garachico y Tanque, El;422
+04TO;Viso de San Juan, El y Chozas de Canales;423
+04VA;Santovenia de Pisuerga y Cabezón de Pisuerga;424
+04VI;Zuia y Zigoitia;425
+04ZA;Villamayor de Gállego y otros municipios;426
+04ZM;Toro y otros municipios;427
+050A;Ondara;428
+050B;Arenys de Munt;429
+050M;Loeches;430
+050S;Espartinas;431
+050V;Alberic y otros municipios;432
+051A;Onil;433
+051B;Argentona;434
+051M;Manzanares el Real;435
+051S;Fuentes de Andalucía;436
+051V;Gandia (distrito 07) y Benirredrà;437
+052A;Pedreguer;438
+052B;Begues;439
+052M;Meco;440
+052S;Gelves;441
+052V;Bocairent;442
+053A;Pego;443
+053B;Berga;444
+053M;Mejorada del Campo;445
+053S;Gerena;446
+053V;Sollana;447
+054A;Petrer;448
+054B;Bigues i Riells;449
+054M;Molar, El;450
+054S;Gines;451
+054V;Alcúdia de Crespins, l';452
+055A;Pinós, el/Pinoso;453
+055B;Cabrera de Mar;454
+055M;Molinos, Los;455
+055S;Guillena;456
+055V;Ayora;457
+056A;Polop;458
+056B;Cabrils;459
+056M;Moraleja de Enmedio;460
+056S;Herrera;461
+056V;Benigànim;462
+057A;Redován;463
+057B;Caldes de Montbui;464
+057M;Moralzarzal;465
+057S;Lebrija;466
+057V;Guadassuar;467
+058A;Rojales;468
+058B;Calella;469
+058M;Morata de Tajuña;470
+058S;Mairena del Alcor;471
+058V;Náquera;472
+059A;San Fulgencio;473
+059B;Canet de Mar;474
+059M;Navalcarnero;475
+059S;Mairena del Aljarafe;476
+059V;Valencia (SCD Poblats del Nord);477
+05AB;Tarazona de la Mancha y Villalgordo del Júcar;478
+05AL;Gádor y otros municipios;479
+05AS;Franco, El y Coaña;480
+05AV;Tiemblo, El y Navahondilla;481
+05BA;Valdelacalzada y Lobón;482
+05BI;Ugao-Miraballes y otros municipios;483
+05BU;Villagonzalo Pedernales y otros municipios;484
+05CA;Potes y otros municipios;485
+05CC;Ceclavín y otros municipios;486
+05CE;Ceuta (distrito 01);487
+05CO;Adamuz y Pedro Abad;488
+05CR;Campo de Criptana y Arenales de San Gregorio;489
+05CS;Cabanes y otros municipios;490
+05CU;Horcajo de Santiago y otros municipios;491
+05CZ;Cádiz (distrito 05);492
+05CÑ;Rois y otros municipios;493
+05GC;Agüimes;494
+05GI;Celrà y Bordils;495
+05GP;Zegama y otros municipios;496
+05GR;Güejar Sierra y otros municipios;497
+05GU;Sigüenza y otros municipios;498
+05HS;Tierz y otros municipios;499
+05HU;Cerro de Andévalo, El y otros municipios;500
+05JA;Arjona y otros municipios;501
+05LE;Sariegos y otros municipios;502
+05LL;Sort y otros municipios;503
+05LO;Haro y Briñas;504
+05LU;Lugo (distritos 01 y 03);505
+05MA;Casarabonela y otros municipios;506
+05ME;Melilla (distrito 06);507
+05MU;Águilas;508
+05NA;Cizur y Galar;509
+05OU;Barbadás y otros municipios;510
+05PA;Villarramiel y otros municipios;511
+05PO;Moraña y Portas;512
+05SA;Calzada de Valdunciel y otros municipios;513
+05SG;Nava de la Asunción y otros municipios;514
+05SO;Berlanga de Duero y otros municipios;515
+05TA;Deltebre y Sant Jaume d'Enveja;516
+05TE;Alcorisa y otros municipios;517
+05TF;San Sebastián de la Gomera y Alajeró;518
+05TO;Recas y Lominchar;519
+05VA;Villanubla y otros municipios;520
+05VI;Legutio y otros municipios;521
+05ZA;Burgo de Ebro, El y otros municipios;522
+05ZM;Villaralbo y otros municipios;523
+060A;Sant Joan d'Alacant;524
+060B;Canovelles;525
+060M;Nuevo Baztán;526
+060S;Marchena;527
+060V;Canet d'En Berenguer;528
+061A;San Miguel de Salinas;529
+061B;Cardedeu;530
+061M;Paracuellos de Jarama;531
+061S;Montellano;532
+061V;Turís;533
+062A;Santa Pola;534
+062B;Castellbisbal;535
+062M;Pedrezuela;536
+062S;Palacios y Villafranca, Los;537
+062V;Villanueva de Castellón;538
+063A;Villajoyosa/Vila Joiosa, la;539
+063B;Centelles;540
+063M;Alcobendas (sección 004 y otras secciones del distrito 01);541
+063S;Palomares del Río;542
+063V;Rocafort;543
+064A;Villena;544
+064B;Collbató;545
+064M;San Agustín del Guadalix;546
+064S;Paradas;547
+064V;Almàssera;548
+065A;Pilar de la Horadada;549
+065B;Corbera de Llobregat;550
+065M;San Fernando de Henares;551
+065S;Pedrera;552
+065V;Foios;553
+066A;Alcoy/Alcoi (distrito 01);554
+066B;Cubelles;555
+066M;San Lorenzo de El Escorial;556
+066S;Pilas;557
+066V;Pobla de Farnals, la;558
+067A;Alcoy/Alcoi (distrito 02);559
+067B;Dosrius;560
+067M;San Martín de la Vega;561
+067S;Puebla de Cazalla, La;562
+067V;Olleria, l';563
+068A;Alcoy/Alcoi (distrito 03);564
+068B;Esparreguera;565
+068M;Sevilla la Nueva;566
+068S;Puebla del Río, La;567
+068V;Cheste;568
+069A;Alcoy/Alcoi (distrito 04);569
+069B;Esplugues de Llobregat;570
+069M;Soto del Real;571
+069S;Rinconada, La;572
+069V;Puig de Santa Maria, el;573
+06AB;Alpera y otros municipios;574
+06AL;Alhama de Almería y otros municipios;575
+06AS;Soto del Barco y Muros de Nalón;576
+06AV;Navas del Marqués, Las y Peguerinos;577
+06BI;Orozko y otros municipios;578
+06BU;Cardeñadijo y otros municipios;579
+06CA;Valdáliga y otros municipios;580
+06CC;Arroyo de la Luz;581
+06CE;Ceuta (distrito 02);582
+06CO;Montemayor y Espejo;583
+06CR;Villahermosa y otros municipios;584
+06CS;Vall d'Alba y otros municipios;585
+06CU;Villamayor de Santiago y otros municipios;586
+06CZ;Cádiz (distritos 06 y 07);587
+06CÑ;Val do Dubra y Baña, A;588
+06GC;Arucas;589
+06GI;Alp y otros municipios;590
+06GP;Idiazabal y otros municipios;591
+06GR;Alfacar y Jun;592
+06GU;Humanes y otros municipios;593
+06HS;Aínsa-Sobrarbe y otros municipios;594
+06HU;Aroche y Rosal de la Frontera;595
+06JA;Porcuna y otros municipios;596
+06LE;León (distritos 08 y 09);597
+06LL;Bellver de Cerdanya y otros municipios;598
+06LO;Casalarreina y otros municipios;599
+06LU;Quiroga y otros municipios;600
+06MA;Almogía y Villanueva de la Concepción;601
+06ME;Melilla (distrito 08);602
+06MU;Alcantarilla;603
+06NA;Puente la Reina/Gares y otros municipios;604
+06OU;San Cristovo de Cea y otros municipios;605
+06PA;Astudillo y otros municipios;606
+06PO;Barro y Pontevedra (distrito 06);607
+06SA;Macotera y otros municipios;608
+06SG;Carbonero el Mayor y otros municipios;609
+06SO;San Esteban de Gormaz y otros municipios;610
+06TA;Aldea, L' y Camarles;611
+06TE;Montalbán y otros municipios;612
+06TF;Valle Gran Rey y otros municipios;613
+06TO;Cedillo del Condado y Palomeque;614
+06VA;Valladolid (SCD Pajarillos Altos - Las Flores) y Renedo de Esgueva;615
+06VI;Alegría-Dulantzi y otros municipios;616
+06ZA;Pina de Ebro y otros municipios;617
+06ZM;Fuentesaúco y otros municipios;618
+070A;Alcoy/Alcoi (distrito 05);619
+070B;Franqueses del Vallès, Les;620
+070M;Torrejón de la Calzada;621
+070S;Roda de Andalucía, La;622
+070V;San Antonio de Benagéber;623
+071A;Alcoy/Alcoi (distrito 06);624
+071B;Garriga, La;625
+071M;Torrejón de Velasco;626
+071S;Salteras;627
+071V;Rafelbunyol;628
+072A;Alcoy/Alcoi (distrito 07);629
+072B;Gavà;630
+072M;Torrelodones;631
+072S;San Juan de Aznalfarache;632
+072V;Almussafes;633
+073A;Benidorm (distrito 01);634
+073B;Sant Salvador de Guardiola y Manresa (distrito 06);635
+073M;Torres de la Alameda;636
+073S;Sanlúcar la Mayor;637
+073V;Tavernes Blanques;638
+074A;Benidorm (distrito 02);639
+074B;Igualada;640
+074M;Valdemorillo;641
+074S;Santiponce;642
+074V;Torrent (distrito 02);643
+075A;Benidorm (distrito 03);644
+075B;Llagosta, La;645
+075M;Velilla de San Antonio;646
+075S;Sevilla (SCD Number 1-A);647
+075V;Gandia (distrito 06);648
+076A;Benidorm (distrito 04);649
+076B;Llinars del Vallès;650
+076M;Villa del Prado;651
+076S;Sevilla (SCD Number 1-B);652
+076V;Buñol;653
+077A;Elche/Elx (distrito 01);654
+077B;Lliçà d'Amunt;655
+077M;Villalbilla;656
+077S;Sevilla (SCD Number 1-C);657
+077V;Massanassa;658
+078A;Elche/Elx (distrito 02);659
+078B;Lliçà de Vall;660
+078M;Villanueva de la Cañada;661
+078S;Sevilla (SCD Number 2-A);662
+078V;Vilamarxant;663
+079A;Elche/Elx (distrito 03);664
+079B;Malgrat de Mar;665
+079M;Villanueva del Pardillo;666
+079S;Sevilla (SCD Number 2-B);667
+079V;Alcàsser;668
+07AB;Casas de Juan Núñez y otros municipios;669
+07AL;Gérgal y otros municipios;670
+07AS;Pravia y Candamo;671
+07AV;Sanchidrián y otros municipios;672
+07BA;Arroyo de San Serván y Torremejía;673
+07BI;Igorre y otros municipios;674
+07BU;Ibeas de Juarros y otros municipios;675
+07CA;San Vicente de la Barquera y Val de San Vicente;676
+07CC;Alcuéscar y otros municipios;677
+07CO;Moriles y Monturque;678
+07CR;Villanueva de la Fuente y otros municipios;679
+07CS;Villafranca del Cid/Vilafranca y otros municipios;680
+07CU;Mesas, Las y otros municipios;681
+07CZ;Cádiz (distrito 08);682
+07CÑ;Santiago de Compostela (distrito 06) y Trazo;683
+07GC;Firgas;684
+07GI;Campdevànol y otros municipios;685
+07GP;Alegia y otros municipios;686
+07GR;Huétor de Santillán y otros municipios;687
+07GU;Jadraque y otros municipios;688
+07HS;Lanaja y otros municipios;689
+07HU;Cumbres Mayores y otros municipios;690
+07JA;Guarromán y otros municipios;691
+07LE;Valdefresno y otros municipios;692
+07LL;Sant Llorenç de Morunys y otros municipios;693
+07LO;Ezcaray y otros municipios;694
+07LU;Pantón y otros municipios;695
+07MA;Casabermeja y Colmenar;696
+07ME;Melilla (distrito 07);697
+07OU;Boborás y otros municipios;698
+07PA;Paredes de Nava y otros municipios;699
+07PO;Cañiza, A y Crecente;700
+07SA;Calvarrasa de Abajo y otros municipios;701
+07SG;Coca y otros municipios;702
+07SO;Burgo de Osma-Ciudad de Osma y otros municipios;703
+07TA;Ampolla, L' y Perelló, El;704
+07TE;Calamocha y otros municipios;705
+07TF;Frontera y Pinar de El Hierro, El;706
+07TO;Carranque;707
+07VA;Traspinedo y otros municipios;708
+07VI;Oyón-Oion y otros municipios;709
+07ZA;Sástago y otros municipios;710
+07ZM;Corrales del Vino y otros municipios;711
+080A;Elche/Elx (distrito 04);712
+080B;Manlleu;713
+080M;Villarejo de Salvanés;714
+080S;Sevilla (SCD Number 2-C);715
+080V;Sedaví;716
+081A;Elche/Elx (distrito 05);717
+081B;Martorell;718
+081M;Villaviciosa de Odón;719
+081S;Sevilla (SCD Number 2-D);720
+081V;Valencia (SCD Marxalenes);721
+082A;Elche/Elx (secciones 001 a 022 del distrito 06);722
+082B;Masnou, El;723
+082M;Tres Cantos;724
+082S;Sevilla (SCD Number 3-A);725
+082V;Meliana;726
+083A;Elche/Elx (distrito 07 y sección 023 del distrito 06);727
+083B;Masquefa;728
+083M;Alcalá de Henares (distrito 01);729
+083S;Sevilla (SCD Number 3-B);730
+083V;Benaguasil;731
+084A;Elda (distrito 01);732
+084B;Matadepera;733
+084M;Alcalá de Henares (distrito 02);734
+084S;Sevilla (SCD Number 4-A);735
+084V;Valencia (SCD El Botànic/La Roqueta);736
+085A;Elda (distrito 04);737
+085B;Molins de Rei;738
+085M;Alcalá de Henares (distrito 03);739
+085S;Sevilla (SCD Number 4-B);740
+085V;Picanya;741
+086A;Elda (distrito 05);742
+086B;Montcada i Reixac;743
+086M;Alcalá de Henares (distrito 04);744
+086S;Sevilla (SCD Number 4-C);745
+086V;Utiel;746
+087A;Orihuela (distrito 01);747
+087B;Montgat;748
+087M;Alcalá de Henares (distrito 05) y Santos de la Humosa, Los;749
+087S;Sevilla (SCD Number 4-D);750
+087V;Benifaió;751
+088A;Orihuela (distrito 02);752
+088B;Montmeló;753
+088M;Alcorcón (distrito 01);754
+088S;Sevilla (SCD Number 4-E);755
+088V;Alcúdia, l';756
+089A;Orihuela (distrito 03);757
+089B;Montornès del Vallès;758
+089M;Alcorcón (distrito 02);759
+089S;Sevilla (SCD Number 5-A);760
+089V;Gandia (distrito 05);761
+08AB;Villamalea y otros municipios;762
+08AL;Tabernas y otros municipios;763
+08AS;Corvera de Asturias e Illas;764
+08AV;Tiñosillos y otros municipios;765
+08BA;Zarza, La y otros municipios;766
+08BI;Dima y otros municipios;767
+08BU;Medina de Pomar y otros municipios;768
+08CA;Alfoz de Lloredo y otros municipios;769
+08CC;Almoharín y otros municipios;770
+08CO;Luque y Carcabuey;771
+08CR;Torrenueva y otros municipios;772
+08CS;Lucena del Cid y otros municipios;773
+08CU;Provencio, El y otros municipios;774
+08CZ;Cádiz (distrito 09);775
+08CÑ;Boqueixón y Touro;776
+08GC;Gáldar;777
+08GI;Sant Joan de les Abadesses y otros municipios;778
+08GP;Berastegi y otros municipios;779
+08GR;Deifontes y otros municipios;780
+08GU;Torija y otros municipios;781
+08HS;Sallent de Gállego y otros municipios;782
+08HU;Jabugo y otros municipios;783
+08JA;Mengíbar y Jabalquinto;784
+08LE;Chozas de Abajo y otros municipios;785
+08LL;Pobla de Segur, La y otros municipios;786
+08LO;Baños de Río Tobía y otros municipios;787
+08LU;Palas de Rei y Antas de Ulla;788
+08MA;Villanueva del Trabuco y Villanueva del Rosario;789
+08MU;Alguazas;790
+08NA;Beriáin y otros municipios;791
+08OU;Maside y otros municipios;792
+08PA;Carrión de los Condes y otros municipios;793
+08PO;Neves, As y Arbo;794
+08SA;Galindo y Perahuy y otros municipios;795
+08SG;Navas de Oro y otros municipios;796
+08SO;Golmayo y otros municipios;797
+08TA;Xerta y otros municipios;798
+08TE;Monreal del Campo y otros municipios;799
+08TF;Villa de Mazo y Fuencaliente de la Palma;800
+08TO;Alameda de la Sagra y otros municipios;801
+08VA;Campaspero y otros municipios;802
+08VI;Laguardia y otros municipios;803
+08ZA;Quinto y otros municipios;804
+08ZM;Morales de Toro y otros municipios;805
+090A;Orihuela (distrito 04);806
+090B;Moià;807
+090M;Alcorcón (distrito 03);808
+090S;Sevilla (SCD Number 5-B);809
+090V;Valencia (SCD Fronteta de Sant Lluís/La Punta/Ciutat de les Arts i de les Ciènces);810
+091A;Orihuela (distrito 05);811
+091B;Navarcles;812
+091M;Alcorcón (distrito 04);813
+091S;Sevilla (SCD Number 5-C);814
+091V;Valencia (SCD Safranar/Favara);815
+092A;Orihuela (distrito 06);816
+092B;Navàs;817
+092M;Aranjuez (distrito 01);818
+092S;Sevilla (SCD Number 5-D);819
+092V;Valencia (SCD La Malva-rosa);820
+093A;Orihuela (distrito 07);821
+093B;Olesa de Montserrat;822
+093M;Aranjuez (distrito 02);823
+093S;Sevilla (SCD Number 5-E);824
+093V;Gandia (distrito 04);825
+094A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 01);826
+094B;Palau-solità i Plegamans;827
+094M;Aranjuez (distrito 03);828
+094S;Sevilla (SCD Number 6-A);829
+094V;Godella;830
+095A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 02);831
+095B;Pallejà;832
+095M;Aranjuez (distrito 04);833
+095S;Sevilla (SCD Number 6-B);834
+095V;Alginet;835
+096A;San Vicente del Raspeig/Sant Vicent del Raspeig (distrito 03);836
+096B;Papiol, El;837
+096M;Arganda del Rey;838
+096S;Sevilla (SCD Number 6-C);839
+096V;Canals;840
+097A;Torrevieja (distrito 01);841
+097B;Parets del Vallès;842
+097M;Boadilla del Monte;843
+097S;Sevilla (SCD Number 7-A);844
+097V;Valencia (SCD Poblats de L'Oest);845
+098A;Torrevieja (distrito 02);846
+098B;Piera;847
+098M;Collado Villalba;848
+098S;Sevilla (SCD Number 7-B);849
+098V;Benetússer;850
+099A;Torrevieja (distrito 03);851
+099B;Pineda de Mar;852
+099M;Coslada (distrito 01);853
+099S;Sevilla (SCD Number 7-C);854
+099V;Valencia (SCD La Creu del Grau);855
+09AB;Casas-Ibáñez y otros municipios;856
+09AL;Tíjola y otros municipios;857
+09AS;Grado y Regueras, Las;858
+09AV;Madrigal de las Altas Torres y otros municipios;859
+09BA;Higuera de Vargas y otros municipios;860
+09BI;Sondika y Loiu;861
+09BU;Oña y otros municipios;862
+09CA;Mazcuerras y otros municipios;863
+09CC;Valdefuentes y otros municipios;864
+09CO;Doña Mencía y Zuheros;865
+09CR;Santa Cruz de Mudela y otros municipios;866
+09CS;Soneja y otros municipios;867
+09CU;San Lorenzo de la Parrilla y otros municipios;868
+09CZ;Cádiz (distrito 10);869
+09CÑ;Arzúa y Santiso;870
+09GC;Haría;871
+09GI;Camprodon y otros municipios;872
+09GP;Ibarra;873
+09GR;Moclín y otros municipios;874
+09GU;Brihuega y otros municipios;875
+09HS;Benasque y otros municipios;876
+09HU;Cortegana;877
+09JA;Villanueva de la Reina y otros municipios;878
+09LE;Valderrueda y otros municipios;879
+09LL;Torà y otros municipios;880
+09LO;Entrena y otros municipios;881
+09LU;Monterroso y Taboada;882
+09MA;Periana y otros municipios;883
+09MU;Alhama de Murcia;884
+09NA;Larraga y otros municipios;885
+09OU;Avión y otros municipios;886
+09PO;Pazos de Borbén y otros municipios;887
+09SA;Cespedosa de Tormes y otros municipios;888
+09SG;Segovia (distritos 01 y 02);889
+09SO;Almazán;890
+09TA;Benissanet y otros municipios;891
+09TE;Utrillas y otros municipios;892
+09TF;Tazacorte y Tijarafe;893
+09TO;Yuncler y otros municipios;894
+09VA;Quintanilla de Onésimo y otros municipios;895
+09VI;Amurrio;896
+09ZA;Cuarte de Huerva y Cadrete;897
+09ZM;Montamarta y otros municipios;898
+100A;Alicante (SCD Number 1);899
+100B;Polinyà;900
+100M;Coslada (distrito 02);901
+100S;Sevilla (SCD Number 7-D);902
+100V;Valencia (SCD La Petxina);903
+101A;Alicante (SCD Number 2-A);904
+101B;Premià de Mar;905
+101M;Coslada (distritos 03 y 04);906
+101S;Sevilla (SCD Number 8-A);907
+101V;Torrent (distrito 04);908
+102A;Alicante (SCD Number 2-B);909
+102B;Ripollet;910
+102M;Fuenlabrada (distrito 01);911
+102S;Sevilla (SCD Number 8-B);912
+102V;Valencia (SCD El Grau/Natzaret);913
+103A;Alicante (SCD Number 3-A);914
+103B;Roca del Vallès, La;915
+103M;Fuenlabrada (distrito 02);916
+103S;Sevilla (SCD Number 8-C);917
+103V;Carlet;918
+104A;Alicante (SCD Number 3-B);919
+104B;Pont de Vilomara i Rocafort, El;920
+104M;Fuenlabrada (distrito 03);921
+104S;Sevilla (SCD Number 8-D);922
+104V;Massamagrell;923
+105A;Alicante (SCD Number 3-C);924
+105B;Roda de Ter;925
+105M;Fuenlabrada (distrito 04);926
+105S;Sevilla (SCD Number 9-A);927
+105V;Sagunto/Sagunt (distrito 03);928
+106A;Alicante (SCD Number 4-A);929
+106B;Sallent;930
+106M;Fuenlabrada (distrito 05);931
+106S;Sevilla (SCD Number 9-B);932
+106V;Valencia (SCD L'Amistat/La Vega Baixa/La Carrasca);933
+107A;Alicante (SCD Number 4-B);934
+107B;Santpedor;935
+107M;Fuenlabrada (distrito 06);936
+107S;Sevilla (SCD Number 9-C);937
+107V;Tavernes de la Valldigna;938
+108A;Alicante (SCD Number 4-C);939
+108B;Sant Adrià de Besòs;940
+108M;Fuenlabrada (distrito 07);941
+108S;Sevilla (SCD Number 9-D);942
+108V;Sagunto/Sagunt (distrito 06);943
+109A;Alicante (SCD Number 5-A);944
+109B;Sant Andreu de la Barca;945
+109M;Fuenlabrada (distrito 08);946
+109S;Sevilla (SCD Number 9-E);947
+109V;Valencia (SCD Tres Forques/La Fontsanta/La Llum);948
+10AB;Fuente-Álamo y otros municipios;949
+10AL;Oria y otros municipios;950
+10AS;Morcín y otros municipios;951
+10AV;San Pedro del Arroyo y otros municipios;952
+10BA;Villanueva del Fresno y Zahínos;953
+10BI;Urduliz y otros municipios;954
+10BU;Belorado y otros municipios;955
+10CA;Campoo de Enmedio y Hermandad de Campoo de Suso;956
+10CC;Madroñera y otros municipios;957
+10CO;Benamejí y otros municipios;958
+10CR;Fuencaliente y otros municipios;959
+10CS;Artana y otros municipios;960
+10CZ;San Fernando (distrito 01);961
+10CÑ;Mesía y Frades;962
+10GC;Ingenio;963
+10GI;Vall d'en Bas, La y otros municipios;964
+10GP;Anoeta y otros municipios;965
+10GR;Montejícar y otros municipios;966
+10GU;Pioz y Pozo de Guadalajara;967
+10HS;Castejón de Sos y otros municipios;968
+10HU;Santa Olalla del Cala y otros municipios;969
+10JA;Vilches y Santa Elena;970
+10LE;Cistierna y otros municipios;971
+10LL;Artesa de Segre y otros municipios;972
+10LO;Autol y Quel;973
+10LU;Saviñao, O y Bóveda;974
+10MA;Almáchar y otros municipios;975
+10MU;Archena;976
+10NA;Altsasu/Alsasua y otros municipios;977
+10OU;Cartelle y otros municipios;978
+10PA;Saldaña y otros municipios;979
+10PO;Mondariz y Mondariz-Balneario;980
+10SA;Sotoserrano y otros municipios;981
+10SG;San Cristóbal de Segovia y otros municipios;982
+10SO;Soria;983
+10TA;Gandesa y Batea;984
+10TE;Cella y otros municipios;985
+10TF;Puntagorda y otros municipios;986
+10TO;Numancia de la Sagra y Pantoja;987
+10VA;Pedrajas de San Esteban y otros municipios;988
+10VI;Laudio/Llodio;989
+10ZA;Muel y otros municipios;990
+10ZM;Villalpando y otros municipios;991
+110A;Alicante (SCD Number 5-B);992
+110B;Sant Andreu de Llavaneres;993
+110M;Fuenlabrada (distrito 09);994
+110S;Sevilla (SCD Number 10-A);995
+110V;Valencia (SCD Morvedre/Trinitat);996
+111A;Alicante (SCD Number 6-A);997
+111B;Sant Antoni de Vilamajor;998
+111M;Getafe (distrito 01);999
+111S;Sevilla (SCD Number 10-B);1000
+111V;Eliana, l';1001
+112A;Alicante (SCD Number 6-B);1002
+112B;Sant Celoni;1003
+112M;Getafe (distrito 02);1004
+112S;Sevilla (SCD Number 11);1005
+112V;Valencia (SCD Tormos/Sant Antoni);1006
+113A;Alicante (SCD Number 7-A);1007
+113B;Sant Climent de Llobregat;1008
+113M;Getafe (distrito 03);1009
+113S;Tocina;1010
+113V;Silla;1011
+114A;Alicante (SCD Number 7-B);1012
+114B;Sant Fost de Campsentelles;1013
+114M;Getafe (distrito 04);1014
+114S;Tomares;1015
+114V;Torrent (distrito 01);1016
+115A;Alicante (SCD Number 8-A);1017
+115B;Sant Feliu de Codines;1018
+115M;Leganés (distrito 01);1019
+115S;Umbrete;1020
+115V;Valencia (SCD El Pla del Remei/Gran Via);1021
+116A;Alicante (SCD Number 8-B);1022
+116B;Sant Feliu de Llobregat;1023
+116M;Leganés (distrito 02);1024
+116S;Utrera (distrito 01);1025
+116V;Valencia (SCD Mont-Olivet);1026
+117B;Sant Fruitós de Bages;1027
+117M;Leganés (distrito 03);1028
+117S;Utrera (distrito 03);1029
+117V;Puçol;1030
+118B;Vilassar de Dalt;1031
+118M;Leganés (distrito 04);1032
+118S;Villanueva del Ariscal;1033
+118V;Valencia (SCD En Corts/Na Rovella);1034
+119B;Sant Joan Despí;1035
+119M;Leganés (distrito 05);1036
+119S;Villanueva del Río y Minas;1037
+119V;Valencia (SCD La Creu Coberta/Sant Marcel.lí/Camí Real);1038
+11AB;Yeste y otros municipios;1039
+11AL;Vélez-Blanco y otros municipios;1040
+11AS;Teverga y otros municipios;1041
+11AV;Sotillo de la Adrada y otros municipios;1042
+11BA;Oliva de la Frontera y Valencia del Mombuey;1043
+11BI;Plentzia y Barrika;1044
+11BU;Valle de Valdebezana y otros municipios;1045
+11CA;Valderredible y otros municipios;1046
+11CC;Logrosán y otros municipios;1047
+11CO;Rambla, La y otros municipios;1048
+11CR;Calzada de Calatrava y otros municipios;1049
+11CS;Altura y otros municipios;1050
+11CU;Valeras, Las y otros municipios;1051
+11CZ;San Fernando (distrito 06);1052
+11CÑ;Boimorto y otros municipios;1053
+11GC;Mogán;1054
+11GP;Zizurkil y Aduna;1055
+11GR;Alhama de Granada y otros municipios;1056
+11GU;Mondéjar y otros municipios;1057
+11HS;Graus y otros municipios;1058
+11HU;Aracena e Higuera de la Sierra;1059
+11JA;Begíjar y otros municipios;1060
+11LE;Boñar y otros municipios;1061
+11LL;Ponts y otros municipios;1062
+11LO;Agoncillo y otros municipios;1063
+11LU;Paradela y otros municipios;1064
+11MA;Vélez-Málaga (distrito 05) y otros municipios;1065
+11MU;Beniel;1066
+11NA;Etxarri Aranatz y otros municipios;1067
+11OU;Padrenda y otros municipios;1068
+11PA;Velilla del Río Carrión y otros municipios;1069
+11PO;Soutomaior y Pontevedra (distrito 07);1070
+11SA;Béjar y Candelario;1071
+11SG;Navalmanzano y otros municipios;1072
+11TA;Ascó y otros municipios;1073
+11TE;Albarracín y otros municipios;1074
+11TF;San Andrés y Sauces y Puntallana;1075
+11TO;Esquivias y Borox;1076
+11VA;Olmedo y otros municipios;1077
+11VI;Salvatierra/Agurain;1078
+11ZA;Cariñena y otros municipios;1079
+11ZM;Santa Cristina de la Polvorosa y otros municipios;1080
+120B;Vilassar de Mar;1081
+120M;Leganés (distrito 06);1082
+120S;Villaverde del Río;1083
+120V;Requena;1084
+121B;Sant Just Desvern;1085
+121M;Leganés (distrito 07);1086
+121S;Viso del Alcor, El;1087
+121V;Valencia (SCD Poblats del Sud);1088
+122B;Premià de Dalt;1089
+122M;Majadahonda (distrito 01);1090
+122S;Isla Mayor;1091
+122V;Valencia (SCD Safranar/Vara de Quart);1092
+123B;Sant Pere de Ribes;1093
+123M;Majadahonda (distrito 02);1094
+123S;Cuervo de Sevilla, El;1095
+123V;Carcaixent;1096
+124B;Sant Pol de Mar;1097
+124M;Móstoles (distrito 01);1098
+124V;Valencia (SCD L'IllaPerduda/Ciutat Jardin);1099
+125B;Sant Quirze del Vallès;1100
+125M;Móstoles (distrito 02);1101
+125V;Picassent;1102
+126B;Sant Sadurní d'Anoia;1103
+126M;Móstoles (distrito 03);1104
+126V;Moncada;1105
+127B;Santa Coloma de Cervelló;1106
+127M;Móstoles (sección 009 y otras secciones del distrito 04);1107
+127V;Cullera;1108
+128B;Santa Eulàlia de Ronçana;1109
+128M;Parla (sección 004 y otras secciones del distrito 01);1110
+128V;Valencia (SCD Malilla);1111
+129B;Santa Margarida de Montbui;1112
+129M;Pinto (distrito 01);1113
+129V;Valencia (SCD Ciutat Fallera);1114
+12AB;Riópar y otros municipios;1115
+12AL;Macael y otros municipios;1116
+12AV;Adrada, La y Piedralaves;1117
+12BA;Jerez de los Caballeros y otros municipios;1118
+12BI;Bakio y otros municipios;1119
+12BU;Villarcayo de Merindad de Castilla la Vieja y otros municipios;1120
+12CA;Corvera de Toranzo y otros municipios;1121
+12CC;Torrecillas de la Tiesa y otros municipios;1122
+12CO;Bujalance y Cañete de las Torres;1123
+12CR;Fuente el Fresno y Cortijos, Los;1124
+12CS;Viver y otros municipios;1125
+12CU;Honrubia y otros municipios;1126
+12CZ;San Fernando (distrito 05);1127
+12CÑ;Cerceda y Tordoia;1128
+12GC;Moya;1129
+12GI;Amer y otros municipios;1130
+12GP;Getaria y otros municipios;1131
+12GR;Moraleda de Zafayona y otros municipios;1132
+12GU;Loranca de Tajuña y otros municipios;1133
+12HS;Benabarre y otros municipios;1134
+12HU;Minas de Riotinto y otros municipios;1135
+12JA;Rus y Canena;1136
+12LE;Mansilla de las Mulas y otros municipios;1137
+12LL;Sant Guim de Freixenet y otros municipios;1138
+12LO;Pradejón y otros municipios;1139
+12LU;Láncara y otros municipios;1140
+12MA;Alcaucín y otros municipios;1141
+12MU;Blanca;1142
+12NA;Lakuntza y otros municipios;1143
+12OU;Maceda y otros municipios;1144
+12PA;Herrera de Pisuerga y otros municipios;1145
+12PO;Baiona y Oia;1146
+12SA;Linares de Riofrío y otros municipios;1147
+12SG;Cantimpalos y otros municipios;1148
+12TA;Móra la Nova y otros municipios;1149
+12TE;Sarrión y otros municipios;1150
+12TF;Adeje;1151
+12TO;Ocaña y Ciruelos;1152
+12VA;Alaejos y otros municipios;1153
+12VI;Vitoria-Gasteiz (distrito 01);1154
+12ZA;Alfamén y otros municipios;1155
+12ZM;San Cristóbal de Entreviñas y otros municipios;1156
+130B;Santa Margarida i els Monjos;1157
+130M;Pinto (distrito 02);1158
+130V;Valencia (SCD Arrancapins);1159
+131B;Barberà del Vallès;1160
+131M;Pozuelo de Alarcón (distrito 01);1161
+131V;Sagunto/Sagunt (distrito 07);1162
+132B;Santa Maria de Palautordera;1163
+132M;Pozuelo de Alarcón (distrito 02);1164
+132V;Valencia (SCD Russafa);1165
+133B;Santa Perpètua de Mogoda;1166
+133M;Rivas-Vaciamadrid (sección 029 y otras secciones del distrito 01);1167
+133V;Bétera;1168
+134B;Sant Vicenç dels Horts;1169
+134M;Rozas de Madrid, Las (sección 001 y otras secciones del distrito 01);1170
+134V;Valencia (SCD Benicalap);1171
+135B;Sentmenat;1172
+135M;San Sebastián de los Reyes (sección 033 y otras secciones del distrito 01);1173
+135V;Pobla de Vallbona, la;1174
+136B;Sitges;1175
+136M;Torrejón de Ardoz (distrito 01);1176
+136V;Alboraya;1177
+137B;Súria;1178
+137M;Torrejón de Ardoz (distrito 02);1179
+137V;Quart de Poblet;1180
+138B;Teià;1181
+138M;Torrejón de Ardoz (distrito 03);1182
+138V;Valencia (SCD Patraix);1183
+139B;Tiana;1184
+139M;Torrejón de Ardoz (distrito 04);1185
+139V;Valencia (SCD Aiora);1186
+13AB;Elche de la Sierra y otros municipios;1187
+13AL;Arboleas y otros municipios;1188
+13AS;Nava y otros municipios;1189
+13AV;Navaluenga y otros municipios;1190
+13BA;Barcarrota y Salvaleón;1191
+13BI;Zamudio y otros municipios;1192
+13BU;Sasamón y otros municipios;1193
+13CA;Santiurde de Toranzo y otros municipios;1194
+13CC;Guadalupe y otros municipios;1195
+13CO;Baena y Valenzuela;1196
+13CR;Puebla de Don Rodrigo y otros municipios;1197
+13CS;Borriol y otros municipios;1198
+13CU;Villanueva de la Jara y otros municipios;1199
+13CZ;San Fernando (distrito 04);1200
+13CÑ;Curtis y Aranga;1201
+13GC;Oliva, La;1202
+13GI;Santa Coloma de Farners y Brunyola;1203
+13GP;Zestoa y Aizarnazabal;1204
+13GR;Illora y Valderrubio;1205
+13GU;Sacedón y otros municipios;1206
+13HS;Tamarite de Litera y otros municipios;1207
+13HU;Nerva y Granada de Río-Tinto, La;1208
+13JA;Torreperogil y Sabiote;1209
+13LE;Sahagún y otros municipios;1210
+13LL;Alcarràs y otros municipios;1211
+13LO;Rincón de Soto y Aldeanueva de Ebro;1212
+13LU;Becerreá y otros municipios;1213
+13MA;Sayalonga y otros municipios;1214
+13MU;Bullas;1215
+13NA;Lekunberri y otros municipios;1216
+13OU;Baños de Molgas y otros municipios;1217
+13PA;Cervera de Pisuerga y otros municipios;1218
+13PO;Bueu;1219
+13SA;Alberca, La y otros municipios;1220
+13SG;Olombrada y otros municipios;1221
+13TA;Castellvell del Camp y Almoster;1222
+13TE;Mora de Rubielos y otros municipios;1223
+13TF;Arafo;1224
+13TO;Mocejón y Magán;1225
+13VA;Rueda y otros municipios;1226
+13VI;Vitoria-Gasteiz (distrito 02);1227
+13ZA;Daroca y otros municipios;1228
+13ZM;Santibáñez de Vidriales y otros municipios;1229
+140B;Torelló;1230
+140M;Valdemoro (distrito 01);1231
+140V;Paiporta;1232
+141B;Torrelles de Llobregat;1233
+141M;Valdemoro (distrito 02);1234
+141V;Valencia (SCD Albors/Camí Fondo/Penya-roja);1235
+142B;Vacarisses;1236
+142M;Madrid (SCD Palacio);1237
+142V;Gandia (distrito 02);1238
+143B;Vallirana;1239
+143M;Madrid (SCD Embajadores-2);1240
+143V;Valencia (SCD Torrefiel);1241
+144B;Vic;1242
+144M;Madrid (SCD Embajadores-1);1243
+144V;Valencia (SCD Ciutat Vella);1244
+145B;Vilanova del Camí;1245
+145M;Madrid (SCD Cortes);1246
+145V;Valencia (SCD Orriols/Sant llorenç);1247
+146B;Vilafranca del Penedès;1248
+146M;Madrid (SCD Justicia);1249
+146V;Algemesí;1250
+147B;Badia del Vallès (sección 006 y otras secciones del distrito 01);1251
+147M;Madrid (SCD Universidad);1252
+147V;Sueca;1253
+148B;Badalona (distrito 01);1254
+148M;Madrid (SCD Sol);1255
+148V;Valencia (SCD El Cabanyal-El Canyamelar/Beteró);1256
+149B;Badalona (distrito 02);1257
+149M;Madrid (SCD Imperial);1258
+149V;Catarroja;1259
+14AB;Pozohondo y otros municipios;1260
+14AL;Cantoria y otros municipios;1261
+14AS;Colunga y Caravia;1262
+14AV;Casavieja y otros municipios;1263
+14BA;Almendral y otros municipios;1264
+14BI;Iurreta y Muxika;1265
+14BU;Santa María del Campo y otros municipios;1266
+14CA;Selaya y otros municipios;1267
+14CC;Peraleda de la Mata y otros municipios;1268
+14CO;Villaviciosa de Córdoba y otros municipios;1269
+14CR;Porzuna y Robledo, El;1270
+14CS;Castellón de la Plana/Castelló de la Plana (distritos 01 y 02);1271
+14CU;Casasimarro y otros municipios;1272
+14CZ;San Fernando (distritos 02 y 03);1273
+14CÑ;Paderne y otros municipios;1274
+14GC;Pájara;1275
+14GI;Hostalric y otros municipios;1276
+14GP;Legorreta y otros municipios;1277
+14GR;Montefrío y Algarinejo;1278
+14GU;Cifuentes y otros municipios;1279
+14HS;Binaced y otros municipios;1280
+14HU;Paterna del Campo y otros municipios;1281
+14JA;Navas de San Juan y Arquillos;1282
+14LE;Santas Martas y otros municipios;1283
+14LL;Rosselló y otros municipios;1284
+14LO;Cervera del Río Alhama y otros municipios;1285
+14LU;Castroverde y otros municipios;1286
+14MA;Cómpeta y Frigiliana;1287
+14MU;Calasparra;1288
+14NA;Doneztebe/Santesteban y otros municipios;1289
+14OU;Rairiz de Veiga y otros municipios;1290
+14PA;Aguilar de Campoo y otros municipios;1291
+14PO;Caldas de Reis;1292
+14SA;Fuenteguinaldo y otros municipios;1293
+14SG;Cantalejo y otros municipios;1294
+14TA;Cambrils y Vinyols i els Arcs;1295
+14TE;Cantavieja y otros municipios;1296
+14TF;Arico;1297
+14TO;Polán y otros municipios;1298
+14VA;Nava del Rey y otros municipios;1299
+14VI;Vitoria-Gasteiz (distrito 03);1300
+14ZA;Maluenda y otros municipios;1301
+14ZM;Puebla de Sanabria y otros municipios;1302
+150B;Badalona (distrito 03);1303
+150M;Madrid (SCD Acacias);1304
+150V;Valencia (SCD Benimaclet);1305
+151B;Badalona (distrito 04);1306
+151M;Madrid (SCD Chopera);1307
+151V;Xàtiva;1308
+152B;Badalona (distrito 05);1309
+152M;Madrid (SCD Legazpi);1310
+152V;Xirivella;1311
+153B;Badalona (distrito 06);1312
+153M;Madrid (SCD Atocha-Delicias);1313
+153V;Alaquàs;1314
+154B;Badalona (distrito 07);1315
+154M;Madrid (SCD Palos de Moguer);1316
+154V;Valencia (SCD El Pla del Real);1317
+155B;Badalona (distrito 08);1318
+155M;Madrid (SCD Pacífico);1319
+155V;Manises;1320
+156B;Badalona (distrito 09);1321
+156M;Madrid (SCD Adelfas);1322
+156V;Valencia (SCD Nou Moles/Soternes);1323
+157B;Barcelona (SCD el Raval sud);1324
+157M;Madrid (SCD Estrella);1325
+157V;Aldaia;1326
+158B;Barcelona (SCD el Raval nord);1327
+158M;Madrid (SCD Ibiza);1328
+158V;Valencia (SCD La Raiosa/L'Hort de Senabre);1329
+159B;Barcelona (SCD el Barri Gòtic);1330
+159M;Madrid (SCD Niño Jesús-Jerónimos);1331
+159V;Ontinyent;1332
+15AB;Alcaraz y otros municipios;1333
+15AL;Turre y otros municipios;1334
+15AS;Caso y otros municipios;1335
+15AV;Arenal, El y otros municipios;1336
+15BA;Salvatierra de los Barros y otros municipios;1337
+15BI;Berriz y Garai;1338
+15BU;Salas de los Infantes y otros municipios;1339
+15CA;Castro-Urdiales y Guriezo;1340
+15CC;Serradilla y otros municipios;1341
+15CO;Posadas y Hornachuelos;1342
+15CR;Chillón y otros municipios;1343
+15CS;Moncofa y Chilches/Xilxes;1344
+15CU;Minglanilla y otros municipios;1345
+15CZ;Puerto Real;1346
+15CÑ;Monfero y otros municipios;1347
+15GC;Puerto del Rosario;1348
+15GI;Riells i Viabrea y Breda;1349
+15GP;Andoain;1350
+15GR;Loja y Zagra;1351
+15GU;Molina de Aragón y otros municipios;1352
+15HU;Niebla y Villarrasa;1353
+15JA;Santisteban del Puerto y Aldeaquemada;1354
+15LE;Valderas y otros municipios;1355
+15LL;Torrefarrera;1356
+15LU;Fonsagrada, A y otros municipios;1357
+15MA;Rincón de la Victoria y otros municipios;1358
+15MU;Caravaca de la Cruz;1359
+15NA;Leitza y otros municipios;1360
+15OU;Lobios y otros municipios;1361
+15PA;Guardo;1362
+15PO;Cambados;1363
+15SA;Fuentes de Oñoro y otros municipios;1364
+15SG;Boceguillas y otros municipios;1365
+15TA;Riudoms y otros municipios;1366
+15TE;Alcañiz;1367
+15TF;Breña Alta;1368
+15TO;Cobisa y Layos;1369
+15VA;Medina de Rioseco y otros municipios;1370
+15VI;Vitoria-Gasteiz (distrito 04);1371
+15ZA;Ariza y otros municipios;1372
+15ZM;San Pedro de Ceque y otros municipios;1373
+160B;Barcelona (SCD la Barceloneta);1374
+160M;Madrid (SCD Recoletos);1375
+160V;Burjassot;1376
+161B;Barcelona (SCD Sant Pere, Santa Caterina i la Ribera);1377
+161M;Madrid (SCD Goya);1378
+161V;Valencia (SCD Campanar);1379
+162B;Barcelona (SCD el Fort Pienc);1380
+162M;Madrid (SCD Fuente del Berro);1381
+162V;Torrent (distrito 03);1382
+163B;Barcelona (SCD la Sagrada Família est);1383
+163M;Madrid (SCD Guindalera-1);1384
+163V;Mislata;1385
+164B;Barcelona (SCD la Sagrada Família oest);1386
+164M;Madrid (SCD Lista);1387
+164V;Alzira;1388
+165B;Barcelona (SCD la Dreta de l'Eixample nord);1389
+165M;Madrid (SCD Castellana);1390
+165V;Paterna;1391
+166B;Barcelona (SCD la Dreta de l'Eixample sud);1392
+166M;Madrid (SCD Guindalera-2);1393
+167B;Barcelona (SCD l'Antiga Esquerra de l'Eixample sud);1394
+167M;Madrid (SCD El Viso);1395
+168B;Barcelona (SCD l'Antiga Esquerra de l'Eixample nord);1396
+168M;Madrid (SCD Prosperidad);1397
+169B;Barcelona (SCD la Nova Esquerra de l'Eixample nord);1398
+169M;Madrid (SCD Ciudad Jardín);1399
+16AB;Balazote y otros municipios;1400
+16AL;Antas y otros municipios;1401
+16AS;Cabrales y otros municipios;1402
+16AV;Arenas de San Pedro y Poyales del Hoyo;1403
+16BA;Santa Marta y otros municipios;1404
+16BI;Abadiño y Atxondo;1405
+16BU;Quintanar de la Sierra y otros municipios;1406
+16CA;Liérganes y otros municipios;1407
+16CC;Torrejoncillo y otros municipios;1408
+16CO;Fuente Obejuna y otros municipios;1409
+16CR;Piedrabuena y Luciana;1410
+16CS;Almenara y Llosa, la;1411
+16CU;Campillo de Altobuey y otros municipios;1412
+16CZ;Puerto de Santa María, El (distrito 04);1413
+16CÑ;Fene y Cabanas;1414
+16GC;San Bartolomé;1415
+16GI;Sant Hilari Sacalm y otros municipios;1416
+16GP;Aretxabaleta;1417
+16GR;Chimeneas y otros municipios;1418
+16GU;Casar, El y Uceda;1419
+16HS;Sariñena y otros municipios;1420
+16HU;Bonares y Lucena del Puerto;1421
+16JA;Villanueva del Arzobispo e Iznatoraf;1422
+16LE;Villamañán y otros municipios;1423
+16LL;Alcoletge y otros municipios;1424
+16LO;Alfaro;1425
+16LU;Pontenova, A y otros municipios;1426
+16MA;Villanueva de Algaidas y Villanueva de Tapia;1427
+16MU;Cehegín;1428
+16NA;Bera y otros municipios;1429
+16OU;Muíños y otros municipios;1430
+16PA;Villamuriel de Cerrato;1431
+16PO;Cangas;1432
+16SA;Fuente de San Esteban, La y otros municipios;1433
+16SG;Riaza y otros municipios;1434
+16TA;Riudecols y otros municipios;1435
+16TE;Andorra;1436
+16TF;Breña Baja;1437
+16TO;Burguillos de Toledo y Ajofrín;1438
+16VA;Villalón de Campos y otros municipios;1439
+16VI;Vitoria-Gasteiz (distrito 05);1440
+16ZA;Ateca y otros municipios;1441
+16ZM;Alcañices y otros municipios;1442
+170B;Barcelona (SCD la Nova Esquerra de l'Eixample sud);1443
+170M;Madrid (SCD Hispanoamérica);1444
+171B;Barcelona (SCD Sant Antoni);1445
+171M;Madrid (SCD Nueva España);1446
+172B;Barcelona (SCD el Poble Sec est);1447
+172M;Madrid (SCD Castilla);1448
+173B;Barcelona (SCD el Poble Sec oest);1449
+173M;Madrid (SCD Bellas Vistas);1450
+174B;Barcelona (SCD la Marina i la Zona Franca-Port);1451
+174M;Madrid (SCD Cuatro Caminos);1452
+175B;Barcelona (SCD la Font de la Guatlla);1453
+175M;Madrid (SCD Castillejos);1454
+176B;Barcelona (SCD Hostafrancs);1455
+176M;Madrid (SCD Almenara);1456
+177B;Barcelona (SCD la Bordeta);1457
+177M;Madrid (SCD Valdeacederas);1458
+178B;Barcelona (SCD Sants-Badal);1459
+178M;Madrid (SCD Berruguete);1460
+179B;Barcelona (SCD Sants oest);1461
+179M;Madrid (SCD Gaztambide);1462
+17AB;Munera y otros municipios;1463
+17AL;Almería (distritos 01 y 02);1464
+17AS;Aller;1465
+17AV;Solosancho y otros municipios;1466
+17BA;Burguillos del Cerro y otros municipios;1467
+17BI;Zaldibar y otros municipios;1468
+17BU;Lerma y otros municipios;1469
+17CA;Noja y otros municipios;1470
+17CC;Guijo de Galisteo y otros municipios;1471
+17CO;Dos Torres y otros municipios;1472
+17CR;Abenójar y otros municipios;1473
+17CS;Nules y Vilavella, la;1474
+17CU;Landete y otros municipios;1475
+17CZ;Puerto de Santa María, El (distrito 03);1476
+17CÑ;Neda y San Sadurniño;1477
+17GC;Aldea de San Nicolás, La;1478
+17GI;Cruïlles, Monells i Sant Sadurní de l'Heura y otros municipios;1479
+17GP;Azkoitia;1480
+17GR;Lecrín y otros municipios;1481
+17GU;Cabanillas del Campo y otros municipios;1482
+17HS;Alcolea de Cinca y otros municipios;1483
+17HU;Villalba del Alcor y Manzanilla;1484
+17JA;Castellar y otros municipios;1485
+17LE;Laguna de Negrillos y otros municipios;1486
+17LL;Bell-lloc d'Urgell y otros municipios;1487
+17LO;Arnedo;1488
+17LU;Pastoriza, A y Abadín;1489
+17MA;Cuevas de San Marcos y Cuevas Bajas;1490
+17MU;Ceutí;1491
+17NA;Erro y otros municipios;1492
+17OU;Monterrei y otros municipios;1493
+17PO;Cuntis;1494
+17SA;Ledesma y otros municipios;1495
+17SG;Cuéllar;1496
+17TA;Falset y otros municipios;1497
+17TE;Teruel;1498
+17TF;Buenavista del Norte;1499
+17TO;Guardia, La y otros municipios;1500
+17VA;Villabrágima y otros municipios;1501
+17VI;Vitoria-Gasteiz (distrito 06);1502
+17ZA;Illueca y otros municipios;1503
+17ZM;Fonfría y otros municipios;1504
+180B;Barcelona (SCD Sants est);1505
+180M;Madrid (SCD Arapiles);1506
+181B;Barcelona (SCD les Corts est);1507
+181M;Madrid (SCD Trafalgar);1508
+182B;Barcelona (SCD les Corts oest);1509
+182M;Madrid (SCD Almagro);1510
+183B;Barcelona (SCD la Maternitat i Sant Ramon);1511
+183M;Madrid (SCD Rios Rosas);1512
+184B;Barcelona (SCD Pedralbes);1513
+184M;Madrid (SCD Vallehermoso);1514
+185B;Barcelona (SCD Sarrià-Vallvidrera);1515
+185M;Madrid (SCD Peñagrande-2);1516
+186B;Barcelona (SCD les Tres Torres);1517
+186M;Madrid (SCD Peñagrande-1);1518
+187B;Barcelona (SCD Sant Gervasi- la Bonanova);1519
+187M;Madrid (SCD Pilar-1);1520
+188B;Barcelona (SCD Sant Gervasi- Galvany oest);1521
+188M;Madrid (SCD Pilar-2);1522
+189B;Barcelona (SCD Sant Gervasi- Galvany est);1523
+189M;Madrid (SCD La Paz);1524
+18AB;Almansa;1525
+18AL;Adra;1526
+18AS;Cangas del Narcea;1527
+18AV;Candeleda;1528
+18BA;Fuente de Cantos y Calzadilla de los Barros;1529
+18BI;Markina-Xemein y Etxebarria;1530
+18BU;Huerta de Rey y otros municipios;1531
+18CA;Meruelo y otros municipios;1532
+18CC;Cilleros y otros municipios;1533
+18CO;Belmez y otros municipios;1534
+18CR;Argamasilla de Calatrava y otros municipios;1535
+18CS;Alcalà de Xivert;1536
+18CU;Arcas y otros municipios;1537
+18CZ;Puerto de Santa María, El (distrito 01);1538
+18CÑ;Cedeira y otros municipios;1539
+18GC;Santa Brígida;1540
+18GI;Mont-ras y otros municipios;1541
+18GP;Azpeitia;1542
+18GR;Molvízar y otros municipios;1543
+18GU;Alovera;1544
+18HS;Zaidín y otros municipios;1545
+18HU;Hinojos y Chucena;1546
+18JA;Beas de Segura y Segura de la Sierra;1547
+18LE;Santa María del Páramo y otros municipios;1548
+18LO;Calahorra;1549
+18LU;Barreiros y otros municipios;1550
+18MA;Sierra de Yeguas y otros municipios;1551
+18MU;Cieza;1552
+18NA;Aoiz/Agoitz y otros municipios;1553
+18OU;Pobra de Trives, A y otros municipios;1554
+18PA;Palencia (distrito 01);1555
+18PO;Estrada, A;1556
+18SA;Vitigudino y otros municipios;1557
+18SG;Espinar, El;1558
+18TA;Flix y otros municipios;1559
+18TF;Candelaria;1560
+18TO;Pulgar y otros municipios;1561
+18VA;Geria y otros municipios;1562
+18ZA;Ricla y otros municipios;1563
+18ZM;Muelas del Pan y otros municipios;1564
+190B;Barcelona (SCD el Putxet i el Farró);1565
+190M;Madrid (SCD Valverde-2);1566
+191B;Barcelona (SCD Vallcarca i els Penitents);1567
+191M;Madrid (SCD El Goloso-El Pardo-Fuentelarreina);1568
+192B;Barcelona (SCD el Coll);1569
+192M;Madrid (SCD Valverde-1);1570
+193B;Barcelona (SCD la Salut);1571
+193M;Madrid (SCD Mirasierra);1572
+194B;Barcelona (SCD la Vila de Gràcia oest);1573
+194M;Madrid (SCD Casa de Campo);1574
+195B;Barcelona (SCD la Vila de Gràcia est);1575
+195M;Madrid (SCD Argüelles);1576
+196B;Barcelona (SCD el Camp d'en Grassot i Gràcia Nova);1577
+196M;Madrid (SCD Ciudad Universitaria);1578
+197B;Barcelona (SCD el Baix Guinardó);1579
+197M;Madrid (SCD Valdezarza);1580
+198B;Barcelona (SCD Can Baró);1581
+198M;Madrid (SCD Aravaca-Plantio-Valdemarin);1582
+199B;Barcelona (SCD el Carmel);1583
+199M;Madrid (SCD Cármenes);1584
+19AB;Caudete;1585
+19AL;Albox;1586
+19AS;Cangas de Onís;1587
+19AV;Piedrahíta y otros municipios;1588
+19BA;Puebla de Sancho Pérez y otros municipios;1589
+19BI;Gamiz-Fika y otros municipios;1590
+19BU;Fuentespina y otros municipios;1591
+19CA;Bárcena de Cicero y Escalante;1592
+19CC;Valverde del Fresno y otros municipios;1593
+19CO;Belalcázar y otros municipios;1594
+19CR;Alcázar de San Juan;1595
+19CS;Alcora, l';1596
+19CU;Cuenca (distritos 01 y 02) y otros municipios;1597
+19CZ;Puerto de Santa María, El (distrito 02);1598
+19CÑ;Ortigueira y otros municipios;1599
+19GC;Santa María de Guía de Gran Canaria;1600
+19GI;Begur y otros municipios;1601
+19GP;Beasain;1602
+19GR;Vélez de Benaudalla y otros municipios;1603
+19GU;Azuqueca de Henares;1604
+19HS;Fraga y Torrente de Cinca;1605
+19HU;Aljaraque;1606
+19JA;Arroyo del Ojanco y otros municipios;1607
+19LE;Carrizo y otros municipios;1608
+19LO;Lardero;1609
+19LU;Mondoñedo y otros municipios;1610
+19MA;Antequera y Valle de Abdalajís;1611
+19MU;Fortuna;1612
+19NA;Artajona y otros municipios;1613
+19OU;Vilardevós y otros municipios;1614
+19PA;Palencia (distrito 02);1615
+19PO;Gondomar;1616
+19SA;Lumbrales y otros municipios;1617
+19SG;Palazuelos de Eresma;1618
+19TA;Alforja y otros municipios;1619
+19TF;Granadilla de Abona;1620
+19TO;Menasalbas y otros municipios;1621
+19VA;Arroyo de la Encomienda;1622
+19ZA;Jarque y otros municipios;1623
+19ZM;Fermoselle y otros municipios;1624
+200B;Barcelona (SCD els barris de la Vall d'Hebron);1625
+200M;Madrid (SCD Puerta del Angel-1);1626
+201B;Barcelona (SCD Horta);1627
+201M;Madrid (SCD Puerta del Angel-2);1628
+202B;Barcelona (SCD la Font d'en Fargues);1629
+202M;Madrid (SCD Lucero);1630
+203B;Barcelona (SCD el Guinardó);1631
+203M;Madrid (SCD Aluche-2);1632
+204B;Barcelona (SCD Vilapicina i la Torre Llobeta);1633
+204M;Madrid (SCD Aluche-3);1634
+205B;Barcelona (SCD Porta);1635
+205M;Madrid (SCD Aluche-1);1636
+206B;Barcelona (SCD el Turó de la Peira-Can Peguera);1637
+206M;Madrid (SCD Campamento);1638
+207B;Barcelona (SCD la Guineueta);1639
+207M;Madrid (SCD Cuatro Vientos-Aguilas);1640
+208B;Barcelona (SCD Canyelles);1641
+208M;Madrid (SCD Aguilas-1);1642
+209B;Barcelona (SCD les Roquetes);1643
+20AB;Hellín;1644
+20AL;Berja;1645
+20AS;Carreño;1646
+20AV;Barco de Ávila, El y otros municipios;1647
+20BA;Fregenal de la Sierra y otros municipios;1648
+20BI;Mundaka y otros municipios;1649
+20BU;Roa y otros municipios;1650
+20CA;Voto y otros municipios;1651
+20CC;Almaraz y otros municipios;1652
+20CO;Montoro y Cardeña;1653
+20CR;Almadén;1654
+20CS;Almazora/Almassora;1655
+20CU;Iniesta y Herrumblar, El;1656
+20CZ;Rota;1657
+20CÑ;Pontes de García Rodríguez, As y Somozas, As;1658
+20GC;Teguise;1659
+20GI;Verges y otros municipios;1660
+20GP;Deba;1661
+20GR;Lanjarón y otros municipios;1662
+20GU;Marchamalo;1663
+20HS;Barbastro;1664
+20HU;Almonte;1665
+20JA;Siles y otros municipios;1666
+20LE;Llamas de la Ribera y otros municipios;1667
+20LL;Aitona y otros municipios;1668
+20LO;Nájera;1669
+20LU;Cervo y Xove;1670
+20MA;Teba y Almargen;1671
+20MU;Fuente Álamo de Murcia;1672
+20NA;Sangüesa/Zangoza y otros municipios;1673
+20OU;Viana do Bolo y otros municipios;1674
+20PA;Palencia (distrito 03);1675
+20PO;Grove, O;1676
+20SA;Aldeadávila de la Ribera y otros municipios;1677
+20SG;Real Sitio de San Ildefonso;1678
+20TA;Vimbodí i Poblet y otros municipios;1679
+20TF;Guancha, La;1680
+20TO;Orgaz y otros municipios;1681
+20VA;Cigales;1682
+20ZA;Tarazona y otros municipios;1683
+20ZM;Benavente;1684
+210B;Barcelona (SCD Verdun);1685
+210M;Madrid (SCD Aguilas-2);1686
+211B;Barcelona (SCD la Prosperitat);1687
+211M;Madrid (SCD Comillas);1688
+212B;Barcelona (SCD la Trinitat Nova);1689
+212M;Madrid (SCD Opañel);1690
+213B;Barcelona (SCD Torre Baró, Ciutat Meridiana i Vallbona);1691
+213M;Madrid (SCD San Isidro);1692
+214B;Barcelona (SCD la Trinitat Vella-Baró de Viver);1693
+214M;Madrid (SCD Vista Alegre-1);1694
+215B;Barcelona (SCD el Bon Pastor);1695
+215M;Madrid (SCD Puerta Bonita);1696
+216B;Barcelona (SCD Sant Andreu est);1697
+216M;Madrid (SCD Buenavista-1);1698
+217B;Barcelona (SCD Sant Andreu oest);1699
+217M;Madrid (SCD Buenavista-2);1700
+218B;Barcelona (SCD la Sagrera);1701
+218M;Madrid (SCD Abrantes);1702
+219B;Barcelona (SCD el Congrés i els Indians);1703
+219M;Madrid (SCD Vista Alegre-2);1704
+21AB;Tobarra;1705
+21AL;Carboneras;1706
+21AS;Castrillón;1707
+21AV;Arévalo;1708
+21BA;Fuentes de León y otros municipios;1709
+21BI;Forua y otros municipios;1710
+21BU;Condado de Treviño y Puebla de Arganzón, La;1711
+21CA;Ampuero y otros municipios;1712
+21CC;Navalmoral de la Mata;1713
+21CO;Villanueva de Córdoba y otros municipios;1714
+21CR;Almagro;1715
+21CS;Betxí;1716
+21CU;Mota del Cuervo;1717
+21CZ;Chipiona;1718
+21CÑ;Ferrol (distritos 03 a 05);1719
+21GC;Teror;1720
+21GI;Flaçà y otros municipios;1721
+21GP;Eibar;1722
+21GR;Polopos y otros municipios;1723
+21GU;Villanueva de la Torre;1724
+21HS;Binéfar;1725
+21HU;Beas;1726
+21JA;Santiago-Pontones y otros municipios;1727
+21LE;Benavides y otros municipios;1728
+21LL;Castelldans y otros municipios;1729
+21LO;Santo Domingo de la Calzada;1730
+21LU;Xermade y otros municipios;1731
+21MA;Burgo, El y otros municipios;1732
+21MU;Jumilla;1733
+21NA;Olite/Erriberri y otros municipios;1734
+21OU;Rúa, A y otros municipios;1735
+21PA;Palencia (distrito 04);1736
+21PO;Guarda, A;1737
+21SA;Villamayor y otros municipios;1738
+21SG;Segovia (distrito 03);1739
+21TA;Espluga de Francolí, L' y otros municipios;1740
+21TF;Guía de Isora;1741
+21TO;Villasequilla y otros municipios;1742
+21VA;Cistérniga;1743
+21ZA;María de Huerva y otros municipios;1744
+21ZM;Zamora (distrito 01);1745
+220B;Barcelona (SCD Navas);1746
+220M;Madrid (SCD Orcasitas);1747
+221B;Barcelona (SCD el Camp de l'Arp del Clot);1748
+221M;Madrid (SCD Orcasur);1749
+222B;Barcelona (SCD el Clot);1750
+222M;Madrid (SCD San Fermín);1751
+223B;Barcelona (SCD el Parc i la Llacuna del Poblenou);1752
+223M;Madrid (SCD Almendrales);1753
+224B;Barcelona (SCD la Vila Olímpica del Poblenou);1754
+224M;Madrid (SCD Moscardó);1755
+225B;Barcelona (SCD el Poblenou);1756
+225M;Madrid (SCD Zofío);1757
+226B;Barcelona (SCD Diagonal Mar i el Front Marítim del Poblenou);1758
+226M;Madrid (SCD Pradolongo);1759
+227B;Barcelona (SCD Provençals del Poblenou);1760
+227M;Madrid (SCD Entrevías);1761
+228B;Barcelona (SCD Sant Martí de Provençals);1762
+228M;Madrid (SCD San Diego-1);1763
+229B;Barcelona (SCD la Verneda i la Pau);1764
+229M;Madrid (SCD Palomeras Bajas-1);1765
+22AB;Villarrobledo;1766
+22AL;Cuevas del Almanzora;1767
+22AS;Cudillero;1768
+22AV;Ávila (distrito 05);1769
+22BA;Monesterio y Calera de León;1770
+22BI;Berriatua y otros municipios;1771
+22BU;Aranda de Duero;1772
+22CA;Astillero, El;1773
+22CC;Villanueva de la Vera y otros municipios;1774
+22CO;Rute e Iznájar;1775
+22CR;Almodóvar del Campo;1776
+22CS;Benicarló;1777
+22CU;Motilla del Palancar;1778
+22CZ;Sanlúcar de Barrameda (distrito 02);1779
+22CÑ;Abegondo;1780
+22GC;Tías;1781
+22GI;Cornellà del Terri y otros municipios;1782
+22GP;Elgoibar;1783
+22GR;Ugíjar y otros municipios;1784
+22GU;Guadalajara (distrito 01);1785
+22HS;Jaca;1786
+22HU;Bollullos Par del Condado;1787
+22JA;Pozo Alcón y otros municipios;1788
+22LE;San Justo de la Vega y otros municipios;1789
+22LL;Juneda y otros municipios;1790
+22LO;Villamediana de Iregua;1791
+22LU;Outeiro de Rei y otros municipios;1792
+22MA;Yunquera y otros municipios;1793
+22MU;Librilla;1794
+22NA;Carcastillo y otros municipios;1795
+22OU;Carballeda de Valdeorras y otros municipios;1796
+22PA;Palencia (distrito 05);1797
+22PO;Lalín;1798
+22SA;Alba de Tormes;1799
+22SG;Segovia (distrito 04);1800
+22TA;Santa Coloma de Queralt y otros municipios;1801
+22TF;Icod de los Vinos;1802
+22TO;Ontígola;1803
+22VA;Íscar;1804
+22ZA;Fuentes de Ebro;1805
+22ZM;Zamora (distrito 05);1806
+230B;Barcelona (SCD el Besòs i el Maresme);1807
+230M;Madrid (SCD Palomeras Bajas-2);1808
+231B;Castelldefels (distrito 01);1809
+231M;Madrid (SCD Palomeras Sureste-2);1810
+232B;Castelldefels (distrito 02);1811
+232M;Madrid (SCD Palomeras Sureste-1);1812
+233B;Castelldefels (distrito 03);1813
+233M;Madrid (SCD Portazgo);1814
+234B;Castelldefels (distrito 04);1815
+234M;Madrid (SCD Numancia-2);1816
+235B;Castelldefels (distrito 05);1817
+235M;Madrid (SCD Numancia-1);1818
+236B;Cornellà de Llobregat (distrito 01);1819
+236M;Madrid (SCD San Diego-2);1820
+237B;Cornellà de Llobregat (distrito 02);1821
+237M;Madrid (SCD Pavones);1822
+238B;Cornellà de Llobregat (distrito 03);1823
+238M;Madrid (SCD Marroquina);1824
+239B;Cornellà de Llobregat (distrito 04);1825
+239M;Madrid (SCD Media Legua);1826
+23AB;Albacete (distrito 01);1827
+23AL;Garrucha;1828
+23AS;Gozón;1829
+23BA;Montemolín y otros municipios;1830
+23BI;Abanto y Ciérvana-Abanto Zierbena;1831
+23BU;Briviesca;1832
+23CA;Cabezón de la Sal;1833
+23CC;Jarandilla de la Vera y otros municipios;1834
+23CO;Priego de Córdoba y otros municipios;1835
+23CR;Argamasilla de Alba;1836
+23CS;Benicasim/Benicàssim;1837
+23CU;Pedroñeras, Las;1838
+23CZ;Sanlúcar de Barrameda (distritos 03 y 04);1839
+23CÑ;Ames;1840
+23GC;Tinajo;1841
+23GI;Porqueres y otros municipios;1842
+23GP;Hondarribia;1843
+23GR;Nevada y otros municipios;1844
+23GU;Guadalajara (distrito 02);1845
+23HS;Monzón;1846
+23HU;Cartaya;1847
+23JA;Huelma y Cabra del Santo Cristo;1848
+23LE;Villarejo de Órbigo y otros municipios;1849
+23LL;Arbeca y otros municipios;1850
+23LO;Logroño (distrito 02);1851
+23LU;Castro de Rei;1852
+23MA;Ronda y otros municipios;1853
+23MU;Lorquí;1854
+23NA;Ayegui/Aiegi y otros municipios;1855
+23OU;Barco de Valdeorras, O;1856
+23PA;Palencia (distrito 06);1857
+23PO;Marín;1858
+23SA;Carbajosa de la Sagrada;1859
+23SG;Segovia (distrito 05);1860
+23TA;Pla de Santa Maria, El y otros municipios;1861
+23TF;Llanos de Aridane, Los;1862
+23TO;Noblejas y Villarrubia de Santiago;1863
+23VA;Laguna de Duero;1864
+23ZA;Épila y otros municipios;1865
+240B;Cornellà de Llobregat (distrito 05);1866
+240M;Madrid (SCD Fontarrón);1867
+241B;Cornellà de Llobregat (distrito 06);1868
+241M;Madrid (SCD Vinateros);1869
+242B;Granollers (distrito 01);1870
+242M;Madrid (SCD Horcajo);1871
+243B;Granollers (distrito 02);1872
+243M;Madrid (SCD Ventas-1);1873
+244B;Granollers (distrito 03);1874
+244M;Madrid (SCD Ventas-2);1875
+245B;Granollers (distrito 04);1876
+245M;Madrid (SCD Pueblo Nuevo-1);1877
+246M;Madrid (SCD Pueblo Nuevo-2);1878
+247M;Madrid (SCD Quintana);1879
+248M;Madrid (SCD Concepción);1880
+249M;Madrid (SCD San Pascual);1881
+24AB;Albacete (distrito 02);1882
+24AL;Huércal de Almería;1883
+24AS;Langreo;1884
+24BA;Azuaga y otros municipios;1885
+24BI;Amorebieta-Etxano;1886
+24BU;Miranda de Ebro;1887
+24CA;Camargo;1888
+24CC;Losar de la Vera y otros municipios;1889
+24CO;Aguilar de la Frontera;1890
+24CR;Bolaños de Calatrava;1891
+24CS;Borriana/Burriana;1892
+24CU;Quintanar del Rey;1893
+24CZ;Sanlúcar de Barrameda (distrito 05);1894
+24CÑ;Ares;1895
+24GC;Tuineje;1896
+24GI;Sant Joan les Fonts y otros municipios;1897
+24GP;Hernani;1898
+24GR;Valle del Zalabí y otros municipios;1899
+24GU;Guadalajara (distrito 03);1900
+24HS;Sabiñánigo;1901
+24HU;Gibraleón y San Bartolomé de la Torre;1902
+24JA;Quesada y Larva;1903
+24LE;Santa Elena de Jamuz y otros municipios;1904
+24LL;Golmés y otros municipios;1905
+24LO;Logroño (distrito 03);1906
+24LU;Cospeito;1907
+24MA;Alameda;1908
+24MU;Mazarrón;1909
+24NA;Arcos, Los y otros municipios;1910
+24OU;Carballiño, O;1911
+24PA;Palencia (distrito 07);1912
+24PO;Meaño;1913
+24SA;Ciudad Rodrigo;1914
+24SG;Segovia (distrito 06);1915
+24TA;Santa Oliva y otros municipios;1916
+24TF;Matanza de Acentejo, La;1917
+24TO;Santa Cruz de la Zarza y Villatobas;1918
+24VA;Medina del Campo;1919
+24ZA;Fuendejalón y otros municipios;1920
+250M;Madrid (SCD San Juan Bautista-Colina-Atalaya);1921
+251M;Madrid (SCD Costillares);1922
+252M;Madrid (SCD Piovera);1923
+253B;Manresa (distrito 02);1924
+253M;Madrid (SCD Canillas-1);1925
+254B;Manresa (distritos 01 y 03);1926
+254M;Madrid (SCD Canillas-2);1927
+255B;Manresa (distrito 04);1928
+255M;Madrid (SCD Pinar del Rey-1);1929
+256B;Manresa (distrito 05);1930
+256M;Madrid (SCD Pinar del Rey-2);1931
+257M;Madrid (SCD Apostol Santiago);1932
+258B;Mataró (distrito 01);1933
+258M;Madrid (SCD Valdefuentes-1);1934
+259B;Mataró (distrito 02);1935
+259M;Madrid (SCD Valdefuentes-2);1936
+25AB;Albacete (distrito 03);1937
+25AL;Huércal-Overa;1938
+25AS;Laviana;1939
+25BA;Berlanga y otros municipios;1940
+25BI;Arrigorriaga;1941
+25BU;Burgos (distrito 03);1942
+25CA;Cartes;1943
+25CC;Hervás y otros municipios;1944
+25CO;Cabra;1945
+25CR;Daimiel;1946
+25CS;Onda;1947
+25CU;San Clemente;1948
+25CZ;Sanlúcar de Barrameda (distrito 01);1949
+25CÑ;Arteixo;1950
+25GC;Valsequillo de Gran Canaria;1951
+25GI;Besalú y otros municipios;1952
+25GP;Lazkao;1953
+25GR;Jerez del Marquesado y otros municipios;1954
+25GU;Guadalajara (distrito 05);1955
+25HS;Huesca (distrito 01);1956
+25HU;Huelva (distrito 01);1957
+25JA;Bedmar y Garcíez y otros municipios;1958
+25LE;Puente de Domingo Flórez y otros municipios;1959
+25LL;Palau d'Anglesola, El y otros municipios;1960
+25LO;Logroño (distrito 04);1961
+25LU;Chantada;1962
+25MA;Algarrobo;1963
+25MU;Molina de Segura (sección 007 y otras secciones del distrito 01);1964
+25NA;Viana y Aras;1965
+25OU;Celanova;1966
+25PO;Meis;1967
+25SA;Guijuelo;1968
+25SG;Segovia (distrito 07);1969
+25TA;Bisbal del Penedès, La y Albinyana;1970
+25TF;Orotava, La;1971
+25TO;Miguel Esteban y Toboso, El;1972
+25VA;Peñafiel;1973
+25ZA;Zaragoza (SCD Number 12) y otros municipios;1974
+260B;Mataró (distrito 03);1975
+260M;Madrid (SCD Palomas);1976
+261B;Mataró (distrito 04);1977
+261M;Madrid (SCD San Andrés-2);1978
+262B;Mataró (distrito 05);1979
+262M;Madrid (SCD San Andrés-1);1980
+263B;Mataró (distrito 06);1981
+263M;Madrid (SCD San Cristobal);1982
+264B;Mollet del Vallès (distrito 01);1983
+264M;Madrid (SCD Butarque);1984
+265B;Mollet del Vallès (distrito 02);1985
+265M;Madrid (SCD Los Rosales);1986
+266B;Mollet del Vallès (distrito 03);1987
+266M;Madrid (SCD Los Angeles);1988
+267B;Prat de Llobregat, El (distrito 01);1989
+267M;Madrid (SCD Casco Histórico de Vallecas-1);1990
+268B;Prat de Llobregat, El (distrito 02);1991
+268M;Madrid (SCD Casco Histórico de Vallecas-2);1992
+269B;Prat de Llobregat, El (distrito 03);1993
+269M;Madrid (SCD Casco Histórico de Vallecas-3);1994
+26AB;Albacete (distrito 04);1995
+26AL;Mojácar;1996
+26AS;Lena;1997
+26BA;Ribera del Fresno y otros municipios;1998
+26BI;Basauri;1999
+26BU;Burgos (distrito 05);2000
+26CA;Colindres;2001
+26CC;Piornal y otros municipios;2002
+26CO;Carlota, La;2003
+26CR;Herencia;2004
+26CS;Oropesa del Mar/Orpesa;2005
+26CU;Tarancón;2006
+26CZ;Trebujena;2007
+26CÑ;Bergondo;2008
+26GC;Vega de San Mateo;2009
+26GI;Sant Pere Pescador y otros municipios;2010
+26GP;Legazpi;2011
+26GR;Darro y otros municipios;2012
+26HS;Huesca (distrito 02);2013
+26HU;Huelva (distrito 02);2014
+26JA;Pegalajar y otros municipios;2015
+26LE;Torre del Bierzo y otros municipios;2016
+26LL;Ivars d'Urgell y otros municipios;2017
+26LO;Logroño (distrito 05);2018
+26LU;Foz;2019
+26MA;Alhaurín de la Torre;2020
+26MU;Moratalla;2021
+26NA;Arróniz y otros municipios;2022
+26OU;Xinzo de Limia;2023
+26PO;Moaña;2024
+26SA;Peñaranda de Bracamonte;2025
+26TA;Sant Jaume dels Domenys y Llorenç del Penedès;2026
+26TF;Paso, El;2027
+26TO;Lillo y otros municipios;2028
+26VA;Simancas;2029
+26ZA;Alagón y Torres de Berrellén;2030
+270B;Prat de Llobregat, El (distrito 04);2031
+270M;Madrid (SCD Santa Eugenia);2032
+271B;Prat de Llobregat, El (distrito 05);2033
+271M;Madrid (SCD Casco Histórico de Vicálvaro-1);2034
+272B;Rubí (distrito 01);2035
+272M;Madrid (SCD Casco Histórico de Vicálvaro-2);2036
+273B;Rubí (distrito 02);2037
+273M;Madrid (SCD Ambroz);2038
+274B;Rubí (distrito 03);2039
+274M;Madrid (SCD Simancas);2040
+275B;Rubí (distrito 04);2041
+275M;Madrid (SCD Hellín);2042
+276B;Sabadell (distrito 01);2043
+276M;Madrid (SCD Arcos);2044
+277B;Sabadell (distrito 02);2045
+277M;Madrid (SCD Rosas);2046
+278B;Sabadell (distrito 03 y sección 030 del distrito 04);2047
+278M;Madrid (SCD Rejas);2048
+279B;Sabadell (secciones 001 a 029 del distrito 04);2049
+279M;Madrid (SCD Canillejas);2050
+27AB;Albacete (distrito 05);2051
+27AL;Níjar;2052
+27AS;Valdés;2053
+27BA;Hornachos y otros municipios;2054
+27BI;Berango;2055
+27BU;Burgos (distrito 06);2056
+27CA;Corrales de Buelna, Los;2057
+27CC;Malpartida de Plasencia y otros municipios;2058
+27CO;Castro del Río;2059
+27CR;Malagón;2060
+27CS;Peníscola/Peñíscola;2061
+27CU;Cuenca (distrito 03) y otros municipios;2062
+27CZ;Jerez de la Frontera (distrito 09);2063
+27CÑ;Betanzos;2064
+27GC;Yaiza;2065
+27GI;Bàscara y otros municipios;2066
+27GP;Lezo;2067
+27GR;Benalúa y Purullena;2068
+27HS;Huesca (distrito 03);2069
+27HU;Huelva (distrito 03);2070
+27JA;Cambil y otros municipios;2071
+27LE;Toreno y otros municipios;2072
+27LL;Linyola y otros municipios;2073
+27LU;Guitiriz;2074
+27MA;Alhaurín el Grande;2075
+27MU;Mula y Pliego;2076
+27NA;Mendavia y Sesma;2077
+27OU;Ribadavia;2078
+27PO;Mos;2079
+27SA;Santa Marta de Tormes;2080
+27TA;Montmell, El y otros municipios;2081
+27TF;Puerto de la Cruz;2082
+27TO;Corral de Almaguer y otros municipios;2083
+27VA;Tordesillas;2084
+27ZA;Pedrola y otros municipios;2085
+280B;Sabadell (distrito 05);2086
+280M;Madrid (SCD Salvador);2087
+281B;Sabadell (distrito 06) y Badia del Vallès (secciones 005 y 007 del distrito 01);2088
+281M;Madrid (SCD Amposta);2089
+282B;Sabadell (distrito 07);2090
+282M;Madrid (SCD Alameda de Osuna-Corralejos);2091
+283B;Sant Boi de Llobregat (distrito 01);2092
+283M;Madrid (SCD Timón-Casco Historico-Aeropuerto);2093
+284B;Sant Boi de Llobregat (distrito 02);2094
+284M;Parla (sección 028 y otras secciones del distrito 01);2095
+285B;Sant Boi de Llobregat (distrito 03);2096
+285M;Parla (sección 060 y otras secciones del distrito 01);2097
+286B;Sant Boi de Llobregat (distrito 04);2098
+286M;Rivas-Vaciamadrid (sección 023 y otras secciones del distrito 01);2099
+287B;Sant Boi de Llobregat (distrito 05);2100
+287M;Rivas-Vaciamadrid (sección 038 y otras secciones del distrito 01);2101
+288B;Sant Boi de Llobregat (distrito 06);2102
+288M;Rozas de Madrid, Las (sección 017 y otras secciones del distrito 01);2103
+289B;Sant Cugat del Vallès (distrito 01);2104
+289M;Rozas de Madrid, Las (sección 032 y otras secciones del distrito 01);2105
+28AB;Albacete (distrito 06);2106
+28AL;Olula del Río;2107
+28AS;Llanera;2108
+28BA;Oliva de Mérida y otros municipios;2109
+28BI;Bermeo;2110
+28BU;Burgos (distrito 07);2111
+28CA;Entrambasaguas;2112
+28CC;Cabezuela del Valle y otros municipios;2113
+28CO;Córdoba (SCD Casco Histórico);2114
+28CR;Membrilla;2115
+28CS;Segorbe;2116
+28CU;Cuenca (distrito 04);2117
+28CZ;Jerez de la Frontera (distrito 04);2118
+28CÑ;Boiro;2119
+28GC;Arrecife (distrito 01);2120
+28GI;Peralada y otros municipios;2121
+28GP;Arrasate/Mondragón;2122
+28GR;Guadahortuna y otros municipios;2123
+28HS;Huesca (distrito 04);2124
+28HU;Huelva (distrito 04);2125
+28JA;Valdepeñas de Jaén y otros municipios;2126
+28LE;Igüeña y otros municipios;2127
+28LL;Vallfogona de Balaguer y otros municipios;2128
+28LU;Monforte de Lemos;2129
+28MA;Álora;2130
+28NA;Lodosa y Sartaguda;2131
+28OU;Verín;2132
+28PO;Nigrán;2133
+28SA;Villares de la Reina;2134
+28TA;Creixell y Pobla de Montornès, La;2135
+28TF;Realejos, Los;2136
+28TO;Puebla de Almoradiel, La y Villa de Don Fadrique, La;2137
+28VA;Tudela de Duero;2138
+28ZA;Gallur y otros municipios;2139
+290B;Sant Cugat del Vallès (distrito 02);2140
+290M;Alcobendas (sección 059 y otras secciones del distrito 01);2141
+291B;Sant Cugat del Vallès (distrito 03);2142
+291M;Alcobendas (sección 027 y otras secciones del distrito 01);2143
+292B;Sant Cugat del Vallès (distritos 04 y 06);2144
+292M;San Sebastián de los Reyes (sección 050 y otras secciones del distrito 01);2145
+293B;Sant Cugat del Vallès (distrito 05);2146
+293M;San Sebastián de los Reyes (sección 047 y otras secciones del distrito 01);2147
+294M;Móstoles (sección 035 y otras secciones del distrito 04);2148
+295B;Santa Coloma de Gramenet (distrito 01);2149
+295M;Móstoles (sección 042 y otras secciones del distrito 04);2150
+296B;Santa Coloma de Gramenet (distrito 02);2151
+297B;Santa Coloma de Gramenet (distrito 03);2152
+298B;Santa Coloma de Gramenet (distrito 04);2153
+299B;Santa Coloma de Gramenet (distrito 05);2154
+29AB;Albacete (distrito 07);2155
+29AL;Pulpí;2156
+29AS;Llanes;2157
+29BA;Santa Amalia y otros municipios;2158
+29BI;Durango;2159
+29BU;Burgos (distrito 08);2160
+29CA;Laredo;2161
+29CC;Ahigal y otros municipios;2162
+29CO;Córdoba (SCD Tejares - Molinos Altas - San Cayetano);2163
+29CR;Miguelturra;2164
+29CS;Torreblanca;2165
+29CZ;Jerez de la Frontera (distrito 05);2166
+29CÑ;Brión;2167
+29GC;Arrecife (distrito 02);2168
+29GI;Cadaqués y otros municipios;2169
+29GP;Oñati;2170
+29GR;Pedro Martínez y otros municipios;2171
+29HS;Huesca (distrito 05);2172
+29HU;Huelva (distrito 05);2173
+29JA;Castillo de Locubín y Fuensanta de Martos;2174
+29LE;Villafranca del Bierzo y otros municipios;2175
+29LL;Almenar y Alfarràs;2176
+29LU;Ribadeo;2177
+29MA;Archidona;2178
+29MU;Puerto Lumbreras;2179
+29NA;Andosilla y otros municipios;2180
+29OU;Ourense (distrito 01);2181
+29PO;Porriño, O;2182
+29SA;Salamanca (distrito 01);2183
+29TA;Riera de Gaià, La y otros municipios;2184
+29TF;Rosario, El;2185
+29TO;Villafranca de los Caballeros y otros municipios;2186
+29VA;Zaratán;2187
+29ZA;Mallén y otros municipios;2188
+300B;Santa Coloma de Gramenet (distrito 06);2189
+301B;Cerdanyola del Vallès;2190
+302B;Terrassa (distrito 01);2191
+303B;Terrassa (distrito 02);2192
+304B;Terrassa (distrito 03 y secciones 001 a 004 del distrito 07);2193
+305B;Terrassa (distrito 04);2194
+306B;Terrassa (distrito 05);2195
+307B;Terrassa (distrito 06);2196
+308B;Viladecans (distrito 01);2197
+309B;Viladecans (distrito 02);2198
+30AL;Vélez-Rubio;2199
+30AS;Mieres;2200
+30BA;Herrera del Duque y otros municipios;2201
+30BI;Etxebarri;2202
+30BU;Burgos (distrito 09);2203
+30CA;Marina de Cudeyo;2204
+30CC;Torno, El y otros municipios;2205
+30CO;Córdoba (SCD Levante - Zumbacón);2206
+30CR;Moral de Calatrava;2207
+30CS;Vall d'Uixó, la;2208
+30CZ;Jerez de la Frontera (distrito 03);2209
+30CÑ;Camariñas;2210
+30GC;San Bartolomé de Tirajana (distrito 02);2211
+30GI;Llançà y otros municipios;2212
+30GP;Orio;2213
+30GR;Zújar y otros municipios;2214
+30HS;Huesca (distrito 06);2215
+30HU;Huelva (distrito 06);2216
+30JA;Martos y Jamilena;2217
+30LE;Vega de Espinareda y otros municipios;2218
+30LL;Albesa y otros municipios;2219
+30LU;Sarria;2220
+30MA;Benahavís;2221
+30MU;San Javier;2222
+30NA;Falces y otros municipios;2223
+30OU;Ourense (distrito 02);2224
+30PO;Poio;2225
+30SA;Salamanca (distrito 02);2226
+30TF;San Juan de la Rambla;2227
+30TO;Yébenes, Los y Urda;2228
+30VA;Valladolid (SCD Centro - Universidad);2229
+30ZA;Borja y otros municipios;2230
+310B;Vilanova i la Geltrú (distrito 01);2231
+311B;Vilanova i la Geltrú (distrito 02);2232
+312B;Vilanova i la Geltrú (distrito 03);2233
+313B;Vilanova i la Geltrú (distrito 04);2234
+314B;Hospitalet de LLobregat, L´ (SCD Centre y sección 041 del distrito 01);2235
+315B;Hospitalet de LLobregat, L´ (SCD Santfeliu);2236
+316B;Hospitalet de LLobregat, L´ (SCD Sant Josep);2237
+317B;Hospitalet de LLobregat, L´ (SCD  La Torrassa);2238
+318B;Hospitalet de LLobregat, L´ (SCD Collblanc);2239
+319B;Hospitalet de LLobregat, L´ (SCD Santa Eulalia 1 y secciones 028 y 029 del distrito 03);2240
+31AL;Vera;2241
+31AS;Navia;2242
+31BA;Siruela y otros municipios;2243
+31BI;Elorrio;2244
+31CA;Medio Cudeyo;2245
+31CC;Zarza de Granadilla y otros municipios;2246
+31CO;Córdoba (SCD Viñuela - Rescatado - Cerro de la Golondrina);2247
+31CR;Pedro Muñoz;2248
+31CS;Vinaròs;2249
+31CZ;Jerez de la Frontera (distrito 07);2250
+31CÑ;Cambre;2251
+31GC;San Bartolomé de Tirajana (distrito 03);2252
+31GI;Vilajuïga y otros municipios;2253
+31GP;Oiartzun;2254
+31GR;Cúllar y Caniles;2255
+31HS;Huesca (distrito 07);2256
+31HU;Huelva (distrito 07);2257
+31JA;Jaén (distritos 07 y 08);2258
+31LE;Fabero y Páramo del Sil;2259
+31LL;Camarasa y otros municipios;2260
+31LU;Vilalba;2261
+31MA;Campillos;2262
+31MU;San Pedro del Pinatar;2263
+31NA;Marcilla y Caparroso;2264
+31OU;Ourense (distrito 03);2265
+31PO;Ponteareas;2266
+31SA;Salamanca (distrito 03);2267
+31TA;Vilallonga del Camp y otros municipios;2268
+31TF;Santa Cruz de la Palma;2269
+31TO;Velada y otros municipios;2270
+31VA;Valladolid (SCD Paseo Zorrilla Bajo - Campo Grande);2271
+31ZA;Almunia de Doña Godina, La;2272
+320B;Hospitalet de LLobregat, L´ (SCD  Santa Eulalia 2);2273
+321B;Hospitalet de LLobregat, L´ (SCD La Florida);2274
+322B;Hospitalet de LLobregat, L´ (SCD Les Planes);2275
+323B;Hospitalet de LLobregat, L´ (SCD Can Serra);2276
+324B;Hospitalet de LLobregat, L´ (SCD Pubilla Casas);2277
+325B;Hospitalet de LLobregat, L´ (SCD Gornal);2278
+326B;Hospitalet de LLobregat, L´ (SCD  Bellvitge);2279
+32AL;Viator;2280
+32AS;Noreña;2281
+32BA;Talarrubias y otros municipios;2282
+32BI;Ermua;2283
+32CA;Miengo;2284
+32CC;Pinofranqueado y otros municipios;2285
+32CO;Córdoba (SCD Fátima);2286
+32CR;Puertollano;2287
+32CS;Alquerías del Niño Perdido;2288
+32CZ;Jerez de la Frontera (distrito 01);2289
+32CÑ;Carballo;2290
+32GC;San Bartolomé de Tirajana (distrito 04);2291
+32GI;Jonquera, La y otros municipios;2292
+32GP;Pasaia;2293
+32GR;Benamaurel y otros municipios;2294
+32HS;Huesca (distrito 08);2295
+32HU;Huelva (distrito 08);2296
+32JA;Alcalá la Real;2297
+32LE;Astorga;2298
+32LL;Lleida (distrito 07) y otros municipios;2299
+32LU;Viveiro;2300
+32MA;Cártama;2301
+32MU;Torre-Pacheco;2302
+32NA;Azagra y Funes;2303
+32OU;Ourense (distrito 04);2304
+32PO;Ponte Caldelas;2305
+32SA;Salamanca (distrito 04);2306
+32TA;Reus (distritos 09 y 10);2307
+32TF;Santa Úrsula;2308
+32TO;Pepino y San Román de los Montes;2309
+32VA;Valladolid (SCD Caño Argales);2310
+32ZA;Calatayud;2311
+33AL;Vícar;2312
+33AS;Parres;2313
+33BA;Don Benito y otros municipios;2314
+33BI;Galdakao;2315
+33CA;Piélagos;2316
+33CC;Casar de Palomero y otros municipios;2317
+33CO;Córdoba (SCD Cañero - Parque Fidiana);2318
+33CR;Socuéllamos;2319
+33CS;Castellón de la Plana/Castelló de la Plana (distrito 03);2320
+33CZ;Jerez de la Frontera (distrito 02);2321
+33CÑ;Carral;2322
+33GC;Santa Lucía de Tirajana (distrito 03);2323
+33GI;Avinyonet de Puigventós y otros municipios;2324
+33GP;Errenteria;2325
+33GR;Huéscar;2326
+33HU;Isla Cristina;2327
+33JA;Alcaudete;2328
+33LE;Bañeza, La;2329
+33LL;Agramunt;2330
+33LU;Burela;2331
+33MA;Casares;2332
+33MU;Torres de Cotillas, Las;2333
+33NA;Milagro y Villafranca;2334
+33OU;Ourense (distrito 05);2335
+33PO;Pontecesures;2336
+33SA;Salamanca (distrito 05);2337
+33TA;Tarragona (distritos 01 a 03);2338
+33TF;Santiago del Teide;2339
+33TO;Talavera de la Reina (distrito 02) y Pueblanueva, La;2340
+33VA;Valladolid (SCD Las Delicias);2341
+33ZA;Caspe;2342
+34AL;Mojonera, La;2343
+34AS;Piloña;2344
+34BA;Navalvillar de Pela y otros municipios;2345
+34BI;Gorliz;2346
+34CA;Polanco;2347
+34CC;Valencia de Alcántara;2348
+34CO;Córdoba (SCD Fuensanta - Santuario);2349
+34CR;Solana, La;2350
+34CS;Castellón de la Plana/Castelló de la Plana (distrito 04);2351
+34CZ;Jerez de la Frontera (distrito 06);2352
+34CÑ;Coristanco;2353
+34GC;Telde (distritos 01 y 05);2354
+34GI;Navata y otros municipios;2355
+34GP;Tolosa;2356
+34GR;Granada (distritos 04, 05 y 08);2357
+34HU;Lepe;2358
+34JA;Andújar;2359
+34LE;Bembibre;2360
+34LL;Almacelles;2361
+34LU;Lugo (distrito 02);2362
+34MA;Coín;2363
+34MU;Totana y Aledo;2364
+34NA;Valtierra y otros municipios;2365
+34PO;Redondela;2366
+34SA;Salamanca (distrito 06);2367
+34TA;Alcanar;2368
+34TF;Sauzal, El;2369
+34TO;Escalona y otros municipios;2370
+34VA;Valladolid (SCD Caamaño - Las Viudas);2371
+35AL;Almería (distrito 03);2372
+35AS;Ribadesella;2373
+35BA;Campanario y otros municipios;2374
+35BI;Gernika-Lumo;2375
+35CA;Reinosa;2376
+35CC;Cáceres (distrito 01);2377
+35CO;Córdoba (SCD Arcángel);2378
+35CR;Tomelloso;2379
+35CS;Castellón de la Plana/Castelló de la Plana (distrito 05);2380
+35CZ;Jerez de la Frontera (distritos 08 y 10);2381
+35CÑ;Coruña, A (distrito 01);2382
+35GC;Telde (distrito 02);2383
+35GI;Anglès;2384
+35GP;Urnieta;2385
+35GR;Albolote;2386
+35HU;Moguer;2387
+35JA;Baeza;2388
+35LE;Cacabelos;2389
+35LL;Alpicat;2390
+35LU;Lugo (distrito 05);2391
+35MA;Manilva;2392
+35MU;Unión, La;2393
+35NA;Cintruénigo y Fitero;2394
+35PO;Ribadumia;2395
+35TA;Alcover;2396
+35TF;Silos, Los;2397
+35TO;Arcicóllar y otros municipios;2398
+35VA;Valladolid (SCD Plaza Circular - Vadillos);2399
+35ZA;Mequinenza y otros municipios;2400
+36AL;Almería (distrito 04);2401
+36AS;Salas;2402
+36BA;Cabeza del Buey y otros municipios;2403
+36CA;Reocín;2404
+36CC;Moraleja;2405
+36CO;Córdoba (SCD Campo de la Verdad - Fray Albino);2406
+36CR;Valdepeñas;2407
+36CS;Castellón de la Plana/Castelló de la Plana (distrito 06);2408
+36CZ;Arcos de la Frontera;2409
+36CÑ;Coruña, A (distrito 02);2410
+36GC;Telde (distrito 03);2411
+36GI;Arbúcies;2412
+36GP;Usurbil;2413
+36GR;Albuñol;2414
+36HU;Palma del Condado, La;2415
+36JA;Bailén;2416
+36LE;San Andrés del Rabanedo;2417
+36LL;Balaguer;2418
+36MA;Mollina;2419
+36MU;Yecla;2420
+36NA;Murchante y otros municipios;2421
+36PO;Rosal, O;2422
+36TA;Altafulla;2423
+36TF;Tacoronte;2424
+36TO;Novés y Portillo de Toledo;2425
+36VA;Valladolid (SCD Pajarillos Bajos);2426
+37AL;Almería (distrito 05);2427
+37AS;San Martín del Rey Aurelio;2428
+37BA;Zalamea de la Serena y otros municipios;2429
+37BI;Leioa;2430
+37CA;Santa Cruz de Bezana;2431
+37CC;Trujillo y Aldea del Obispo, La;2432
+37CO;Córdoba (SCD Sector Sur);2433
+37CR;Villanueva de los Infantes y Alcubillas;2434
+37CS;Castellón de la Plana/Castelló de la Plana (distrito 07);2435
+37CZ;San José del Valle y Algar;2436
+37CÑ;Coruña, A (distrito 03);2437
+37GC;Telde (distrito 04);2438
+37GI;Banyoles;2439
+37GP;Villabona;2440
+37GR;Almuñécar;2441
+37HU;Palos de la Frontera;2442
+37JA;Carolina, La;2443
+37LE;Valverde de la Virgen;2444
+37LL;Bellpuig;2445
+37MA;Nerja;2446
+37MU;Santomera;2447
+37NA;Fustiñana y otros municipios;2448
+37PO;Salceda de Caselas;2449
+37TA;Ametlla de Mar, L';2450
+37TF;Tegueste;2451
+37TO;Santa Olalla y otros municipios;2452
+37VA;Valladolid (SCD San Juan - Batallas - Pilarica);2453
+38AL;Almería (distrito 06);2454
+38AS;Tineo;2455
+38BA;Castuera y otros municipios;2456
+38BI;Lekeitio;2457
+38CA;Santa María de Cayón;2458
+38CC;Plasencia;2459
+38CO;Córdoba (SCD Polígono del Guadalquivir);2460
+38CR;Villarrubia de los Ojos;2461
+38CS;Castellón de la Plana/Castelló de la Plana (distrito 08);2462
+38CZ;Bornos y Espera;2463
+38CÑ;Coruña, A (distrito 04);2464
+38GC;Palmas de Gran Canaria, Las (SCD Number 5-D);2465
+38GI;Bisbal d'Empordà, La;2466
+38GP;Ordizia;2467
+38GR;Armilla;2468
+38HU;Punta Umbría;2469
+38JA;Cazorla;2470
+38LE;Valencia de Don Juan;2471
+38LL;Borges Blanques, Les;2472
+38MA;Pizarra;2473
+38MU;Alcázares, Los;2474
+38NA;Cortes y Buñuel;2475
+38PO;Salvaterra de Miño;2476
+38TA;Amposta;2477
+38TF;Valverde;2478
+38TO;Gerindote y otros municipios;2479
+38VA;Valladolid (SCD Hospital - Barrio España - San Pedro Regalado);2480
+38ZA;Muela, La;2481
+39AL;Almería (sección 037 y otras secciones del distrito 07);2482
+39AS;Villaviciosa;2483
+39BA;Quintana de la Serena y otros municipios;2484
+39BI;Mungia;2485
+39CA;Santillana del Mar;2486
+39CC;Montehermoso;2487
+39CO;Córdoba (SCD Vista Alegre - Vallellano - Parque Cruz Conde/Corregidor y sección 037 del distrito 10);2488
+39CR;Ciudad Real (distrito 01);2489
+39CS;Castellón de la Plana/Castelló de la Plana (distrito 09);2490
+39CZ;Villamartín;2491
+39CÑ;Coruña, A (distrito 05);2492
+39GC;Telde (distrito 06);2493
+39GI;Blanes;2494
+39GP;Zarautz;2495
+39GR;Atarfe;2496
+39HU;Rociana del Condado;2497
+39JA;Guardia de Jaén, La;2498
+39LL;Cervera;2499
+39MA;Torrox;2500
+39MU;Cartagena (distrito 01);2501
+39NA;Ribaforada y Ablitas;2502
+39PO;Sanxenxo;2503
+39TA;Arboç, L';2504
+39TF;Victoria de Acentejo, La;2505
+39TO;Carpio de Tajo, El y otros municipios;2506
+39VA;Valladolid (SCD Rondilla);2507
+40AL;Almería (distrito 08);2508
+40AS;Avilés (sección 028 y otras secciones del distrito 01);2509
+40BA;Olivenza y Valverde de Leganés;2510
+40BI;Ondarroa;2511
+40CA;Santoña;2512
+40CC;Cáceres (distrito 06) y Aliseda;2513
+40CO;Córdoba (SCD Ciudad jardín);2514
+40CR;Ciudad Real (distrito 02);2515
+40CS;Vila-real (distrito 01);2516
+40CZ;Prado del Rey y Zahara;2517
+40CÑ;Coruña, A (distrito 06);2518
+40GC;Palmas de Gran Canaria, Las (SCD Number 1-A);2519
+40GI;Caldes de Malavella;2520
+40GP;Zumarraga;2521
+40GR;Baza;2522
+40HU;Valverde del Camino;2523
+40JA;Jódar;2524
+40LE;Villablino;2525
+40LL;Guissona;2526
+40MA;Benalmádena (distrito 01);2527
+40MU;Cartagena (distrito 02);2528
+40NA;Ansoáin/Antsoain;2529
+40PO;Tomiño;2530
+40TA;Calafell;2531
+40TF;Arona (sección 011 y otras secciones del distrito 01);2532
+40TO;Cebolla y otros municipios;2533
+40VA;Valladolid (SCD San Nicolás - San Miguel);2534
+40ZA;Puebla de Alfindén, La;2535
+41AL;Roquetas de Mar (distrito 01);2536
+41AS;Oviedo (distrito 01);2537
+41BA;Guareña y San Pedro de Mérida;2538
+41BI;Urduña/Orduña;2539
+41CA;Suances;2540
+41CC;Talayuela y otros municipios;2541
+41CO;Córdoba (SCD Huerta de la Marquesa);2542
+41CR;Ciudad Real (distrito 03);2543
+41CS;Vila-real (distrito 02);2544
+41CZ;Ubrique;2545
+41CÑ;Coruña, A (distrito 07);2546
+41GC;Palmas de Gran Canaria, Las (SCD Number 1-B);2547
+41GI;Calonge;2548
+41GP;Zumaia;2549
+41GR;Cájar;2550
+41HU;San Juan del Puerto;2551
+41JA;Mancha Real;2552
+41LE;Villaquilambre;2553
+41LL;Mollerussa;2554
+41MA;Benalmádena (distrito 02);2555
+41MU;Cartagena (distrito 03);2556
+41NA;Aranguren;2557
+41PO;Tui;2558
+41TA;Sénia, La;2559
+41TF;San Cristóbal de La Laguna (distrito 01);2560
+41TO;Casar de Escalona, El y otros municipios;2561
+41VA;Valladolid (SCD Canal de Castilla - La Overuela);2562
+41ZA;Tauste;2563
+42AL;Roquetas de Mar (distrito 02);2564
+42AS;Oviedo (distrito 02);2565
+42BA;Mérida (distritos 02 y 05);2566
+42BI;Portugalete;2567
+42CC;Jaraíz de la Vera;2568
+42CO;Córdoba (SCD Cercadilla - Olivos Borrachos);2569
+42CR;Ciudad Real (distrito 04);2570
+42CS;Vila-real (distrito 03);2571
+42CZ;Bosque, El y otros municipios;2572
+42CÑ;Coruña, A (distrito 08);2573
+42GC;Palmas de Gran Canaria, Las (SCD Number 1-C);2574
+42GI;Cassà de la Selva;2575
+42GP;Lasarte-Oria;2576
+42GR;Cenes de la Vega;2577
+42HU;Trigueros;2578
+42JA;Peal de Becerro;2579
+42LE;León (distrito 01);2580
+42LL;Seu d'Urgell, La;2581
+42MA;Benalmádena (distrito 03);2582
+42MU;Cartagena (distrito 04);2583
+42NA;Burlada/Burlata;2584
+42PO;Vilaboa;2585
+42TA;Constantí;2586
+42TF;San Cristóbal de La Laguna (distrito 02);2587
+42TO;Oropesa y otros municipios;2588
+42VA;Valladolid (SCD Huerta del Rey);2589
+42ZA;Utebo;2590
+43AL;Ejido, El (sección 006 y otras secciones del distrito 01);2591
+43AS;Oviedo (distrito 03);2592
+43BA;Mérida (distrito 04) y otros municipios;2593
+43BI;Valle de Trápaga-Trapagaran;2594
+43CA;Santander (distrito 01);2595
+43CC;Coria;2596
+43CO;Córdoba (SCD Miralbaida - Electromecánicas);2597
+43CS;Vila-real (distrito 04);2598
+43CZ;Algodonales y Gastor, El;2599
+43CÑ;Coruña, A (distrito 09);2600
+43GC;Palmas de Gran Canaria, Las (SCD Number 1-D);2601
+43GP;Astigarraga;2602
+43GR;Cúllar Vega;2603
+43JA;Torredonjimeno;2604
+43LE;León (distrito 02);2605
+43LL;Solsona;2606
+43MA;Estepona (distrito 01);2607
+43MU;Cartagena (distrito 05);2608
+43NA;Castejón;2609
+43PO;Vila de Cruces;2610
+43TA;Cunit;2611
+43TF;San Cristóbal de La Laguna (distrito 03);2612
+43TO;Lagartera y otros municipios;2613
+43VA;Valladolid (SCD Parquesol - Arturo Eyries);2614
+43ZA;Villanueva de Gállego;2615
+44AL;Ejido, El (sección 012 y otras secciones del distrito 01);2616
+44AS;Oviedo (distrito 04);2617
+44BA;Mérida (distrito 03) y otros municipios;2618
+44BI;Santurtzi;2619
+44CA;Santander (distrito 02);2620
+44CC;Miajadas;2621
+44CO;Córdoba (sección 020 del distrito 10 y otras secciones del distrito 06);2622
+44CZ;Puerto Serrano;2623
+44CÑ;Coruña, A (distrito 10);2624
+44GC;Palmas de Gran Canaria, Las (SCD Number 2-A);2625
+44GI;Castelló d'Empúries;2626
+44GP;Irun (distrito 01);2627
+44GR;Chauchina;2628
+44JA;Úbeda;2629
+44LE;León (distrito 03);2630
+44LL;Tàrrega;2631
+44MA;Estepona (distrito 02);2632
+44MU;Cartagena (distrito 06);2633
+44NA;Corella;2634
+44PO;Vilagarcía de Arousa;2635
+44TA;Montblanc;2636
+44TF;San Cristóbal de La Laguna (distrito 04);2637
+44TO;Belvís de la Jara y otros municipios;2638
+44VA;Valladolid (SCD Paseo Zorrilla Alto - Cuatro de Marzo);2639
+44ZA;Zuera;2640
+45AL;Ejido, El (sección 018 y otras secciones del distrito 01);2641
+45AS;Oviedo (distrito 05);2642
+45BA;Alburquerque;2643
+45BI;Ortuella;2644
+45CA;Santander (distrito 03);2645
+45CC;Cáceres (distrito 02);2646
+45CO;Córdoba (SCD Parque Figueroa - San Rafael de la Albaida);2647
+45CZ;Olvera y Torre Alháquime;2648
+45CÑ;Culleredo;2649
+45GC;Palmas de Gran Canaria, Las (SCD No. 2-B y sección 065 del distrito 02);2650
+45GI;Castell-Platja d'Aro;2651
+45GP;Irun (distrito 02);2652
+45GR;Churriana de la Vega;2653
+45JA;Villacarrillo;2654
+45LE;León (distrito 04);2655
+45LL;Tremp;2656
+45MA;Estepona (distrito 03);2657
+45MU;Cartagena (distrito 07);2658
+45NA;Valle de Egüés;2659
+45PO;Vilanova de Arousa;2660
+45TA;Mont-roig del Camp;2661
+45TF;San Cristóbal de La Laguna (distrito 05);2662
+45TO;Alcaudete de la Jara y otros municipios;2663
+45VA;Valladolid (SCD La Rubia - Covaresa - Puente Duero);2664
+45ZA;Zaragoza (SCD Number 1-A);2665
+46AL;Almería (sección 041 y otras secciones del distrito 07);2666
+46AS;Oviedo (distrito 06);2667
+46BA;Almendralejo;2668
+46BI;Sestao;2669
+46CA;Santander (distrito 04);2670
+46CC;Cáceres (distrito 03);2671
+46CO;Córdoba (SCD Santa Isabel);2672
+46CZ;Alcalá del Valle y Setenil de las Bodegas;2673
+46CÑ;Ferrol (distrito 01);2674
+46GC;Palmas de Gran Canaria, Las (SCD Number 2-C);2675
+46GI;Escala, L';2676
+46GP;Irun (distrito 03);2677
+46GR;Gójar;2678
+46JA;Villares, Los;2679
+46LE;León (distrito 05);2680
+46LL;Lleida (distrito 01);2681
+46MA;Fuengirola (distrito 01);2682
+46MU;Cartagena (distrito 08);2683
+46NA;Noáin (Valle de Elorz)/Noain (Elortzibar);2684
+46PO;Illa de Arousa, A;2685
+46TA;Móra d'Ebre;2686
+46TF;San Cristóbal de La Laguna (distrito 06);2687
+46TO;Navalmorales, Los y otros municipios;2688
+46ZA;Zaragoza (SCD Number 1-B);2689
+47AL;Almería (sección 018 y otras secciones del distrito 07);2690
+47AS;Oviedo (distrito 07);2691
+47BA;Calamonte;2692
+47BI;Sopela;2693
+47CA;Santander (distrito 05);2694
+47CC;Cáceres (distrito 04);2695
+47CO;Córdoba (SCD Margaritas - Colonia de la Paz);2696
+47CZ;Jimena de la Frontera y otros municipios;2697
+47CÑ;Ferrol (distrito 02);2698
+47GC;Palmas de Gran Canaria, Las (SCD Number 2-D);2699
+47GI;Figueres;2700
+47GP;Irun (distrito 04);2701
+47GR;Guadix;2702
+47JA;Villatorres;2703
+47LE;León (distrito 06);2704
+47LL;Lleida (distrito 02);2705
+47MA;Fuengirola (distrito 02);2706
+47MU;Cartagena (distrito 09);2707
+47NA;Estella-Lizarra;2708
+47PO;Pontevedra (distrito 01);2709
+47TA;Roda de Berà;2710
+47TF;Santa Cruz de Tenerife (distrito 01);2711
+47TO;Navahermosa y otros municipios;2712
+47ZA;Zaragoza (SCD Number 2-A);2713
+48AS;Oviedo (distrito 08);2714
+48BA;Fuente del Maestre;2715
+48BI;Balmaseda;2716
+48CA;Santander (distrito 06);2717
+48CC;Cáceres (distrito 05);2718
+48CO;Córdoba (SCD Moreras -  Huerta de la Reina);2719
+48CZ;Alcalá de los Gazules;2720
+48CÑ;Oza-Cesuras;2721
+48GC;Palmas de Gran Canaria, Las (SCD Number 2-E);2722
+48GI;Llagostera;2723
+48GP;Donostia/San Sebastián (distrito 01);2724
+48GR;Gualchos;2725
+48JA;Jaén (distrito 01);2726
+48LE;León (distrito 07);2727
+48LL;Lleida (distrito 03);2728
+48MA;Fuengirola (distrito 03);2729
+48MU;Cartagena (distrito 10);2730
+48NA;Huarte/Uharte;2731
+48PO;Pontevedra (distrito 02);2732
+48TA;Roquetes;2733
+48TF;Santa Cruz de Tenerife (distrito 02);2734
+48TO;Toledo (distritos 01 a 04);2735
+48ZA;Zaragoza (SCD Number 2-B);2736
+49AS;Oviedo (distrito 09);2737
+49BA;Llerena;2738
+49BI;Zalla;2739
+49CA;Santander (distrito 07);2740
+49CO;Córdoba (SCD Arruzafilla);2741
+49CZ;Paterna de Rivera;2742
+49CÑ;Ferrol (distrito 06);2743
+49GC;Palmas de Gran Canaria, Las (SCD No. 3-A y sección 046 del distrito 03);2744
+49GI;Llívia;2745
+49GP;Donostia/San Sebastián (distrito 02);2746
+49GR;Huétor Tájar;2747
+49JA;Jaén (distrito 02);2748
+49LE;León (distrito 10);2749
+49LL;Lleida (distrito 04);2750
+49MA;Marbella (distrito 01);2751
+49MU;Lorca (distrito 01);2752
+49NA;Peralta/Azkoien;2753
+49PO;Pontevedra (distrito 03);2754
+49TA;Sant Carles de la Ràpita;2755
+49TF;Santa Cruz de Tenerife (distrito 03);2756
+49TO;Añover de Tajo;2757
+49ZA;Zaragoza (SCD Number 2-C);2758
+50AS;Oviedo (distrito 10);2759
+50BA;Puebla de la Calzada;2760
+50BI;Derio;2761
+50CA;Santander (distrito 08);2762
+50CO;Córdoba (SCD Santa Rosa - Camping);2763
+50CZ;Medina-Sidonia;2764
+50CÑ;Ferrol (distrito 07);2765
+50GC;Palmas de Gran Canaria, Las (SCD Number 3-B);2766
+50GI;Lloret de Mar;2767
+50GP;Donostia/San Sebastián (distrito 03);2768
+50GR;Huétor Vega;2769
+50JA;Jaén (distrito 03);2770
+50LE;Ponferrada (distrito 01);2771
+50LL;Lleida (distrito 05);2772
+50MA;Marbella (distrito 02);2773
+50MU;Lorca (distrito 02);2774
+50PO;Pontevedra (distrito 04);2775
+50TA;Selva del Camp, La;2776
+50TF;Santa Cruz de Tenerife (distrito 04);2777
+50TO;Argés;2778
+50ZA;Zaragoza (SCD Number 2-D);2779
+51AS;Oviedo (distrito 11);2780
+51BA;Santos de Maimona, Los;2781
+51BI;Erandio;2782
+51CA;Torrelavega (distrito 01);2783
+51CO;Córdoba (SCD Valdeolleros - Chinales);2784
+51CZ;Benalup-Casas Viejas;2785
+51CÑ;Ferrol (distrito 08);2786
+51GC;Palmas de Gran Canaria, Las (SCD Number 3-C);2787
+51GI;Maçanet de la Selva;2788
+51GP;Donostia/San Sebastián (distrito 04);2789
+51GR;Iznalloz;2790
+51JA;Jaén (distrito 04);2791
+51LE;Ponferrada (distrito 02);2792
+51LL;Lleida (distrito 06);2793
+51MA;Marbella (distrito 03);2794
+51MU;Murcia (SCD Number 1-A);2795
+51NA;San Adrián;2796
+51PO;Pontevedra (distrito 05);2797
+51TA;Torredembarra;2798
+51TF;Santa Cruz de Tenerife (distrito 05);2799
+51TO;Bargas;2800
+51ZA;Zaragoza (SCD Number 3-A);2801
+52AS;Oviedo (distrito 12);2802
+52BA;Villafranca de los Barros;2803
+52BI;Barakaldo (distrito 01);2804
+52CA;Torrelavega (distrito 03);2805
+52CO;Córdoba (SCD Brillante - Barrio del Naranjo);2806
+52CZ;Chiclana de la Frontera (distrito 05);2807
+52CÑ;Fisterra;2808
+52GC;Palmas de Gran Canaria, Las (SCD Number 4-A);2809
+52GI;Olot;2810
+52GP;Donostia/San Sebastián (distrito 05);2811
+52GR;Maracena;2812
+52JA;Jaén (distrito 05);2813
+52LE;Ponferrada (distrito 03);2814
+52MA;Marbella (distrito 04);2815
+52MU;Murcia (SCD Number 1-B);2816
+52NA;Tafalla;2817
+52PO;Vigo (SCD Vigo centro 1);2818
+52TA;Tortosa;2819
+52TF;Santa Cruz de Tenerife (distrito 06);2820
+52TO;Calera y Chozas;2821
+52ZA;Zaragoza (SCD Number 3-B);2822
+53AS;Oviedo (distritos 13 y 14);2823
+53BA;Villanueva de la Serena;2824
+53BI;Barakaldo (distrito 02);2825
+53CA;Torrelavega (distrito 04);2826
+53CO;Córdoba (SCD El Higuerón - Majaneque-Alameda del Obispo);2827
+53CZ;Chiclana de la Frontera (distrito 04);2828
+53CÑ;Laracha, A;2829
+53GC;Palmas de Gran Canaria, Las (SCD Number 4-B);2830
+53GI;Palafrugell;2831
+53GP;Donostia/San Sebastián (distrito 06);2832
+53GR;Monachil;2833
+53JA;Jaén (distrito 06);2834
+53LE;Ponferrada (distrito 05);2835
+53MA;Mijas (sección 019 y otras secciones del distrito 01);2836
+53MU;Murcia (SCD Number 2-A);2837
+53NA;Tudela;2838
+53PO;Vigo (SCD Vigo centro 2);2839
+53TA;Ulldecona;2840
+53TF;Santa Cruz de Tenerife (distrito 09);2841
+53TO;Seseña y Casarrubios del Monte;2842
+53ZA;Zaragoza (SCD Number 3-C);2843
+54BA;Zafra;2844
+54BI;Barakaldo (distrito 03);2845
+54CO;Córdoba (SCD Villarrubia -Encinarejo de Córdoba);2846
+54CZ;Chiclana de la Frontera (distrito 03);2847
+54CÑ;Malpica de Bergantiños;2848
+54GC;Palmas de Gran Canaria, Las (SCD No 4-C y sección 084 del distrito 04);2849
+54GI;Palamós;2850
+54GP;Donostia/San Sebastián (distrito 07);2851
+54GR;Ogíjares;2852
+54JA;Jaén (distrito 09);2853
+54MA;Vélez-Málaga (distrito 01);2854
+54Mu;Murcia (SCD Number 2-B);2855
+54NA;Villava/Atarrabia;2856
+54PO;Vigo (SCD Vigo centro 3);2857
+54TA;Valls;2858
+54TF;Santa Cruz de Tenerife (distrito 10);2859
+54TO;Consuegra;2860
+54ZA;Zaragoza (SCD Number 3-D);2861
+55AS;Oviedo (distrito 15);2862
+55BA;Badajoz (distrito 01);2863
+55BI;Barakaldo (distrito 04);2864
+55CO;Fernán-Núñez;2865
+55CZ;Chiclana de la Frontera (distrito 02);2866
+55CÑ;Melide;2867
+55GC;Palmas de Gran Canaria, Las (SCD Number 4-D);2868
+55GI;Puigcerdà;2869
+55GR;Órgiva;2870
+55JA;Linares (distrito 04);2871
+55MA;Vélez-Málaga (distrito 02);2872
+55MU;Murcia (SCD Number 3-A);2873
+55NA;Barañain;2874
+55PO;Vigo (SCD Vigo centro-zona Balaidos);2875
+55TA;Vandellòs i l'Hospitalet de l'Infant;2876
+55TF;Santa Cruz de Tenerife (distrito 11);2877
+55TO;Fuensalida;2878
+55ZA;Zaragoza (SCD Number 3-E);2879
+56AS;Oviedo (distrito 16);2880
+56BA;Badajoz (distrito 02);2881
+56BI;Barakaldo (distrito 05);2882
+56CO;Fuente Palmera y Fuente Carreteros;2883
+56CZ;Chiclana de la Frontera (distrito 01);2884
+56CÑ;Miño;2885
+56GC;Palmas de Gran Canaria, Las (SCD Number 4-E);2886
+56GI;Ripoll;2887
+56GR;Padul;2888
+56JA;Linares (distrito 05);2889
+56MA;Vélez-Málaga (distrito 03);2890
+56MU;Murcia (SCD Number 3-B);2891
+56NA;Berrioplano/Berriobeiti;2892
+56PO;Vigo (SCD Distrito 4-zona Coia);2893
+56TA;Vendrell, El;2894
+56TF;Santa Cruz de Tenerife (distrito 12);2895
+56TO;Illescas;2896
+56ZA;Zaragoza (SCD Number 4-A);2897
+57AS;Siero;2898
+57BA;Badajoz (distrito 03);2899
+57BI;Barakaldo (distrito 06);2900
+57CO;Hinojosa del Duque;2901
+57CZ;Conil de la Frontera;2902
+57CÑ;Mugardos;2903
+57GC;Palmas de Gran Canaria, Las (SCD Number 5-A);2904
+57GI;Roses;2905
+57GR;Peligros;2906
+57JA;Linares (distrito 06);2907
+57MA;Vélez-Málaga (distrito 04);2908
+57MU;Murcia (SCD Number 4-A);2909
+57NA;Berriozar;2910
+57PO;Vigo (SCD Distrito 4-zona Balaidos);2911
+57TA;Vila-seca;2912
+57TF;Arona (sección 016 y otras secciones del distrito 01);2913
+57TO;Madridejos;2914
+57ZA;Zaragoza (SCD Number 4-B);2915
+58AS;Gijón (SCD Alto Pumarin);2916
+58BA;Badajoz (distrito 04);2917
+58BI;Barakaldo (distrito 07);2918
+58CO;Lucena;2919
+58CZ;Vejer de la Frontera;2920
+58CÑ;Muros;2921
+58GI;Salt;2922
+58GR;Pinos Puente;2923
+58JA;Linares (distrito 07);2924
+58MA;Torremolinos;2925
+58MU;Murcia (SCD Number 4-B);2926
+58NA;Zizur Mayor/Zizur Nagusia;2927
+58PO;Vigo (SCD Distrito 5-zona Freixeiro-Castrelos);2928
+58TA;Salou;2929
+58TF;Arona (sección 026 y otras secciones del distrito 01);2930
+58TO;Mora;2931
+58ZA;Zaragoza (SCD Number 4-C);2932
+59AS;Gijón (SCD Ceares/Ciares);2933
+59BA;Badajoz (distrito 05);2934
+59BI;Barakaldo (distrito 08);2935
+59CO;Montilla;2936
+59CZ;Barbate;2937
+59CÑ;Narón;2938
+59GI;Sant Feliu de Guíxols;2939
+59GR;Pulianas;2940
+59MA;Málaga (SCD Centro);2941
+59MU;Murcia (SCD Number 4-C);2942
+59NA;Pamplona/Iruña (distrito 01);2943
+59PO;Vigo (SCD Distrito 6-zona Teis);2944
+59TA;Canonja, La;2945
+59TO;Nambroca;2946
+59ZA;Zaragoza (SCD Number 4-D);2947
+60AS;Gijón (SCD Contrueces);2948
+60BA;Badajoz (distrito 06);2949
+60BI;Barakaldo (distrito 09);2950
+60CO;Nueva Carteya;2951
+60CZ;Tarifa;2952
+60CÑ;Negreira;2953
+60GI;Santa Cristina d'Aro;2954
+60GR;Salobreña;2955
+60MA;Málaga (SCD Litoral Este: Malaqueta-Limonar);2956
+60MU;Murcia (SCD Number 5-A);2957
+60NA;Pamplona/Iruña (distrito 02);2958
+60PO;Vigo (SCD Distrito 7-zona Calvario);2959
+60TA;Reus (distrito 01);2960
+60TO;Olías del Rey;2961
+60ZA;Zaragoza (SCD Number 5-A);2962
+61AS;Gijón (SCD El Centro-Cimavilla);2963
+61BA;Badajoz (distrito 07);2964
+61BI;Bilbao (SCD Deustu 1);2965
+61CO;Palma del Río;2966
+61CZ;Algeciras (distrito 03);2967
+61CÑ;Noia;2968
+61GI;Sarrià de Ter;2969
+61GR;Santa Fe;2970
+61MA;Málaga (SCD Litoral Este: El Palo - El Candado);2971
+61MU;Murcia (SCD Number 5-B);2972
+61NA;Pamplona/Iruña (distrito 03);2973
+61PO;Vigo (SCD Distrito 7-zona Lavadores);2974
+61TA;Reus (distrito 02);2975
+61TO;Puebla de Montalbán, La;2976
+61ZA;Zaragoza (SCD Number 5-B);2977
+62AS;Gijón (SCD El Coto-Les Mestes-Viesques);2978
+62BA;Badajoz (distrito 09);2979
+62BI;Bilbao (SCD Deustu 2);2980
+62CO;Peñarroya-Pueblonuevo;2981
+62CZ;Algeciras (distrito 02);2982
+62CÑ;Oleiros;2983
+62GI;Sils;2984
+62GR;Zubia, La;2985
+62MA;Málaga (SCD Pedrizas: Ciudad Jardín);2986
+62MU;Murcia (SCD Number 6-A);2987
+62NA;Pamplona/Iruña (distrito 04);2988
+62PO;Vigo (SCD Distrito 8-zona Beade Bembrive);2989
+62TA;Reus (distrito 03);2990
+62TO;Quintanar de la Orden;2991
+62ZA;Zaragoza (SCD Number 5-C);2992
+63AS;Gijón (SCD El Llano);2993
+63BA;Badajoz (distrito 10);2994
+63BI;Bilbao (SCD Uribarri 1);2995
+63CO;Pozoblanco;2996
+63CZ;Algeciras (distrito 04);2997
+63CÑ;Ordes;2998
+63GI;Torroella de Montgrí;2999
+63GR;Gabias, Las;3000
+63MA;Málaga (SCD Pedrizas: Segalerva - Olletas);3001
+63MU;Murcia (SCD Number 6-B);3002
+63NA;Pamplona/Iruña (distrito 05);3003
+63PO;Vigo (SCD Distrito 9-zona Oia Coruxo);3004
+63TA;Reus (distrito 04);3005
+63ZA;Zaragoza (SCD Number 5-D);3006
+64AS;Gijón (SCD El Natahoyo-Moreda);3007
+64BA;Mérida (distrito 01);3008
+64BI;Bilbao (SCD Uribarri 2);3009
+64CO;Puente Genil;3010
+64CZ;Algeciras (distrito 01);3011
+64CÑ;Oroso;3012
+64GI;Tossa de Mar;3013
+64GR;Vegas del Genil;3014
+64MA;Málaga (SCD Rosaleda:Palma - Palmilla);3015
+64MU;Murcia (SCD Number 7-A);3016
+64NA;Pamplona/Iruña (distrito 06);3017
+64PO;Silleda;3018
+64TA;Reus (distrito 05);3019
+64TO;Sonseca;3020
+64ZA;Zaragoza (SCD Number 6-A);3021
+65AS;Gijón (SCD El Polígono-Laviada);3022
+65BA;Mérida (distrito 06);3023
+65BI;Bilbao (SCD Otxarkoaga-Txurdinaga);3024
+65CO;Santaella y Guijarrosa, La;3025
+65CZ;Barrios, Los;3026
+65CÑ;Outes;3027
+65GI;Vidreres;3028
+65GR;Granada (distrito 01);3029
+65MA;Málaga (SCD Rosaleda: Trinidad);3030
+65MU;Murcia (SCD Number 7-B);3031
+65NA;Pamplona/Iruña (distrito 07);3032
+65TA;Reus (distrito 06);3033
+65TO;Torrijos;3034
+65ZA;Zaragoza (SCD Number 6-B);3035
+66AS;Gijón (SCD Jove-Veriña-Tremañes);3036
+66BI;Bilbao (SCD Begoña 1);3037
+66CO;Villa del Río;3038
+66CZ;San Roque;3039
+66CÑ;Padrón;3040
+66GI;Vilafant;3041
+66GR;Granada (distrito 02);3042
+66MA;Málaga (SCD Rosaleda: Suárez - Carlos Haya);3043
+66MU;Murcia (SCD Number 8);3044
+66NA;Pamplona/Iruña (distrito 08);3045
+66TA;Reus (distrito 07);3046
+66TO;Ugena;3047
+66ZA;Zaragoza (SCD Number 7);3048
+67AS;Gijón (SCD L´Arena-Parque);3049
+67BI;Bilbao (SCD Ibaiondo 1);3050
+67CZ;Línea de la Concepción, La (distrito 07);3051
+67CÑ;Pino, O;3052
+67GI;Girona (distrito 01);3053
+67GR;Granada (distrito 03);3054
+67MA;Málaga (SCD Puerto de la Torre);3055
+67MU;Molina de Segura (sección 051 y otras secciones del distrito 01);3056
+67TA;Reus (distrito 08);3057
+67TO;Villacañas;3058
+67ZA;Zaragoza (SCD Number 8-A);3059
+68AS;Gijón (SCD La Calzada);3060
+68BI;Bilbao (SCD Ibaiondo 2);3061
+68CZ;Línea de la Concepción, La (distrito 06);3062
+68CÑ;Pobra do Caramiñal, A;3063
+68GI;Girona (distrito 02);3064
+68GR;Granada (distrito 06);3065
+68MA;Málaga (SCD Prolongación: Portada Alta - San Rafael);3066
+68MU;Molina de Segura (sección 026 y otras secciones del distrito 01);3067
+68TA;Tarragona (distrito 04);3068
+68TO;Yeles;3069
+68ZA;Zaragoza (SCD Number 8-B);3070
+69AS;Gijón (SCD Pumarín);3071
+69BI;Bilbao (SCD Abando 1);3072
+69CZ;Línea de la Concepción, La (distrito 03);3073
+69CÑ;Ponteceso;3074
+69GI;Girona (distrito 03);3075
+69GR;Granada (distrito 07);3076
+69MA;Málaga (SCD Teatinos);3077
+69TA;Tarragona (distrito 05);3078
+69TO;Yepes;3079
+69ZA;Zaragoza (SCD Number 9);3080
+70AS;Gijón (SCD Roces-Montevil);3081
+70BI;Bilbao (SCD Abando 2);3082
+70CZ;Línea de la Concepción, La (distrito 05);3083
+70CÑ;Pontedeume;3084
+70GI;Girona (distritos 04 y 05);3085
+70GR;Granada (distrito 09);3086
+70MA;Málaga (SCD Guadalhorce);3087
+70TA;Tarragona (distrito 06);3088
+70TO;Yuncos;3089
+70ZA;Zaragoza (SCD Number 10-A);3090
+71AS;Gijón (SCD Rural);3091
+71BI;Bilbao (SCD Errekalde 1);3092
+71CZ;Línea de la Concepción, La (distrito 04);3093
+71CÑ;Porto do Son;3094
+71MA;Málaga (SCD Campanillas);3095
+71TA;Tarragona (distrito 07);3096
+71TO;Talavera de la Reina (distrito 01);3097
+71ZA;Zaragoza (SCD Number 10-B);3098
+72AS;Avilés (sección 036 y otras secciones del distrito 01);3099
+72BI;Bilbao (SCD Errekalde 2);3100
+72CZ;Línea de la Concepción, La (distrito 01);3101
+72CÑ;Rianxo;3102
+72GI;Girona (distrito 06);3103
+72MA;Málaga (SCD Prolongación: Mármoles - Carranque);3104
+72TA;Tarragona (distrito 08);3105
+72TO;Talavera de la Reina (distrito 03);3106
+72ZA;Zaragoza (SCD Number 10-C);3107
+73AS;Avilés (sección 053 y otras secciones del distrito 01);3108
+73BI;Bilbao (SCD Basartu-Zorrotza);3109
+73CZ;Línea de la Concepción, La (distrito 02);3110
+73CÑ;Ribeira;3111
+73MA;Málaga (SCD Prolongación: La Unión - Cruz de Humilladero);3112
+73TA;Tarragona (distrito 09);3113
+73TO;Talavera de la Reina (distrito 04);3114
+73ZA;Zaragoza (SCD Number 10-D);3115
+74BI;Getxo (distrito 01);3116
+74CÑ;Sada;3117
+74MA;Málaga (SCD Litoral Oeste: Huelín);3118
+74TO;Toledo (distrito 05);3119
+74ZA;Zaragoza (SCD Number 10-E);3120
+75BI;Getxo (distrito 02);3121
+75CÑ;Santa Comba;3122
+75MA;Málaga (SCD Litoral Oeste: La Paz - Parque Mediterráneo);3123
+75TO;Toledo (distrito 06);3124
+75ZA;Zaragoza (SCD Number 11);3125
+76BI;Getxo (distrito 03);3126
+76CÑ;Santiago de Compostela (distrito 01);3127
+76MA;Málaga (SCD Litoral Oeste: La Luz - San Andrés);3128
+76TO;Toledo (distrito 07);3129
+77CÑ;Santiago de Compostela (distrito 02);3130
+77MA;Málaga (SCD Litoral Oeste: Puerta Blanca - Fincal El Pato);3131
+78CÑ;Santiago de Compostela (distrito 03);3132
+78MA;Málaga (SCD Churriana - Bahía Málaga);3133
+79CÑ;Santiago de Compostela (distrito 04);3134
+79MA;Mijas (sección 026 y otras secciones del distrito 01);3135
+80CÑ;Santiago de Compostela (distrito 05);3136
+80GR;Motril (distrito 01);3137
+80MA;Mijas (sección 011 y otras secciones del distrito 01);3138
+81CÑ;Teo;3139
+81GR;Motril (distrito 02);3140
+82CÑ;Valdoviño;3141
+82GR;Motril (distrito 03);3142
+83CÑ;Vedra;3143
+83GR;Motril (distrito 04);3144
+84CÑ;Vimianzo;3145
+84GR;Motril (distrito 05) y Torrenueva Costa;3146
+85CÑ;Zas;3147
+85GR;Puebla de Don Fadrique y otros municipios;3148
+IB01;Valldemossa y otros municipios;3149
+IB02;Selva y otros municipios;3150
+IB03;Campanet y Búger;3151
+IB04;Vilafranca de Bonany y otros municipios;3152
+IB05;Sencelles y Santa Eugènia;3153
+IB06;Consell;3154
+IB07;Alaró;3155
+IB08;Sineu y otros municipios;3156
+IB09;Llubí y Maria de la Salut;3157
+IB10;Montuïri y Sant Joan;3158
+IB11;Salines, Ses;3159
+IB12;Mercadal, Es;3160
+IB13;Ferreries y Migjorn Gran, Es;3161
+IB14;Alaior;3162
+IB15;Alcúdia;3163
+IB16;Algaida;3164
+IB17;Andratx;3165
+IB18;Artà;3166
+IB19;Binissalem;3167
+IB20;Bunyola;3168
+IB21;Calvià;3169
+IB22;Campos;3170
+IB23;Capdepera;3171
+IB24;Ciutadella de Menorca;3172
+IB25;Esporles;3173
+IB26;Felanitx;3174
+IB27;Formentera;3175
+IB28;Eivissa;3176
+IB29;Inca;3177
+IB30;Lloseta;3178
+IB31;Llucmajor;3179
+IB32;Maó-Mahón;3180
+IB33;Manacor;3181
+IB34;Marratxí;3182
+IB35;Muro;3183
+IB36;Pollença;3184
+IB37;Porreres;3185
+IB38;Pobla, Sa;3186
+IB39;Sant Antoni de Portmany;3187
+IB40;Sant Josep de sa Talaia;3188
+IB41;Sant Joan de Labritja;3189
+IB42;Sant Llorenç des Cardassar;3190
+IB43;Sant Lluís;3191
+IB44;Santa Eulària des Riu;3192
+IB45;Santa Margalida;3193
+IB46;Santa María del Camí;3194
+IB47;Santanyí;3195
+IB48;Sóller;3196
+IB49;Son Servera;3197
+IB50;Castell, Es;3198
+IB51;Palma de Mallorca (SCD Number 1-A);3199
+IB52;Palma de Mallorca (SCD Number 1-B);3200
+IB53;Palma de Mallorca (SCD Number 2-A);3201
+IB54;Palma de Mallorca (SCD Number 2-B);3202
+IB55;Palma de Mallorca (SCD Number 2-C);3203
+IB56;Palma de Mallorca (SCD Number 2-D);3204
+IB57;Palma de Mallorca (SCD Number 3-A);3205
+IB58;Palma de Mallorca (SCD Number 3-B);3206
+IB59;Palma de Mallorca (SCD Number 3-C);3207
+IB60;Palma de Mallorca (SCD Number 4-A);3208
+IB61;Palma de Mallorca (SCD Number 4-B);3209
+IB62;Palma de Mallorca (SCD Number 4-C);3210
+IB63;Palma de Mallorca (SCD Number 4-D);3211
+IB64;Palma de Mallorca (SCD Number 4-E);3212
+IB65;Palma de Mallorca (SCD Number 5-A);3213
+IB66;Palma de Mallorca (SCD Number 5-B);3214
