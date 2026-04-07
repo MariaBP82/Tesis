@@ -39,6 +39,7 @@ Flujo típico:
 3. Revisar resultados generados (tablas/figuras).
 
 Control de aleatoriedad (semilla = 123)
+
 Para garantizar resultados reproducibles, fija la semilla antes de ejecutar cada experimento/notebook.
 
 Para replicar los análisis, usa las siguientes versiones de software:
