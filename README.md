@@ -81,7 +81,7 @@ Además, se incluyen los modelos de *machine learning* y *deep learning* utiliza
 ### [CAPÍTULO 3](./CAP%C3%8DTULO%203/)
 En este capítulo se incluyen los códigos empleados para el cálculo de la matriz de interacción del flujo, disponibles en dos implementaciones:
 - **MATLAB**: script para el cálculo de la matriz.
-- **Python**: implementación equivalente en formato script/notebook.
+- **Python**: implementación equivalente en formato notebook.
 
 
 ### [CAPÍTULO 4](./CAP%C3%8DTULO%204/)
