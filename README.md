@@ -135,7 +135,7 @@ La carpeta `2) RESULTADOS/` contiene los resultados generados mediante FCL para 
 - Particiones obtenidas con Louvain clásico.
 - Particiones obtenidas con el algoritmo Flow Capacity Louvain (FCL).
 - Ficheros con las particiones y valores de modularidad asociados.
-#### Código del algoritmo
+#### 3) Código del algoritmo
 En el directorio del capítulo se incluyen los scripts en **MATLAB** necesarios para la ejecución del algoritmo y el cálculo de métricas:
 - `FlowCapacityLouvain.m` — implementación del algoritmo FCL.
 - `compute_FlowCapacityLouvain.m` — ejecución del algoritmo sobre las matrices de entrada.
