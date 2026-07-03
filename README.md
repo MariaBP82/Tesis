@@ -2,7 +2,6 @@
 
 Este repositorio acompaña a la tesis **“Aportaciones a problemas de detección de comunidades en redes dirigidas. Definiciones de grupo”** de María Barroso Pérez, dirigida por Daniel Gómez e Inmaculada Gutiérrez.
 
-Aquí encontrarás código reproducible, conjuntos de datos y resultados organizados por capítulos, en correspondencia con el contenido de la tesis.
 
 ## Objetivos de la tesis
 
