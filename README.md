@@ -50,13 +50,11 @@ En el marco de la detección de comunidades en redes dirigidas, esta tesis plant
 
 ## Objetivo transversal. Garantizar la reproducibilidad computacional de las metodologías y experimentos desarrollados en la tesis
 
-- Organizar en este repositorio los códigos, conjuntos de datos, matrices de entrada, particiones obtenidas y resultados experimentales generados a lo largo de la investigación, estructurándolos por capítulos en correspondencia con el contenido de la memoria.
+- Organizar en este repositorio los códigos (scripts y notebooks necesarios para reproducir los algoritmos), conjuntos de datos, matrices de entrada, particiones obtenidas y resultados experimentales generados a lo largo de la investigación, estructurándolos por capítulos en correspondencia con el contenido de la memoria.
 
-- Proporcionar los scripts y notebooks necesarios para reproducir los algoritmos, metodologías y análisis presentados en la tesis, incluyendo la implementación del algoritmo *Flow Capacity Louvain (FCL)*, el cálculo de las matrices asociadas a las medidas borrosas de flujo, las metodologías de preprocesamiento y las aplicaciones experimentales.
+- Documentar el entorno computacional empleado, especificando las versiones de software, lenguajes de programación, paquetes y dependencias necesarios para replicar los experimentos desarrollados en *MATLAB*, *R* y *Python*, con el fin de favorecer la comparabilidad y trazabilidad de los resultados obtenidos.
 
-- Documentar el entorno computacional empleado, especificando las versiones de software, lenguajes de programación, paquetes y dependencias necesarios para replicar los experimentos desarrollados en *MATLAB*, *R* y *Python*.
 
-- Establecer criterios de control de aleatoriedad, mediante la fijación de semillas y la descripción del flujo de ejecución de los experimentos, con el fin de favorecer la comparabilidad y trazabilidad de los resultados obtenidos.
 
 ## Herramientas
 
