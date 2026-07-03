@@ -47,6 +47,7 @@ En el marco de la detección de comunidades en redes dirigidas, esta tesis plant
 - Incorporar la visualización e interpretación de las comunidades detectadas, junto con una evaluación cuantitativa de la calidad de las particiones resultantes.
 
 
+
 ## Objetivo transversal. Garantizar la reproducibilidad computacional de las metodologías y experimentos desarrollados en la tesis
 
 - Organizar en este repositorio los códigos, conjuntos de datos, matrices de entrada, particiones obtenidas y resultados experimentales generados a lo largo de la investigación, estructurándolos por capítulos en correspondencia con el contenido de la memoria.
