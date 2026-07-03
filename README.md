@@ -10,20 +10,20 @@ En el marco de la detección de comunidades en redes dirigidas, esta tesis plant
 
 ### Objetivo 1. Diseñar y caracterizar una herramienta de representación para redes dirigidas que integre la estructura del grafo con información dada por una medida borrosa
 
-- Formalizar un instrumento avanzado para representar redes dirigidas, definiendo la **medida borrosa basada en la capacidad de flujo**, que permita incorporar de manera flexible información adicional sobre las interacciones entre los nodos y el flujo de la información.
+- Formalizar un instrumento avanzado para representar redes dirigidas, definiendo la medida borrosa basada en la capacidad de flujo, que permita incorporar de manera flexible información adicional sobre las interacciones entre los nodos y el flujo de la información.
 
-- Definir el grafo asociado a la medida borrosa del flujo, proponiendo el **índice de interacción** como vía de cálculo para su construcción.
+- Definir el grafo asociado a la medida borrosa del flujo, proponiendo el índice de interacción como vía de cálculo para su construcción.
 
-- Extender el marco de representación propuesto para construir nuevas herramientas aplicables a redes dirigidas que integren otras fuentes de información adicional, como las relaciones de **co-citación**, a través de medidas borrosas.
+- Extender el marco de representación propuesto para construir nuevas herramientas aplicables a redes dirigidas que integren otras fuentes de información adicional, como las relaciones de co-citación, a través de medidas borrosas.
 
 
 ### Objetivo 2. Desarrollar un algoritmo capaz de detectar nuevos grupos en redes dirigidas
 
 - Definir un nuevo concepto de grupo basado en flujo, apoyado en la herramienta de representación propuesta, que posibilite obtener particiones más coherentes con los objetivos y criterios propios de los problemas de detección de comunidades en redes dirigidas.
 
-- Diseñar una función de calidad que combine la información de **flujo** y **densidad** presente en la red.
+- Diseñar una función de calidad que combine la información de flujo y densidad presente en la red.
 
-- Adaptar el algoritmo de **Louvain** haciendo uso de la nueva función de calidad para abordar la detección de comunidades desde una perspectiva basada en flujo, orientada a ofrecer soluciones más precisas y realistas en este tipo de problemas.
+- Adaptar el algoritmo de Louvain haciendo uso de la nueva función de calidad para abordar la detección de comunidades desde una perspectiva basada en flujo, orientada a ofrecer soluciones más precisas y realistas en este tipo de problemas.
 
 - Formular un nuevo problema de detección de comunidades para su aplicación a redes con relaciones de co-citación, incorporando dicha información mediante la herramienta de representación correspondiente, con el fin de identificar grupos basados en co-citación.
 
@@ -32,7 +32,7 @@ En el marco de la detección de comunidades en redes dirigidas, esta tesis plant
 
 - Desarrollar una metodología basada en el nuevo algoritmo adaptado de Louvain, orientada a obtener particiones de mejor calidad atendiendo a la definición clásica de grupo. Para ello, se emplean técnicas supervisadas que permiten comparar las particiones generadas por el algoritmo propuesto con aquellas obtenidas mediante el algoritmo de Louvain, con el propósito de mitigar sus limitaciones asociadas a la convergencia hacia óptimos locales.
 
-- Diseñar una metodología basada en el **preprocesamiento de los datos de entrada** para algoritmos de detección de comunidades, con el fin de incorporar información no estructural y favorecer la obtención de particiones de mayor calidad en términos de densidad. Esta metodología se basa en la construcción de una matriz resultante de combinar la matriz de adyacencia con una matriz asociada a la representación del flujo en la red.
+- Diseñar una metodología basada en el preprocesamiento de los datos de entrada para algoritmos de detección de comunidades, con el fin de incorporar información no estructural y favorecer la obtención de particiones de mayor calidad en términos de densidad. Esta metodología se basa en la construcción de una matriz resultante de combinar la matriz de adyacencia con una matriz asociada a la representación del flujo en la red.
 
 - Optimizar la metodología de preprocesamiento propuesta para reducir el coste computacional y mejorar su escalabilidad, manteniendo un rendimiento competitivo en términos de calidad de partición.
 
@@ -43,7 +43,7 @@ En el marco de la detección de comunidades en redes dirigidas, esta tesis plant
 
 - A partir de datos reales de movilidad en España, construir el grafo dirigido origen-destino y generar la herramienta de representación basada en flujo para incorporar la capacidad de comunicación entre los nodos.
 
-- Aplicar los algoritmos de detección de comunidades de **Louvain** y **Leiden** al caso real de movilidad, comparando los resultados obtenidos a partir de la matriz de adyacencia y la matriz preprocesada propuesta como parámetro de entrada.
+- Aplicar los algoritmos de detección de comunidades de Louvain y Leiden al caso real de movilidad, comparando los resultados obtenidos a partir de la matriz de adyacencia y la matriz preprocesada propuesta como parámetro de entrada.
 
 - Incorporar la visualización e interpretación de las comunidades detectadas, junto con una evaluación cuantitativa de la calidad de las particiones resultantes.
 
@@ -52,9 +52,9 @@ En el marco de la detección de comunidades en redes dirigidas, esta tesis plant
 
 - Organizar en este repositorio los códigos, conjuntos de datos, matrices de entrada, particiones obtenidas y resultados experimentales generados a lo largo de la investigación, estructurándolos por capítulos en correspondencia con el contenido de la memoria.
 
-- Proporcionar los scripts y notebooks necesarios para reproducir los algoritmos, metodologías y análisis presentados en la tesis, incluyendo la implementación del algoritmo **Flow Capacity Louvain (FCL)**, el cálculo de las matrices asociadas a las medidas borrosas de flujo, las metodologías de preprocesamiento y las aplicaciones experimentales.
+- Proporcionar los scripts y notebooks necesarios para reproducir los algoritmos, metodologías y análisis presentados en la tesis, incluyendo la implementación del algoritmo *Flow Capacity Louvain (FCL)*, el cálculo de las matrices asociadas a las medidas borrosas de flujo, las metodologías de preprocesamiento y las aplicaciones experimentales.
 
-- Documentar el entorno computacional empleado, especificando las versiones de software, lenguajes de programación, paquetes y dependencias necesarios para replicar los experimentos desarrollados en **MATLAB**, **R** y **Python**.
+- Documentar el entorno computacional empleado, especificando las versiones de software, lenguajes de programación, paquetes y dependencias necesarios para replicar los experimentos desarrollados en *MATLAB*, *R* y *Python*.
 
 - Establecer criterios de control de aleatoriedad, mediante la fijación de semillas y la descripción del flujo de ejecución de los experimentos, con el fin de favorecer la comparabilidad y trazabilidad de los resultados obtenidos.
 
