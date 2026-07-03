@@ -73,7 +73,7 @@ En este capítulo se incluyen los códigos de los algoritmos de detección de co
   
 Además, se incluyen los modelos de *machine learning* y *deep learning* utilizados en los experimentos (en formato notebook `.ipynb`):
 - **Regresión logística** 
-- **Redes Neurolaes** 
+- **Redes Neuronales** 
 - **Random Forest** 
 - **XGBoost** 
 - **CSEA** 
@@ -108,7 +108,7 @@ En el directorio del capítulo se incluyen los scripts en **MATLAB** necesarios 
 
 
 ### [CAPÍTULO 5](./CAP%C3%8DTULO%205/)
-Este capítulo se organiza en varias carpetas y archivos, que cubren el proceso completo del enfoque superisado introducido para la mejora de los problemas de detección de comunidades, desde la selección del parámetro *α* hasta la validación de resultados y el análisis de complejidad.
+Este capítulo se organiza en varias carpetas y archivos, que cubren el proceso completo del enfoque supervisado introducido para la mejora de los problemas de detección de comunidades, desde la selección del parámetro *α* hasta la validación de resultados y el análisis de complejidad.
 #### Contraste de hipótesis
 Carpeta dedicada a la validación estadística de los resultados, que incluye la implementación del test de Wilcoxon en MATLAB para comparar el rendimiento (modularidad) entre algoritmos.
 #### Fase de entrenamiento
@@ -123,6 +123,73 @@ En el directorio principal del capítulo se incluyen archivos sueltos con:
 
 
 ### [CAPÍTULO 6](./CAP%C3%8DTULO%206/)
+Este capítulo contiene los códigos, matrices, redes de referencia y resultados asociados a la metodología de **preprocesamiento de matrices de entrada** propuesta para mejorar el problema clásico de detección de comunidades en redes dirigidas.
+
+La metodología se basa en la construcción de una nueva matriz de entrada, obtenida a partir de la combinación entre:
+
+- la **matriz de adyacencia** de la red dirigida;
+- la **matriz de interacción del flujo**, derivada del grafo borroso extendido de flujo.
+
+Esta matriz preprocesada se utiliza como parámetro de entrada en distintos algoritmos de detección de comunidades, con el objetivo de evaluar si la incorporación de información de flujo permite obtener particiones con mayor modularidad dirigida.
+
+#### 1) Redes de referencia
+
+Se incluyen las redes utilizadas para evaluar la metodología de preprocesamiento. Para cada red se proporcionan las matrices necesarias para ejecutar los algoritmos con y sin preprocesamiento.
+
+En particular, se consideran:
+
+- matrices de adyacencia originales;
+- matrices de interacción del flujo;
+- matrices combinadas/preprocesadas para distintos valores del parámetro `α`.
+
+#### 2) Algoritmos de detección de comunidades
+
+El capítulo incluye la aplicación de distintos algoritmos de detección de comunidades sobre las matrices originales y preprocesadas:
+
+- **Louvain**
+- **Leiden**
+- **Walktrap**
+- **Infomap**
+- **Fast Greedy**
+- **Surprise**
+
+Los algoritmos se ejecutan comparando dos escenarios:
+
+1. ejecución clásica, empleando la matriz de adyacencia como entrada;
+2. ejecución con preprocesamiento, empleando la matriz obtenida al incorporar información de flujo.
+
+#### 3) Resultados
+
+La carpeta de resultados contiene las particiones obtenidas para cada red, algoritmo y valor del parámetro `α`, junto con los valores de modularidad dirigida asociados.
+
+Los resultados permiten comparar:
+
+- la modularidad obtenida sin preprocesamiento;
+- la modularidad obtenida con la metodología basada en flujo;
+- la mejora o empeoramiento producido por la incorporación de la matriz preprocesada;
+- el comportamiento de la metodología para distintos valores de `α`.
+
+#### 4) Evaluación del parámetro α
+
+Se incluyen los experimentos realizados para analizar la influencia del parámetro `α`, que regula el peso relativo entre la información estructural de la red y la información procedente de la medida borrosa de flujo.
+
+#### 5) Complejidad computacional
+
+El capítulo contiene también los archivos empleados para analizar los tiempos de ejecución de los algoritmos con y sin preprocesamiento.
+
+#### 6) Técnicas de machine learning y deep learning
+
+Se incluyen notebooks destinados a evaluar la capacidad de distintos modelos para predecir cuándo la metodología de preprocesamiento produce una mejora en la modularidad dirigida.
+
+Los modelos considerados son:
+
+- **Regresión logística**
+- **Redes neuronales**
+- **Random Forest**
+- **XGBoost**
+- **CSEA**
+
+Estos modelos permiten estudiar la relación entre las características de las redes, el valor del parámetro `α` y la mejora obtenida en la función de calidad.
 
  
 ### [CAPÍTULO 7](./CAP%C3%8DTULO%207/)
@@ -138,7 +205,7 @@ Si utilizas este repositorio o el contenido de la tesis en tu trabajo, por favor
 ```bibtex
 @thesis{mariabp_tesis,
   title  = {Aportaciones a problemas de detección de comunidades en redes dirigidas. Definiciones de grupo},
-  author = {Barrosos P{\'e}rez, Mar{\'i}a},
+  author = {Barroso P{\'e}rez, Mar{\'i}a},
   year   = {2026},
   publisher = {Universidad Complutense de Madrid}
 }
