@@ -4,22 +4,59 @@ Este repositorio acompaña a la tesis **“Aportaciones a problemas de detecció
 
 Aquí encontrarás **código reproducible**, **conjuntos de datos** y **resultados** organizados **por capítulos**, en correspondencia con el contenido de la tesis.
 
-## Objetivo de la tesis
+## Objetivos de la tesis
 
-La tesis aborda problemas de **detección de comunidades** en redes, con énfasis en el caso de **redes dirigidas**. En concreto, se estudian dos líneas principales:
+En el marco de la detección de comunidades en redes dirigidas, esta tesis plantea los siguientes objetivos generales y específicos.
 
-### 1) Detección de comunidades con una nueva definición de grupo basada en flujo
+### Objetivo 1. Diseñar y caracterizar una herramienta de representación para redes dirigidas que integre la estructura del grafo con información dada por una medida borrosa
 
-Se propone y analiza una definición alternativa de “grupo” en redes dirigidas basada en el flujo, con el objetivo de obtener comunidades más realistas desde este enfoque.
+- Formalizar un instrumento avanzado para representar redes dirigidas, definiendo la **medida borrosa basada en la capacidad de flujo**, que permita incorporar de manera flexible información adicional sobre las interacciones entre los nodos y el flujo de la información.
 
-### 2) Mejora del enfoque clásico de detección de comunidades basado en densidad
+- Definir el grafo asociado a la medida borrosa del flujo, proponiendo el **índice de interacción** como vía de cálculo para su construcción.
 
-Se investiga cómo mejorar el planteamiento clásico (basado en densidad) en redes dirigidas mediante dos metodologías:
+- Extender el marco de representación propuesto para construir nuevas herramientas aplicables a redes dirigidas que integren otras fuentes de información adicional, como las relaciones de **co-citación**, a través de medidas borrosas.
 
-- **Adaptación del algoritmo de Louvain**, modificando su función de optimización, y comparando los resultados del método adaptado frente a la versión original.
-- **Preprocesamiento de las matrices de entrada** empleadas por algoritmos de detección de comunidades, analizando y comparando los resultados con y sin preprocesamiento.
 
-En ambas metodologías, la evaluación de las particiones se realiza mediante la modularidad como función de calidad, utilizando la matriz de adyacencia como representación de la red.
+### Objetivo 2. Desarrollar un algoritmo capaz de detectar nuevos grupos en redes dirigidas
+
+- Definir un nuevo concepto de grupo basado en flujo, apoyado en la herramienta de representación propuesta, que posibilite obtener particiones más coherentes con los objetivos y criterios propios de los problemas de detección de comunidades en redes dirigidas.
+
+- Diseñar una función de calidad que combine la información de **flujo** y **densidad** presente en la red.
+
+- Adaptar el algoritmo de **Louvain** haciendo uso de la nueva función de calidad para abordar la detección de comunidades desde una perspectiva basada en flujo, orientada a ofrecer soluciones más precisas y realistas en este tipo de problemas.
+
+- Formular un nuevo problema de detección de comunidades para su aplicación a redes con relaciones de co-citación, incorporando dicha información mediante la herramienta de representación correspondiente, con el fin de identificar grupos basados en co-citación.
+
+
+### Objetivo 3. Plantear mejoras para la resolución del problema clásico de detección de comunidades desde dos enfoques distintos
+
+- Desarrollar una metodología basada en el nuevo algoritmo adaptado de Louvain, orientada a obtener particiones de mejor calidad atendiendo a la definición clásica de grupo. Para ello, se emplean técnicas supervisadas que permiten comparar las particiones generadas por el algoritmo propuesto con aquellas obtenidas mediante el algoritmo de Louvain, con el propósito de mitigar sus limitaciones asociadas a la convergencia hacia óptimos locales.
+
+- Diseñar una metodología basada en el **preprocesamiento de los datos de entrada** para algoritmos de detección de comunidades, con el fin de incorporar información no estructural y favorecer la obtención de particiones de mayor calidad en términos de densidad. Esta metodología se basa en la construcción de una matriz resultante de combinar la matriz de adyacencia con una matriz asociada a la representación del flujo en la red.
+
+- Optimizar la metodología de preprocesamiento propuesta para reducir el coste computacional y mejorar su escalabilidad, manteniendo un rendimiento competitivo en términos de calidad de partición.
+
+- Evaluar de manera cuantitativa, mediante técnicas de *machine learning*, el impacto de ambos enfoques en el problema clásico de detección de comunidades.
+
+
+### Objetivo 4. Aplicar la metodología de preprocesamiento propuesta a un caso de estudio real
+
+- A partir de datos reales de movilidad en España, construir el grafo dirigido origen-destino y generar la herramienta de representación basada en flujo para incorporar la capacidad de comunicación entre los nodos.
+
+- Aplicar los algoritmos de detección de comunidades de **Louvain** y **Leiden** al caso real de movilidad, comparando los resultados obtenidos a partir de la matriz de adyacencia y la matriz preprocesada propuesta como parámetro de entrada.
+
+- Incorporar la visualización e interpretación de las comunidades detectadas, junto con una evaluación cuantitativa de la calidad de las particiones resultantes.
+
+
+### Objetivo transversal. Garantizar la reproducibilidad computacional de las metodologías y experimentos desarrollados en la tesis
+
+- Organizar en este repositorio los códigos, conjuntos de datos, matrices de entrada, particiones obtenidas y resultados experimentales generados a lo largo de la investigación, estructurándolos por capítulos en correspondencia con el contenido de la memoria.
+
+- Proporcionar los scripts y notebooks necesarios para reproducir los algoritmos, metodologías y análisis presentados en la tesis, incluyendo la implementación del algoritmo **Flow Capacity Louvain (FCL)**, el cálculo de las matrices asociadas a las medidas borrosas de flujo, las metodologías de preprocesamiento y las aplicaciones experimentales.
+
+- Documentar el entorno computacional empleado, especificando las versiones de software, lenguajes de programación, paquetes y dependencias necesarios para replicar los experimentos desarrollados en **MATLAB**, **R** y **Python**.
+
+- Establecer criterios de control de aleatoriedad, mediante la fijación de semillas y la descripción del flujo de ejecución de los experimentos, con el fin de favorecer la comparabilidad y trazabilidad de los resultados obtenidos.
 
 ## Herramientas
 
