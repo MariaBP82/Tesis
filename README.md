@@ -271,6 +271,7 @@ La carpeta `2) ANÁLISIS ADICIONALES/` contiene el material complementario emple
 Incluye los códigos necesarios para el tratamiento de los datos, la construcción de matrices, la ejecución del preprocesamiento y la obtención de resultados adicionales.
 ##### 2) Resultados comunidades
 Contiene los resultados de comunidades obtenidos en los análisis adicionales.
+
 Además, se incluye el archivo comprimido:
 
 - `movilidad_cotidiana_enero_noviembre_2021.rar`
