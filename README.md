@@ -87,11 +87,13 @@ Para replicar los análisis, usa las siguientes versiones de software:
 
 Instalar los paquetes necesarios:
 
-R: 
-install.packages(c("igraph", "readr", "ggplot2"))
+- R:
 
-Python 3:
-pip install numpy pandas networkx matplotlib.pyplot surprisememore scikit-learn tensorflow xgboost 
+  install.packages(c("igraph", "readr", "ggplot2"))
+
+- Python 3:
+
+  pip install numpy pandas networkx matplotlib.pyplot surprisememore scikit-learn tensorflow xgboost 
  
 
 
