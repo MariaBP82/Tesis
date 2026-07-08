@@ -248,7 +248,7 @@ En este caso se consideran los algoritmos:
 - *Leiden*
 
 ### [CAPÍTULO 8](./CAP%C3%8DTULO%208/)
-ste capítulo contiene los datos, matrices, scripts y resultados asociados al caso de estudio real sobre redes de movilidad construidas a partir de datos de telefonía móvil. El objetivo es aplicar la metodología de preprocesamiento *FMF* a redes origen-destino de movilidad y analizar su efecto sobre la detección de comunidades basadas en densidad.
+Contiene los datos, matrices, scripts y resultados asociados al caso de estudio real sobre redes de movilidad construidas a partir de datos de telefonía móvil. El objetivo es aplicar la metodología de preprocesamiento *FMF* a redes origen-destino de movilidad y analizar su efecto sobre la detección de comunidades basadas en densidad.
 
 El caso de estudio parte de la matriz de movilidad cotidiana publicada por el Instituto Nacional de Estadística, en la que se recogen desplazamientos medios diarios entre áreas de residencia y áreas de destino. A partir de esta información se construyen dos grafos dirigidos valorados:
 
