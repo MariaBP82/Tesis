@@ -48,11 +48,11 @@ En el marco de la detección de comunidades en redes dirigidas, esta tesis plant
 
 
 
-## Objetivo transversal. Garantizar la reproducibilidad computacional de las metodologías y experimentos desarrollados en la tesis
+## Objetivo transversal del repositorio. 
 
-- Organizar en este repositorio los códigos (scripts y notebooks necesarios para reproducir los algoritmos), conjuntos de datos, matrices de entrada, particiones obtenidas y resultados experimentales generados a lo largo de la investigación, estructurándolos por capítulos en correspondencia con el contenido de la memoria.
+Este repositorio tiene como objetivo transversal facilitar la reproducibilidad, trazabilidad y consulta estructurada de los desarrollos computacionales y resultados experimentales asociados a la tesis. Para ello, se organizan los códigos, scripts, notebooks, conjuntos de datos, matrices de entrada, particiones obtenidas y resultados generados a lo largo de la investigación, siguiendo una estructura por capítulos coherente con el contenido de la memoria. Esta organización permite identificar con claridad los recursos vinculados a cada aportación metodológica y reproducir los experimentos desarrollados en el marco de la tesis.
 
-- Documentar el entorno computacional empleado, especificando las versiones de software, lenguajes de programación, paquetes y dependencias necesarios para replicar los experimentos desarrollados en *MATLAB*, *R* y *Python*, con el fin de favorecer la comparabilidad y trazabilidad de los resultados obtenidos.
+Asimismo, en el repositorio se documenta el entorno computacional empleado, incluyendo los lenguajes de programación, versiones de software, paquetes y dependencias necesarios para ejecutar los experimentos implementados en *MATLAB*, *R* y *Python*. Con ello, se busca favorecer la comparabilidad de los resultados, facilitar su validación y proporcionar una base reutilizable para futuras investigaciones en detección de comunidades en redes dirigidas.
 
 
 
