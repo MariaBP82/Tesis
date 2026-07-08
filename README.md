@@ -93,7 +93,9 @@ Instalar los paquetes necesarios:
   ```
 
 - Python 3:
+  ```bash
   pip install numpy pandas networkx igraph matplotlib.pyplot surprisememore scikit-learn tensorflow xgboost 
+  ```
  
 
 
