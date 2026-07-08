@@ -48,7 +48,7 @@ En el marco de la detección de comunidades en redes dirigidas, esta tesis plant
 
 
 
-## Objetivo transversal del repositorio. 
+## Objetivo transversal del repositorio
 
 Este repositorio permite facilitar la reproducibilidad, trazabilidad y consulta estructurada de los desarrollos computacionales y resultados experimentales asociados a la tesis que acompaña. Para ello, se organizan los códigos en  scripts y notebooks, conjuntos de datos y resultados generados a lo largo de la investigación, siguiendo una estructura por capítulos coherente con el contenido de la memoria. Esta organización permite identificar con claridad los recursos vinculados a cada aportación metodológica y reproducir los experimentos desarrollados en el marco de la tesis.
 
@@ -94,7 +94,7 @@ Instalar los paquetes necesarios:
 
 - Python 3:
   ```bash
-  pip install numpy pandas networkx igraph matplotlib.pyplot surprisememore scikit-learn tensorflow xgboost 
+  pip install numpy pandas networkx igraph matplotlib surprisememore scikit-learn tensorflow xgboost 
   ```
  
 
@@ -115,7 +115,7 @@ En este capítulo se incluyen los códigos de los algoritmos de detección de co
   
 Además, se incluyen los modelos de *machine learning* y *deep learning* utilizados en los experimentos (en formato notebook de Python `.ipynb`):
 - **Regresión logística** 
-- **Redes Neuronales** 
+- **Redes neuronales** 
 - **Random Forest** 
 - **XGBoost** 
 - **CSEA** 
@@ -235,7 +235,7 @@ Este análisis permite estudiar la reducción del coste computacional asociada a
 #### 5) Machine Learning
 Se incluyen notebooks destinados a evaluar la capacidad de distintos modelos para predecir cuándo las adaptaciones de la metodología producen una mejora en la modularidad dirigida.
 #### 6) CSEA
-Contiene los archivos asociados al modelo CSEA, utilizado para complementar el análisis predictivo de la metodología propuestay aplicado a las particiones obtenidas mediante las variantes *FEF* y *FFEF*.
+Contiene los archivos asociados al modelo CSEA, utilizado para complementar el análisis predictivo de la metodología propuesta y aplicado a las particiones obtenidas mediante las variantes *FEF* y *FFEF*.
 El objetivo es analizar si las particiones generadas por estas adaptaciones pueden utilizarse como inicialización del modelo de deep learning y mejorar la modularidad dirigida frente a la inicialización basada en los algoritmos clásicos.
 #### 7) Redes tamaño grande
 Se incluyen los experimentos realizados sobre redes de gran tamaño utilizando la variante *FFEF*, seleccionada por su menor coste computacional.
@@ -248,7 +248,7 @@ En este caso se consideran los algoritmos:
 - *Leiden*
 
 ### [CAPÍTULO 8](./CAP%C3%8DTULO%208/)
-Contiene los datos, matrices, scripts y resultados asociados al caso de estudio real sobre redes de movilidad construidas a partir de datos de telefonía móvil. El objetivo es aplicar la metodología de preprocesamiento *FMF* a redes origen-destino de movilidad y analizar su efecto sobre la detección de comunidades basadas en densidad.
+Este capítulo contiene los datos, matrices, scripts y resultados asociados al caso de estudio real sobre redes de movilidad construidas a partir de datos de telefonía móvil. El objetivo es aplicar la metodología de preprocesamiento *FMF* a redes origen-destino de movilidad y analizar su efecto sobre la detección de comunidades basadas en densidad.
 
 El caso de estudio parte de la matriz de movilidad cotidiana publicada por el Instituto Nacional de Estadística, en la que se recogen desplazamientos medios diarios entre áreas de residencia y áreas de destino. A partir de esta información se construyen dos grafos dirigidos valorados:
 
