@@ -210,10 +210,42 @@ Se incluyen un notebook y un archivo destinados a evaluar la capacidad de distin
 
 #### 6) CSEA
 Contiene los archivos asociados al modelo CSEA, utilizado para complementar el análisis predictivo de la metodología propuesta.
-
+El objetivo es analizar si las particiones generadas por esta metodología pueden utilizarse como inicialización del modelo de deep learning y mejorar la modularidad dirigida frente a la inicialización basada en los algoritmos clásicos.
  
 ### [CAPÍTULO 7](./CAP%C3%8DTULO%207/)
+Este capítulo contiene los códigos, redes de referencia, matrices, resultados y métodos asociados a la optimización de la metodología de preprocesamiento presentada en el Capítulo 6.
 
+El objetivo principal es reducir el coste computacional de la metodología basada en medidas borrosas de flujo, manteniendo un rendimiento competitivo en términos de modularidad dirigida.
+
+Para ello, se proponen dos adaptaciones del preprocesamiento:
+
+- *FEF* (*Fuzzy Edges Flow*): preprocesamiento de arcos borrosos de flujo;
+- *FFEF* (*Fast Fuzzy Edges Flow*): preprocesamiento rápido de arcos borrosos de flujo.
+
+#### 1) Conjunto de redes
+Se incluyen las redes utilizadas para evaluar las adaptaciones de la metodología de preprocesamiento. Para cada red se proporcionan las matrices necesarias para ejecutar los algoritmos con y sin preprocesamiento, permitiendo comparar el comportamiento de las variantes propuestas frente al enfoque clásico.
+#### 2) Resultados
+La carpeta de resultados contiene las particiones obtenidas para cada red, algoritmo, variante de preprocesamiento y valor del parámetro *α*.
+#### 3) Scripts
+Contiene los códigos empleados para ejecutar los experimentos del capítulo.
+Estos scripts permiten aplicar los algoritmos de detección de comunidades sobre las matrices originales y sobre las matrices preprocesadas mediante *FEF* y *FFEF*.
+#### 4) Complejidad
+Contiene un archivo relacionado con el análisis de la complejidad computacional de las variantes de preprocesamiento propuestas.
+Este análisis permite estudiar la reducción del coste computacional asociada a *FEF* y *FFEF*, especialmente frente al preprocesamiento completo del Capítulo 6.
+#### 5) Machine Learning
+Se incluyen notebooks destinados a evaluar la capacidad de distintos modelos para predecir cuándo las adaptaciones de la metodología producen una mejora en la modularidad dirigida.
+#### 6) CSEA
+Contiene los archivos asociados al modelo CSEA, utilizado para complementar el análisis predictivo de la metodología propuestay aplicado a las particiones obtenidas mediante las variantes *FEF* y *FFEF*.
+El objetivo es analizar si las particiones generadas por estas adaptaciones pueden utilizarse como inicialización del modelo de deep learning y mejorar la modularidad dirigida frente a la inicialización basada en los algoritmos clásicos.
+#### 7) Redes de gran tamaño
+Se incluyen los experimentos realizados sobre redes de gran tamaño utilizando la variante *FFEF*, seleccionada por su menor coste computacional.
+
+Estos experimentos permiten analizar la escalabilidad de la metodología optimizada y comprobar su viabilidad en redes con un número elevado de nodos y arcos.
+
+En este caso se consideran los algoritmos:
+
+- *Louvain*
+- *Leiden*
 
 ### [CAPÍTULO 8](./CAP%C3%8DTULO%208/)
 
