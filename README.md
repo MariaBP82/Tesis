@@ -257,11 +257,11 @@ El caso de estudio parte de la matriz de movilidad cotidiana publicada por el In
 
 La estructura del capítulo es la siguiente:
 #### 1) Caso real
-La carpeta `1) CASO REAL/` contiene los archivos correspondientes al análisis principal presentado en la memoria. Se organiza en:
+La carpeta `1) CASO REAL/` contiene los archivos correspondientes al análisis de un caso real presentado en la memoria. Se organiza en:
 ##### 1) Datos
-Contiene los datos empleados para construir la red de movilidad del caso real.
+Contiene los datos empleados para construir las redes de movilidad del caso real.
 ##### 2) Resultados experimentales
-Contiene los resultados obtenidos al aplicar la metodología de preprocesamiento *FMF* sobre la red de movilidad nacional y regional.
+Contiene los resultados obtenidos al aplicar la metodología de preprocesamiento *FMF* sobre las redes de movilidad nacional y regional.
 ##### 3) Representaciones
 Contiene las representaciones gráficas de las particiones obtenidas en el caso real, utilizadas para visualizar e interpretar las comunidades detectadas.
 
