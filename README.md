@@ -103,7 +103,7 @@ Instalar los paquetes necesarios:
 ---------------------------------------------------------------------------------------------------
 ## Contenido del repositorio por capítulos
 
-### [CAPÍTULO 2](./CAP%C3%8DTULO%202/) — Estado del arte 
+### [CAPÍTULO 2](./CAP%C3%8DTULO%202/) 
 En este capítulo se incluyen los códigos de los algoritmos de detección de comunidades empleados a lo largo de la tesis:
 - **Fast Greedy** (R) 
 - **Infomap** (R) 
@@ -111,9 +111,9 @@ En este capítulo se incluyen los códigos de los algoritmos de detección de co
 - **Louvain** (R)
 - **Walktrap** (R)
 - **Louvain dirigido** (MATLAB)
-- **Surprise** (Python, notebook)
+- **Surprise** (Python)
   
-Además, se incluyen los modelos de *machine learning* y *deep learning* utilizados en los experimentos (en formato notebook `.ipynb`):
+Además, se incluyen los modelos de *machine learning* y *deep learning* utilizados en los experimentos (en formato notebook de Python `.ipynb`):
 - **Regresión logística** 
 - **Redes Neuronales** 
 - **Random Forest** 
