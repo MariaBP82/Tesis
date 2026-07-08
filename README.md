@@ -237,7 +237,7 @@ Se incluyen notebooks destinados a evaluar la capacidad de distintos modelos par
 #### 6) CSEA
 Contiene los archivos asociados al modelo CSEA, utilizado para complementar el análisis predictivo de la metodología propuestay aplicado a las particiones obtenidas mediante las variantes *FEF* y *FFEF*.
 El objetivo es analizar si las particiones generadas por estas adaptaciones pueden utilizarse como inicialización del modelo de deep learning y mejorar la modularidad dirigida frente a la inicialización basada en los algoritmos clásicos.
-#### 7) Redes de gran tamaño
+#### 7) Redes tamaño grande
 Se incluyen los experimentos realizados sobre redes de gran tamaño utilizando la variante *FFEF*, seleccionada por su menor coste computacional.
 
 Estos experimentos permiten analizar la escalabilidad de la metodología optimizada y comprobar su viabilidad en redes con un número elevado de nodos y arcos.
@@ -248,6 +248,35 @@ En este caso se consideran los algoritmos:
 - *Leiden*
 
 ### [CAPÍTULO 8](./CAP%C3%8DTULO%208/)
+ste capítulo contiene los datos, matrices, scripts y resultados asociados al caso de estudio real sobre redes de movilidad construidas a partir de datos de telefonía móvil. El objetivo es aplicar la metodología de preprocesamiento *FMF* a redes origen-destino de movilidad y analizar su efecto sobre la detección de comunidades basadas en densidad.
+
+El caso de estudio parte de la matriz de movilidad cotidiana publicada por el Instituto Nacional de Estadística, en la que se recogen desplazamientos medios diarios entre áreas de residencia y áreas de destino. A partir de esta información se construyen dos grafos dirigidos valorados:
+
+- red nacional de movilidad en España;
+- red regional centrada en la Comunidad de Madrid, incorporando también áreas limítrofes conectadas con la región.
+
+La estructura del capítulo es la siguiente:
+#### 1) Caso real
+La carpeta `1) CASO REAL/` contiene los archivos correspondientes al análisis principal presentado en la memoria. Se organiza en:
+##### 1) Datos
+Contiene los datos empleados para construir la red de movilidad del caso real.
+##### 2) Resultados experimentales
+Contiene los resultados obtenidos al aplicar la metodología de preprocesamiento *FMF* sobre la red de movilidad nacional y regional.
+##### 3) Representaciones
+Contiene las representaciones gráficas de las particiones obtenidas en el caso real, utilizadas para visualizar e interpretar las comunidades detectadas.
+
+#### 2) Análisis adicionales
+La carpeta `2) ANÁLISIS ADICIONALES/` contiene el material complementario empleado para ampliar el análisis de movilidad. Se organiza en:
+##### 1) Códigos
+Incluye los códigos necesarios para el tratamiento de los datos, la construcción de matrices, la ejecución del preprocesamiento y la obtención de resultados adicionales.
+##### 2) Resultados comunidades
+Contiene los resultados de comunidades obtenidos en los análisis adicionales.
+Además, se incluye el archivo comprimido:
+
+- `movilidad_cotidiana_enero_noviembre_2021.rar`
+
+
+
 
 
 ## Cita
