@@ -138,20 +138,20 @@ Para cada red se proporcionan:
 - Matriz de interacción del flujo — `Id_G_X.csv`
 donde `X ∈ {1, 2, 3, 4}` identifica la red correspondiente.
 #### 2) Resultados
-La carpeta `2) RESULTADOS/` contiene los resultados generados mediante FCL para cada red (`G_1`, `G_2`, `G_3`, `G_4`), incluyendo:
+La carpeta `2) RESULTADOS/` contiene los resultados generados mediante *FCL* para cada red (`G_1`, `G_2`, `G_3`, `G_4`), incluyendo:
 - Representaciones gráficas de las particiones obtenidas con el algoritmo de Louvain clásico.
-- Representaciones gráficas de las particiones obtenidas con el algoritmo Flow Capacity Louvain (FCL).
+- Representaciones gráficas de las particiones obtenidas con el algoritmo *FCL*.
 - Ficheros con las particiones y valores de modularidad asociados.
 #### 3) Scripts
 Se incluyen los códigos en *MATLAB* necesarios para la ejecución del algoritmo y el cálculo de métricas:
-- `FlowCapacityLouvain.m` — implementación del algoritmo FCL.
+- `FlowCapacityLouvain.m` — implementación del algoritmo *FCL*.
 - `compute_DirectLouvain.m` — ejecución del algoritmo de Louvain dirigido.
 - `compute_FlowCapacityLouvain.m` — ejecución del algoritmo sobre las matrices de entrada.
 - `compute_modularity_dir.m` — cálculo de la modularidad para redes dirigidas.
 
 
 ### [CAPÍTULO 5](./CAP%C3%8DTULO%205/)
-Este capítulo se organiza en varias carpetas y archivos, que cubren el proceso completo del enfoque supervisado propuesto para la mejora de los problemas de detección de comunidades mediante el algoritmo Flow Capacity Louvain (FCL), desde la selección del parámetro *α* hasta la validación de resultados y el análisis de complejidad.
+Este capítulo se organiza en varias carpetas y archivos, que cubren el proceso completo del enfoque supervisado propuesto para la mejora de los problemas de detección de comunidades mediante el algoritmo *FCL*, desde la selección del parámetro *α* hasta la validación de resultados y el análisis de complejidad.
 La estructura del capítulo es la siguiente:
 #### 1) Ejemplo
 Contiene los resultados completos del ejemplo que motiva la metodología desarrollada en el capítulo.
@@ -160,11 +160,11 @@ La carpeta `2) TÉCNICA SUPERVISADA/` contiene las redes utilizadas para el desa
 ##### La carpeta **1) REDES POPULARES/**: 
 incluye el archivo que contiene redes de referencia empleadas en la literatura para evaluar los algoritmos de detección de comunidades.
 ##### La carpeta **2) REDES FASE ENTRENAMIENTO/**:
-Contiene las redes utilizadas durante la fase de entrenamiento del procedimiento supervisado y que ejecutan el algoritmo FCL. Esta carpeta se organiza en dos subcarpetas:
+Contiene las redes utilizadas durante la fase de entrenamiento del procedimiento supervisado y que ejecutan el algoritmo *FCL*. Esta carpeta se organiza en dos subcarpetas:
 - `Ad` — matrices de adyacencia de las redes de entrenamiento.
 - `Id` — matrices de interacción del flujo correspondientes.
 
-En esta fase se evalúan distintos valores del parámetro *α*, obteniendo para cada red la partición resultante y etiquetando su modularidad asociada. El objetivo es identificar el valor de *α* que proporciona el mejor comportamiento del algoritmo FCL en el conjunto de entrenamiento.
+En esta fase se evalúan distintos valores del parámetro *α*, obteniendo para cada red la partición resultante y etiquetando su modularidad asociada. El objetivo es identificar el valor de *α* que proporciona el mejor comportamiento del algoritmo *FCL* en el conjunto de entrenamiento.
 ##### La carpeta **3) REDES FASE TEST/**:
 Contiene las redes empleadas para la fase de test. Al igual que en la fase de entrenamiento, se organiza en:
 - `Ad` — matrices de adyacencia de las redes de test.
@@ -174,9 +174,14 @@ Estas redes permiten comprobar si el valor de *α* seleccionado durante el entre
 #### 3) Scripts
 Se incluyen los códigos en *MATLAB* necesarios para la ejecución de los algoritmos de detección de comunidades y la obtención de las etiquetas para el enfoque supervisado.
 #### 4) Contraste de hipótesis
-Carpeta dedicada a la validación estadística de los resultados, que incluye la implementación del test de Wilcoxon en *MATLAB* para comparar el rendimiento (modularidad) entre algoritmos.
+La carpeta `4) CONTRASTE DE HIPÓTESIS/` está dedicada a la validación estadística de los resultados obtenidos. Incluye los archivos:
+- `Wilcoxon.m` — implementación en *MATLAB* del test de Wilcoxon.
+- `datosalfa77.dat` — datos de modularidad asociados al algoritmo *FCL* con el valor de *α* seleccionado en redes de test.
+- `datoslouvain.dat` — datos de modularidad asociados al algoritmo de Louvain dirigido utilizado como referencia en redes de test.
+
+Esta parte permite contrastar si las diferencias observadas entre los métodos son estadísticamente significativas, comparando los valores de modularidad obtenidos por *FCL* frente al algoritmo de referencia.
 ####  5) Complejidad
-Análisis de la complejidad computacional del algoritmo FCL.
+Contiene el archivo que recoge la complejidad computacional del algoritmo *FCL*. 
 
 
 ### [CAPÍTULO 6](./CAP%C3%8DTULO%206/)
