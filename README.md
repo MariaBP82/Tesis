@@ -156,7 +156,7 @@ La estructura del capítulo es la siguiente:
 #### 1) Ejemplo
 Contiene los resultados completos del ejemplo que motiva la metodología desarrollada en el capítulo.
 #### 2) Técnica supervisada
-La carpeta `2) TÉCNICA SUPERVISADA/` contiene las redes utilizadas para el desarrollo del enfoque supervisado. 
+La carpeta `2) TÉCNICA SUPERVISADA/` contiene las redes utilizadas para el desarrollo del enfoque supervisado. Se divide a su vez en:
 ##### La carpeta **1) REDES POPULARES/**: 
 incluye el archivo que contiene redes de referencia empleadas en la literatura para evaluar los algoritmos de detección de comunidades.
 ##### La carpeta **2) REDES FASE ENTRENAMIENTO/**:
