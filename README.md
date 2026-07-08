@@ -69,13 +69,13 @@ El trabajo se apoya en dos herramientas fundamentales:
 Cada capítulo incluye los scripts/notebooks necesarios para reproducir los experimentos y generar los resultados presentados en la tesis.
 
 Flujo típico:
-1. Instalar dependencias.
-2. Ejecutar el pipeline del capítulo.
-3. Revisar resultados generados (tablas/figuras).
+1. Instalar dependencias (librerías o paquetes).
+2. Ejecutar el pipeline del código.
+3. Revisar resultados generados.
 
 Control de aleatoriedad (semilla = 123)
 
-Para garantizar resultados reproducibles, fija la semilla antes de ejecutar cada experimento/notebook.
+Para garantizar resultados reproducibles, fija la semilla antes de ejecutar cada experimento.
 
 Para replicar los análisis, usa las siguientes versiones de software:
 - *Matlab: R2024a Update 4 (24.1.0.2628055)*
@@ -88,7 +88,7 @@ R: Instala los paquetes necesarios con:
 install.packages(c("igraph", "readr", "ggplot2"))
 
 Python 3:
-pip install numpy pandas networkx scikit-learn tensorflow python-louvain xgboost surprisememore
+pip install numpy pandas networkx matplotlib.pyplot surprisememore scikit-learn tensorflow xgboost 
  
 
 
