@@ -151,12 +151,13 @@ Se incluyen los códigos en *MATLAB* necesarios para la ejecución del algoritmo
 
 
 ### [CAPÍTULO 5](./CAP%C3%8DTULO%205/)
-Este capítulo se organiza en varias carpetas y archivos, que cubren el proceso completo del enfoque supervisado introducido para la mejora de los problemas de detección de comunidades, desde la selección del parámetro *α* hasta la validación de resultados y el análisis de complejidad.
+Este capítulo se organiza en varias carpetas y archivos, que cubren el proceso completo del enfoque supervisado propuesto para la mejora de los problemas de detección de comunidades mediante el algoritmo Flow Capacity Louvain (FCL), desde la selección del parámetro *α* hasta la validación de resultados y el análisis de complejidad.
+La estructura del capítulo es la siguiente:
 #### 1) Ejemplo
-Resultados completos de las particiones del ejemplo que motiva la metodología.
+Contiene los resultados completos del ejemplo que motiva la metodología desarrollada en el capítulo.
 #### 2) Técnica supervisada
-Incluye las redes que se usan para en el desarrollo del capítulo.
-##### Fase de entrenamiento
+La carpeta `2) TÉCNICA SUPERVISADA/` contiene las redes utilizadas para el desarrollo del enfoque supervisado. 
+##### La carpeta **1) REDES POPULARES/** incluye el archivo:
 Carpeta con las redes empleadas para entrenar el algoritmo FCL.  
 En esta fase se obtienen valores de α etiquetados con la modularidad de la partición resultante, con el objetivo de seleccionar el parámetro que produce el mejor desempeño.
 ##### Fase de test
