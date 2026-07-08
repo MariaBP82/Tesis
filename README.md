@@ -84,7 +84,10 @@ Para replicar los análisis, usa las siguientes versiones de software:
 - *Python: 3.11.7*
 - *Jupyter Notebook: 7.0.8*
 
-R: Instala los paquetes necesarios con:
+
+Instalar los paquetes necesarios:
+
+R: 
 install.packages(c("igraph", "readr", "ggplot2"))
 
 Python 3:
