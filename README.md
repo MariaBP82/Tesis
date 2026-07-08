@@ -157,8 +157,13 @@ La estructura del capítulo es la siguiente:
 Contiene los resultados completos del ejemplo que motiva la metodología desarrollada en el capítulo.
 #### 2) Técnica supervisada
 La carpeta `2) TÉCNICA SUPERVISADA/` contiene las redes utilizadas para el desarrollo del enfoque supervisado. 
-##### La carpeta **1) REDES POPULARES/** incluye el archivo:
-Carpeta con las redes empleadas para entrenar el algoritmo FCL.  
+##### La carpeta **1) REDES POPULARES/**: 
+incluye el archivo que contiene redes de referencia empleadas en la literatura para evaluar los algoritmos de detección de comunidades.
+##### La carpeta **2) REDES FASE ENTRENAMIENTO/**:
+Contiene las redes utilizadas durante la fase de entrenamiento del procedimiento supervisado y que ejecutan el algoritmo FCL. Esta carpeta se organiza en dos subcarpetas:
+- *Ad/* — matrices de adyacencia de las redes de entrenamiento.
+- *Id/* — matrices de interacción del flujo correspondientes.
+
 En esta fase se obtienen valores de α etiquetados con la modularidad de la partición resultante, con el objetivo de seleccionar el parámetro que produce el mejor desempeño.
 ##### Fase de test
 Carpeta con las redes utilizadas para verificar el valor de α seleccionado en el entrenamiento, evaluando si los resultados de modularidad se mantienen (o mejoran) en datos no utilizados durante el ajuste.
