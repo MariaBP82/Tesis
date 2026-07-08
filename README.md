@@ -163,11 +163,13 @@ incluye el archivo que contiene redes de referencia empleadas en la literatura p
 Contiene las redes utilizadas durante la fase de entrenamiento del procedimiento supervisado y que ejecutan el algoritmo FCL. Esta carpeta se organiza en dos subcarpetas:
 - `Ad` — matrices de adyacencia de las redes de entrenamiento.
 - `Id` — matrices de interacción del flujo correspondientes.
+
 En esta fase se evalúan distintos valores del parámetro *α*, obteniendo para cada red la partición resultante y etiquetando su modularidad asociada. El objetivo es identificar el valor de *α* que proporciona el mejor comportamiento del algoritmo FCL en el conjunto de entrenamiento.
 ##### La carpeta **3) REDES FASE TEST/**:
 Contiene las redes empleadas para la fase de test. Al igual que en la fase de entrenamiento, se organiza en:
 - `Ad` — matrices de adyacencia de las redes de test.
 - `Id` — matrices de interacción del flujo correspondientes.
+
 Estas redes permiten comprobar si el valor de *α* seleccionado durante el entrenamiento mantiene su rendimiento sobre datos no utilizados en el ajuste, evaluando así la capacidad de generalización del enfoque supervisado.
 #### 3) Scripts
 Se incluyen los códigos en *MATLAB* necesarios para la ejecución de los algoritmos de detección de comunidades y la obtención de las etiquetas para el enfoque supervisado.
