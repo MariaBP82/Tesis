@@ -60,8 +60,8 @@ Asimismo, en el repositorio se documenta el entorno computacional empleado, incl
 
 El trabajo se apoya en dos herramientas fundamentales:
 
-- **Flow Capacity Measure (FCM)** — *medida borrosa del flujo*.
-- **Flow Extended Fuzzy Graph (FEFG)** — *grafo borroso extendido de flujo*.
+- *Flow Capacity Measure (FCM)* — *medida borrosa del flujo*.
+- *Flow Extended Fuzzy Graph (FEFG)* — *grafo borroso extendido de flujo*.
 
 
 ## Reproducibilidad
@@ -78,7 +78,7 @@ Control de aleatoriedad (semilla = 123)
 Para garantizar resultados reproducibles, fija la semilla antes de ejecutar cada experimento.
 
 Para replicar los análisis, usa las siguientes versiones de software:
-- *Matlab: R2024a Update 4 (24.1.0.2628055)*
+- *MATLAB: R2024a Update 4 (24.1.0.2628055)*
 - *R: Version 4.4.0*
 - *RStudio: 2024.04.1 (Build 748)*
 - *Python: 3.11.7*
@@ -123,45 +123,50 @@ Además, se incluyen los modelos de *machine learning* y *deep learning* utiliza
 
 ### [CAPÍTULO 3](./CAP%C3%8DTULO%203/)
 En este capítulo se incluyen los códigos empleados para el cálculo de la matriz de interacción del flujo, disponibles en dos implementaciones:
-- **MATLAB**: script para el cálculo de la matriz.
-- **Python**: implementación equivalente en formato notebook.
-
+- **Python**: Jupyter notebook para el cálculo de la matriz.
+- **MATLAB**: implementación equivalente en formato script.
+ 
 
 ### [CAPÍTULO 4](./CAP%C3%8DTULO%204/)
 Este capítulo contiene el conjunto de 4 redes analizadas y los resultados obtenidos empleando el nuevo algoritmo desarrollado en la tesis:  
-**Flow Capacity Louvain (FCL)**, implementado en *MATLAB*.
+*Flow Capacity Louvain (FCL)*, implementado en *MATLAB*.
 La estructura del capítulo es la siguiente:
 #### 1) Conjunto de matrices
 La carpeta `1) CONJUNTO DE MATRICES/` incluye las matrices de entrada para cada una de las cuatro redes estudiadas (`G_1`, `G_2`, `G_3`, `G_4`).
 Para cada red se proporcionan:
-- **Matriz de adyacencia** — `Ad_G_X.csv`
-- **Matriz de interacción del flujo** — `Id_G_X.csv`
+- Matriz de adyacencia — `Ad_G_X.csv`
+- Matriz de interacción del flujo — `Id_G_X.csv`
 donde `X ∈ {1, 2, 3, 4}` identifica la red correspondiente.
 #### 2) Resultados
 La carpeta `2) RESULTADOS/` contiene los resultados generados mediante FCL para cada red (`G_1`, `G_2`, `G_3`, `G_4`), incluyendo:
-- Particiones obtenidas con Louvain clásico.
-- Particiones obtenidas con el algoritmo Flow Capacity Louvain (FCL).
+- Representaciones gráficas de las particiones obtenidas con el algoritmo de Louvain clásico.
+- Representaciones gráficas de las particiones obtenidas con el algoritmo Flow Capacity Louvain (FCL).
 - Ficheros con las particiones y valores de modularidad asociados.
-#### 3) Código del algoritmo
-En el directorio del capítulo se incluyen los scripts en **MATLAB** necesarios para la ejecución del algoritmo y el cálculo de métricas:
+#### 3) Scripts
+Se incluyen los códigos en *MATLAB* necesarios para la ejecución del algoritmo y el cálculo de métricas:
 - `FlowCapacityLouvain.m` — implementación del algoritmo FCL.
+- `compute_DirectLouvain.m` — ejecución del algoritmo de Louvain dirigido.
 - `compute_FlowCapacityLouvain.m` — ejecución del algoritmo sobre las matrices de entrada.
 - `compute_modularity_dir.m` — cálculo de la modularidad para redes dirigidas.
 
 
 ### [CAPÍTULO 5](./CAP%C3%8DTULO%205/)
 Este capítulo se organiza en varias carpetas y archivos, que cubren el proceso completo del enfoque supervisado introducido para la mejora de los problemas de detección de comunidades, desde la selección del parámetro *α* hasta la validación de resultados y el análisis de complejidad.
-#### Contraste de hipótesis
-Carpeta dedicada a la validación estadística de los resultados, que incluye la implementación del test de Wilcoxon en MATLAB para comparar el rendimiento (modularidad) entre algoritmos.
-#### Fase de entrenamiento
+#### 1) Ejemplo
+Resultados completos de las particiones del ejemplo que motiva la metodología.
+#### 2) Técnica supervisada
+Incluye las redes que se usan para en el desarrollo del capítulo.
+##### Fase de entrenamiento
 Carpeta con las redes empleadas para entrenar el algoritmo FCL.  
 En esta fase se obtienen valores de α etiquetados con la modularidad de la partición resultante, con el objetivo de seleccionar el parámetro que produce el mejor desempeño.
-#### Fase de test
+##### Fase de test
 Carpeta con las redes utilizadas para verificar el valor de α seleccionado en el entrenamiento, evaluando si los resultados de modularidad se mantienen (o mejoran) en datos no utilizados durante el ajuste.
-#### Archivos adicionales
-En el directorio principal del capítulo se incluyen archivos sueltos con:
-- la **ejecución del proceso de supervisión** 
-- el análisis de la **complejidad computacional** del algoritmo FCL.
+#### 3) Scripts
+Se incluyen los código en *MATLAB* necesarios para la aplicación de los algoritmos de detección de comunidades y la obtención de las etiquetas para el enfoque supervisado.
+#### 4) Contraste de hipótesis
+Carpeta dedicada a la validación estadística de los resultados, que incluye la implementación del test de Wilcoxon en *MATLAB* para comparar el rendimiento (modularidad) entre algoritmos.
+####  5) Complejidad
+Análisis de la complejidad computacional del algoritmo FCL.
 
 
 ### [CAPÍTULO 6](./CAP%C3%8DTULO%206/)
