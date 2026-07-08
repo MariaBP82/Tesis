@@ -185,73 +185,31 @@ Contiene el archivo que recoge la complejidad computacional del algoritmo *FCL*.
 
 
 ### [CAPÍTULO 6](./CAP%C3%8DTULO%206/)
-Este capítulo contiene los códigos, matrices, redes de referencia y resultados asociados a la metodología de **preprocesamiento de matrices de entrada** propuesta para mejorar el problema clásico de detección de comunidades en redes dirigidas.
+Este capítulo contiene los códigos, redes de referencia, matrices y resultados asociados a la metodología de preprocesamiento de matrices de entrada propuesta para mejorar el problema clásico de detección de comunidades en redes dirigidas.
 
-La metodología se basa en la construcción de una nueva matriz de entrada, obtenida a partir de la combinación entre:
-
-- la **matriz de adyacencia** de la red dirigida;
-- la **matriz de interacción del flujo**, derivada del grafo borroso extendido de flujo.
-
-Esta matriz preprocesada se utiliza como parámetro de entrada en distintos algoritmos de detección de comunidades, con el objetivo de evaluar si la incorporación de información de flujo permite obtener particiones con mayor modularidad dirigida.
-
-#### 1) Redes de referencia
-
-Se incluyen las redes utilizadas para evaluar la metodología de preprocesamiento. Para cada red se proporcionan las matrices necesarias para ejecutar los algoritmos con y sin preprocesamiento.
-
-En particular, se consideran:
-
-- matrices de adyacencia originales;
-- matrices de interacción del flujo;
-- matrices combinadas/preprocesadas para distintos valores del parámetro `α`.
-
-#### 2) Algoritmos de detección de comunidades
-
-El capítulo incluye la aplicación de distintos algoritmos de detección de comunidades sobre las matrices originales y preprocesadas:
-
-- **Louvain**
-- **Leiden**
-- **Walktrap**
-- **Infomap**
-- **Fast Greedy**
-- **Surprise**
+#### 0) Ejemplo para el preprocesamiento
+Contiene un ejemplo ilustrativo del procedimiento seguido para construir la matriz preprocesada a partir de la matriz de adyacencia y de la matriz de interacción del flujo.
+#### 1) Conjunto de redes
+Contiene las redes utilizadas para evaluar la metodología propuesta, incluyendo las matrices necesarias para trabajar con las redes originales y con sus correspondientes versiones preprocesadas, considerando distintos valores del parámetro *α*. 
+#### 2) Resultados
+Contiene los resultados obtenidos al aplicar la metodología FMF, empleando diversos algoritmos de detección de comunidades.
 
 Los algoritmos se ejecutan comparando dos escenarios:
 
 1. ejecución clásica, empleando la matriz de adyacencia como entrada;
 2. ejecución con preprocesamiento, empleando la matriz obtenida al incorporar información de flujo.
 
-#### 3) Resultados
+#### 3) Scripts
+Contiene los códigos empleados para ejecutar los experimentos del capítulo.
 
-La carpeta de resultados contiene las particiones obtenidas para cada red, algoritmo y valor del parámetro `α`, junto con los valores de modularidad dirigida asociados.
+#### 4) Complejidad
+Contiene un archivo relacionado con el análisis de la complejidad computacional de la metodología.
 
-Los resultados permiten comparar:
+#### 5) Machine Learning
+Se incluyen un notebook y un archivo destinados a evaluar la capacidad de distintos modelos de aprendizaje automático para predecir cuándo la metodología de preprocesamiento produce una mejora en la modularidad dirigida.
 
-- la modularidad obtenida sin preprocesamiento;
-- la modularidad obtenida con la metodología basada en flujo;
-- la mejora o empeoramiento producido por la incorporación de la matriz preprocesada;
-- el comportamiento de la metodología para distintos valores de `α`.
-
-#### 4) Evaluación del parámetro α
-
-Se incluyen los experimentos realizados para analizar la influencia del parámetro `α`, que regula el peso relativo entre la información estructural de la red y la información procedente de la medida borrosa de flujo.
-
-#### 5) Complejidad computacional
-
-El capítulo contiene también los archivos empleados para analizar los tiempos de ejecución de los algoritmos con y sin preprocesamiento.
-
-#### 6) Técnicas de machine learning y deep learning
-
-Se incluyen notebooks destinados a evaluar la capacidad de distintos modelos para predecir cuándo la metodología de preprocesamiento produce una mejora en la modularidad dirigida.
-
-Los modelos considerados son:
-
-- **Regresión logística**
-- **Redes neuronales**
-- **Random Forest**
-- **XGBoost**
-- **CSEA**
-
-Estos modelos permiten estudiar la relación entre las características de las redes, el valor del parámetro `α` y la mejora obtenida en la función de calidad.
+#### 6) CSEA
+Contiene los archivos asociados al modelo CSEA, utilizado para complementar el análisis predictivo de la metodología propuesta.
 
  
 ### [CAPÍTULO 7](./CAP%C3%8DTULO%207/)
