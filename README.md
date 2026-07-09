@@ -184,14 +184,18 @@ Contiene el archivo que recoge la complejidad computacional del algoritmo *FCL*.
 
 
 ### [CAPÍTULO 6](./CAP%C3%8DTULO%206/)
-Este capítulo contiene los códigos, redes de referencia, matrices y resultados asociados a la metodología de preprocesamiento de matrices de entrada propuesta para mejorar el problema clásico de detección de comunidades en redes dirigidas.
+Este capítulo contiene los códigos, redes de referencia, matrices y resultados asociados a la metodología de preprocesamiento de matrices de entrada propuesta para mejorar el problema clásico de detección de comunidades en redes dirigidas. 
+
+Para ello, se propone el preprocesamiento:
+
+- *FMF* (*Fuzzy Matrix Flow*): preprocesamiento de matriz borrosa de flujo;
 
 #### 0) Ejemplo para el preprocesamiento
 Contiene un ejemplo ilustrativo del procedimiento seguido para construir la matriz preprocesada a partir de la matriz de adyacencia y de la matriz de interacción del flujo.
 #### 1) Conjunto de redes
 Contiene las redes utilizadas para evaluar la metodología propuesta, incluyendo las matrices necesarias para trabajar con las redes originales y con sus correspondientes versiones preprocesadas, considerando distintos valores del parámetro *α*. 
 #### 2) Resultados
-Contiene los resultados obtenidos al aplicar la metodología FMF, empleando diversos algoritmos de detección de comunidades.
+Contiene los resultados obtenidos al aplicar la metodología *FMF*, empleando diversos algoritmos de detección de comunidades.
 
 Los algoritmos se ejecutan comparando dos escenarios:
 
@@ -260,7 +264,7 @@ La carpeta `1) CASO REAL/` contiene los archivos correspondientes al análisis d
 ##### 1) Datos
 Contiene los datos empleados para construir las redes de movilidad del caso real.
 ##### 2) Resultados experimentales
-Contiene los resultados obtenidos al aplicar la metodología de preprocesamiento *FMF* sobre las redes de movilidad nacional y regional.
+Contiene los resultados obtenidos al aplicar la metodología de preprocesamiento ** sobre las redes de movilidad nacional y regional.
 ##### 3) Representaciones
 Contiene las representaciones gráficas de las particiones obtenidas en el caso real, utilizadas para visualizar e interpretar las comunidades detectadas.
 
