@@ -128,8 +128,7 @@ En este capítulo se incluyen los códigos empleados para el cálculo de la matr
  
 
 ### [CAPÍTULO 4](./CAP%C3%8DTULO%204/)
-Este capítulo contiene el conjunto de 4 redes analizadas y los resultados obtenidos empleando el nuevo algoritmo desarrollado en la tesis:  
-*Flow Capacity Louvain (FCL)*, implementado en *MATLAB*.
+Este capítulo contiene el conjunto de 4 redes analizadas y los resultados obtenidos empleando el nuevo algoritmo desarrollado en la tesis: *Flow Capacity Louvain (FCL)*, implementado en *MATLAB*.
 La estructura del capítulo es la siguiente:
 #### 1) Conjunto de matrices
 La carpeta `1) CONJUNTO DE MATRICES/` incluye las matrices de entrada para cada una de las cuatro redes estudiadas (`G_1`, `G_2`, `G_3`, `G_4`).
